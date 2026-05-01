@@ -15,7 +15,7 @@ async function calisanlisteload()
     }
     try
     {
-        const response = await fetch(`/calisanliste/server/calisanoku/${firmaid}`);
+        const response = await fetch(`/calisanliste/calisanoku/${firmaid}`);
         if (response.status === 401)
         {
             window.location.href = "/";
@@ -103,7 +103,6 @@ function calisanlisteclick()
     });
 }
 
-
 function listeloadz1()
 {
     var json = jsoncevir($('#HiddenField1').val());
@@ -150,7 +149,7 @@ async function calisanlisteguncellez20(basariliMesaj)
     try
     {
         const json = jsoncevir($('#HiddenField1').val());
-        const response = await fetch(`/calisanliste/server/calisanguncelle/${firmaid}`,
+        const response = await fetch(`/calisanliste/calisanguncelle/${firmaid}`,
         {
             method: "PUT",
             headers: {
@@ -286,8 +285,6 @@ function jsonsilz4()
     }
 }
 
-////EXCEL VE PDF YAZDIRMA////EXCEL VE PDF YAZDIRMA////EXCEL VE PDF YAZDIRMA///EXCEL VE PDF YAZDIRMA///EXCEL VE PDF YAZDIRMA///
-
 async function calisanlisteexcelyazz6()
 {
     let dosyaid = metinuret(3);
@@ -365,8 +362,6 @@ function calisanlistepdfyazz7()
     };
     pdfMake.createPdf(dokuman).download('Çalışan Listesi - ' + dosyaid + '.pdf');
 }
-
-////YARDIMCI FONKSİYONLAR////YARDIMCI FONKSİYONLAR////YARDIMCI FONKSİYONLAR////YARDIMCI FONKSİYONLAR
 
 function firmaidbul()
 {
