@@ -74,7 +74,7 @@ async function yenidevamx3()
             return false;
         }
         firmajson.push(yeniFirma);
-        const response = await fetch("/isyeriyeni/isyeriguncelle",
+        const response = await fetch("/isyeriyeni/isyeriekle",
         {
             method: "PUT",
             headers: {
