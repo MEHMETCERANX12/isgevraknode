@@ -1,7 +1,8 @@
 ///LOAD///LOAD///LOAD///LOAD///LOAD///LOAD///LOAD///LOAD///
-async function gorevlendirmeriskloadx3()
+$(document).ready(async function ()
 {
     const firmaid = riskfirmaidbul();
+    let calisanjson = [];
     if (!firmaid)
     {
         mesajmetin("Geçerli işyeri seçilmedi");
@@ -10,31 +11,26 @@ async function gorevlendirmeriskloadx3()
     }
     try
     {
-        const response = await fetch(`/gorevlendirmerisk/server/calisanoku/${firmaid}`);
+        const response = await fetch(`/gorevlendirmerisk/calisanoku/${firmaid}`);
         if (response.status === 401)
         {
             window.location.href = "/";
             return;
         }
-        const data = await response.json();
+        calisanjson = await response.json();
         if (!response.ok)
         {
-            alertify.error(data.error || "Çalışan listesi alınamadı");
+            alertify.error(calisanjson.error || "Çalışan listesi alınamadı");
             return;
         }
-        $('#HiddenField1').val(JSON.stringify(Array.isArray(data) ? data : []));
-        gorevlendirmeriskanaliziekipload();
+        store.set("gorevlendirmerisk", calisanjson);
     }
     catch
     {
         alertify.error("Çalışan listesi alınamadı");
     }
-}
-
-function gorevlendirmeriskanaliziekipload()
-{
     const ekipliste = riskgorevlistesi();
-    let calisanjson = jsoncevir($('#HiddenField1').val());
+    calisanjson = jsoncevir(calisanjson);
     if (!Array.isArray(calisanjson))
     {
         calisanjson = [];
@@ -83,7 +79,7 @@ function gorevlendirmeriskanaliziekipload()
         {
             $(row).find("td").eq(0).css("text-align", "left");
             $(row).find("td").eq(1).css("text-align", "left");
-            $(row).find("td").eq(2).css("text-align", "center");
+            $(row).find("td").eq(2).css("text-align", "left");
         },
         headerCallback: function (thead)
         {
@@ -100,7 +96,7 @@ function gorevlendirmeriskanaliziekipload()
         $('#gorevselect').val(mevcutGorev);
         $('#dylgriskanaliziekip').fadeIn();
     });
-}
+});
 
 ///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///
 async function gorevlendirmeriskkaydetx6()
@@ -121,7 +117,7 @@ function gorevlendirmeriskanaliziekipguncelle()
         return false;
     }
     const yeniGorev = parseInt($('#gorevselect').val(), 10);
-    let calisanlar = jsoncevir($('#HiddenField1').val());
+    let calisanlar = jsoncevir(store.get("gorevlendirmerisk"));
     if (!Array.isArray(calisanlar))
     {
         calisanlar = [];
@@ -145,7 +141,7 @@ function gorevlendirmeriskanaliziekipguncelle()
         mesajmetin("Seçilen çalışan bulunamadı.");
         return false;
     }
-    $('#HiddenField1').val(JSON.stringify(calisanlar));
+    store.set("gorevlendirmerisk", JSON.stringify(calisanlar));
     const tablo = $('#tablo').DataTable();
     const rowIndex = tablo.rows().eq(0).filter(function (i)
     {
@@ -171,8 +167,8 @@ async function riskkaydet(basariliMesaj)
     }
     try
     {
-        const json = jsoncevir($('#HiddenField1').val());
-        const response = await fetch(`/gorevlendirmerisk/server/calisanguncelle/${firmaid}`,
+        const json = jsoncevir(store.get("gorevlendirmerisk"));
+        const response = await fetch(`/gorevlendirmerisk/calisanguncelle/${firmaid}`,
         {
             method: "PUT",
             headers:
@@ -204,7 +200,7 @@ async function riskkaydet(basariliMesaj)
 function gorevlendirmeriskanaliziekippdf()
 {
     const ekipliste = riskgorevlistesi();
-    let json = jsoncevir($('#HiddenField1').val());
+    let json = jsoncevir(store.get("gorevlendirmerisk"));
     if (!json || json.length === 0)
     {
         alertify.error("Görevli çalışan bulunamadı");
