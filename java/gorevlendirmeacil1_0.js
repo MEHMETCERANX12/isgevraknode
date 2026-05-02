@@ -1,7 +1,8 @@
 ///LOAD///LOAD///LOAD///LOAD///LOAD///LOAD///LOAD///LOAD///
-async function gorevlendirmeacilloadx1()
+$(document).ready(async function ()
 {
     const firmaid = firmaidbul();
+    let calisanjson = [];
     if (!firmaid)
     {
         mesajmetin("Geçerli işyeri seçilmedi");
@@ -16,24 +17,20 @@ async function gorevlendirmeacilloadx1()
             window.location.href = "/";
             return;
         }
-        const data = await response.json();
+        calisanjson = await response.json();
         if (!response.ok)
         {
             alertify.error(data.error || "Çalışan listesi alınamadı");
             return;
         }
-        $('#HiddenField1').val(JSON.stringify(Array.isArray(data) ? data : []));
+        store.set("gorevlendirmeacil", calisanjson);
     }
     catch
     {
         alertify.error("Çalışan listesi alınamadı");
     }
-}
-
-function gorevlendirmeacildurumload()
-{
     const ekipliste = acilidurumlistesi();
-    let calisanjson = jsoncevir($('#HiddenField1').val());
+    calisanjson = jsoncevir(calisanjson);
     if (!Array.isArray(calisanjson))
     {
         calisanjson = [];
@@ -99,7 +96,7 @@ function gorevlendirmeacildurumload()
         $('#gorevselect').val(mevcutGorev);
         $('#dylgacildurum').fadeIn();
     });
-}
+});
 ///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///
 async function gorevlendirmeacilkaydetx4()
 {
@@ -119,7 +116,7 @@ function grvacilguncellekontrol()
         return false;
     }
     const yeniGorev = parseInt($('#gorevselect').val(), 10);
-    let calisanlar = jsoncevir($('#HiddenField1').val());
+    let calisanlar = jsoncevir(store.get("gorevlendirmeacil"));
     if (!Array.isArray(calisanlar))
     {
         calisanlar = [];
@@ -134,7 +131,7 @@ function grvacilguncellekontrol()
         mesajmetin("Seçilen çalışan bulunamadı.");
         return false;
     }
-    $('#HiddenField1').val(JSON.stringify(calisanlar));
+    store.set("gorevlendirmeacil", JSON.stringify(calisanlar));
     const tablo = $('#tablo').DataTable();
     const rowIndex = tablo.rows().eq(0).filter(function (i)
     {
@@ -160,7 +157,7 @@ async function grvacilkaydet(basariliMesaj)
     }
     try
     {
-        const json = jsoncevir($('#HiddenField1').val());
+        const json = jsoncevir(store.get("gorevlendirmeacil"));
         const response = await fetch(`/gorevlendirmeacil/calisanguncelle/${firmaid}`,
         {
             method: "PUT",
@@ -192,7 +189,7 @@ async function grvacilkaydet(basariliMesaj)
 function gorevlendirmeacildurumpdf()
 {
     const ekipliste = acilidurumlistesi();
-    let json = jsoncevir($('#HiddenField1').val());
+    let json = jsoncevir(store.get("gorevlendirmeacil"));
     if (!json || json.length === 0)
     {
         alertify.error("Görevli çalışan bulunamadı");
