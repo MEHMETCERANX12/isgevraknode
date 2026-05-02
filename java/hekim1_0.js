@@ -1,6 +1,6 @@
 $(document).ready(function ()
 { 
-    fetch("/hekim/oku").then(response =>
+    fetch('/hekim/oku').then(response =>
     {
         if (!response.ok) throw new Error("Hekim listesi alınamadı");
         return response.json();
@@ -79,7 +79,7 @@ async function hekimtanimkaydet(kisiListesi, firmaListesi, mesajKodu)
 {
     try
     {
-        const kisiResponse = await fetch("/hekim/guncelle",
+        const kisiResponse = await fetch('/hekim/guncelle',
         {
             method: "PUT",
             headers: { "Content-Type": "application/json" },
@@ -89,7 +89,7 @@ async function hekimtanimkaydet(kisiListesi, firmaListesi, mesajKodu)
         const firmaDizisi = Array.isArray(firmaListesi) ? firmaListesi : null;
         if (firmaDizisi)
         {
-            const firmaResponse = await fetch("/hekim/isyeri",
+            const firmaResponse = await fetch('/hekim/isyeri',
             {
                 method: "PUT",
                 headers: { "Content-Type": "application/json" },
