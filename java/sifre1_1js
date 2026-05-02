@@ -67,7 +67,7 @@ async function sifredegistirmedogrulama()
             return false;
         }
         mesajmetin("Şifre Başarı İle Değiştirildi");
-        $("#eskisifre, #yenisifre, #tekrarsifre).val("");
+        $("#eskisifre, #yenisifre, #tekrarsifre").val("");
     }
     catch (err)
     {
