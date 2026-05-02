@@ -10,7 +10,7 @@ async function gorevlendirmeacilloadx1()
     }
     try
     {
-        const response = await fetch(`/gorevlendirmeacil/server/calisanoku/${firmaid}`);
+        const response = await fetch(`/gorevlendirmeacil/calisanoku/${firmaid}`);
         if (response.status === 401)
         {
             window.location.href = "/";
@@ -162,7 +162,7 @@ async function grvacilkaydet(basariliMesaj)
     try
     {
         const json = jsoncevir($('#HiddenField1').val());
-        const response = await fetch(`/gorevlendirmeacil/server/calisanguncelle/${firmaid}`,
+        const response = await fetch(`/gorevlendirmeacil/calisanguncelle/${firmaid}`,
         {
             method: "PUT",
             headers:
