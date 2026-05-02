@@ -34,8 +34,6 @@ async function sifredegistirmedogrulama()
         mesajmetin("Şifreniz en az 8 karakter olmalı, büyük/küçük harf, rakam ve sembol içermeli ve en az bir sembolden oluşmalıdır. Türkçe karakter kullanmayınız.");
         return false;
     }
-    $('#HiddenField1').val(eski);
-    $('#HiddenField2').val(yeni);
     try
     {
         const response = await fetch('/sifre/guncelle',
@@ -69,7 +67,7 @@ async function sifredegistirmedogrulama()
             return false;
         }
         mesajmetin("Şifre Başarı İle Değiştirildi");
-        $("#eskisifre, #yenisifre, #tekrarsifre, #HiddenField1, #HiddenField2").val("");
+        $("#eskisifre, #yenisifre, #tekrarsifre).val("");
     }
     catch (err)
     {
