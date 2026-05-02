@@ -1,6 +1,6 @@
 $(document).ready(function ()
 { 
-    fetch('/hekim/oku').then(response =>
+    fetch("/hekim/oku").then(response =>
     {
         if (!response.ok) throw new Error("Hekim listesi alınamadı");
         return response.json();
