@@ -1,7 +1,8 @@
 ///LOAD///LOAD///LOAD///LOAD///LOAD///LOAD///LOAD///LOAD///
-async function gorevlendirmetemsilciloadx2()
+$(document).ready(async function ()
 {
     const firmaid = temsilcifirmaidbul();
+    let calisanjson = [];
     if (!firmaid)
     {
         mesajmetin("Geçerli işyeri seçilmedi");
@@ -10,31 +11,26 @@ async function gorevlendirmetemsilciloadx2()
     }
     try
     {
-        const response = await fetch(`/gorevlendirmetemsilci/server/calisanoku/${firmaid}`);
+        const response = await fetch(`/gorevlendirmetemsilci/calisanoku/${firmaid}`);
         if (response.status === 401)
         {
             window.location.href = "/";
             return;
         }
-        const data = await response.json();
+        calisanjson = await response.json();
         if (!response.ok)
         {
-            alertify.error(data.error || "Çalışan listesi alınamadı");
+            alertify.error(calisanjson.error || "Çalışan listesi alınamadı");
             return;
         }
-        $('#HiddenField1').val(JSON.stringify(Array.isArray(data) ? data : []));
-        gorevlendirmecalisanload();
+        store.set("gorevlendirmetemsilci", calisanjson);
     }
     catch
     {
         alertify.error("Çalışan listesi alınamadı");
     }
-}
-
-function gorevlendirmecalisanload()
-{
     const ekipliste = temsilcilistesi();
-    let calisanjson = jsoncevir($('#HiddenField1').val());
+    calisanjson = jsoncevir(calisanjson);
     if (!Array.isArray(calisanjson))
     {
         calisanjson = [];
@@ -83,7 +79,7 @@ function gorevlendirmecalisanload()
         {
             $(row).find("td").eq(0).css("text-align", "left");
             $(row).find("td").eq(1).css("text-align", "left");
-            $(row).find("td").eq(2).css("text-align", "center");
+            $(row).find("td").eq(2).css("text-align", "left");
         },
         headerCallback: function (thead)
         {
@@ -100,7 +96,7 @@ function gorevlendirmecalisanload()
         $('#gorevselect').val(mevcutGorev);
         $('#dylgcalisantemsilcisi').fadeIn();
     });
-}
+});
 
 ///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///KAYDET///
 async function gorevlendirmetemsilcikaydetx5()
@@ -121,7 +117,7 @@ function gorevlendirmetemsilciguncelle()
         return false;
     }
     const yeniGorev = parseInt($('#gorevselect').val(), 10);
-    let calisanlar = jsoncevir($('#HiddenField1').val());
+    let calisanlar = jsoncevir(store.get("gorevlendirmetemsilci"));
     if (!Array.isArray(calisanlar))
     {
         calisanlar = [];
@@ -136,7 +132,7 @@ function gorevlendirmetemsilciguncelle()
         mesajmetin("Seçilen çalışan bulunamadı.");
         return false;
     }
-    $('#HiddenField1').val(JSON.stringify(calisanlar));
+    store.set("gorevlendirmetemsilci", JSON.stringify(calisanlar));
     const tablo = $('#tablo').DataTable();
     const rowIndex = tablo.rows().eq(0).filter(function (i)
     {
@@ -162,8 +158,8 @@ async function temsilcikaydet(basariliMesaj)
     }
     try
     {
-        const json = jsoncevir($('#HiddenField1').val());
-        const response = await fetch(`/gorevlendirmetemsilci/server/calisanguncelle/${firmaid}`,
+        const json = jsoncevir(store.get("gorevlendirmetemsilci"));
+        const response = await fetch(`/gorevlendirmetemsilci/calisanguncelle/${firmaid}`,
         {
             method: "PUT",
             headers:
@@ -195,7 +191,7 @@ async function temsilcikaydet(basariliMesaj)
 function gorevlendirmetemsilcipdf()
 {
     const ekipliste = temsilcilistesi();
-    let json = jsoncevir($('#HiddenField1').val());
+    let json = jsoncevir(store.get("gorevlendirmetemsilci"));
     if (!json || json.length === 0)
     {
         alertify.error("Görevli çalışan bulunamadı");
