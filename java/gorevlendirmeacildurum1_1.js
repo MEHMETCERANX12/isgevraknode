@@ -23,7 +23,6 @@ async function gorevlendirmeacilloadx1()
             return;
         }
         $('#HiddenField1').val(JSON.stringify(Array.isArray(data) ? data : []));
-        gorevlendirmeacildurumload();
     }
     catch
     {
