@@ -52,24 +52,22 @@ function temelisgyeni2devamt5()
             return false;
         }
         var calisansecim = dokumancalisansecim();
-        if (calisansecim.length === 0)
-        {
-            alertify.error('Lütfen en az bir çalışan seçiniz');
-            return false;
-        }
         var egitimtarihi = store.get('isgegitimkayittarih') || '';
-        var calisanjson =  jsoncevir(store.get('calisanjson'));
-        calisansecim.forEach(function (secili)
+        var calisanjson = jsoncevir(store.get('calisanjson'));
+        if (calisansecim.length > 0)
         {
-            calisanjson.forEach(function (item)
+            calisansecim.forEach(function (secili)
             {
-                if (item.x === secili.a && item.y === secili.u)
+                calisanjson.forEach(function (item)
                 {
-                    item.e = egitimtarihi;
-                }
+                    if (item.x === secili.a && item.y === secili.u)
+                    {
+                        item.e = egitimtarihi;
+                    }
+                });
             });
-        });
-        store.set('calisanjson', calisanjson);        
+            store.set('calisanjson', calisanjson);
+        }
         store.set("calisansecim", JSON.stringify(calisansecim));
         store.set('dosyaciktitipi', '11');
         return true;
@@ -91,27 +89,35 @@ async function temelisgyeni2tamam()
     if (!/^[a-z0-9]{10}$/.test(firmaid))
     {
         mesajmetin('Geçersiz işyeri seçimi.');
-        return;
-    }  
-    let calisanjson = jsoncevir(store.get('calisanjson'));
-    try
+        return false;
+    }
+    var calisansecim = jsoncevir(store.get('calisansecim'));
+    if (calisansecim.length > 0)
     {
-        var response = await fetch('/temelisgyeni2/calisanguncelle/' + encodeURIComponent(firmaid),
+        let calisanjson = jsoncevir(store.get('calisanjson'));
+        try
         {
-            method: 'PUT',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(calisanjson)
-        });
-        if (!response.ok)
-        {
-            throw new Error('Çalışan listesi güncellenemedi.');
+            var response = await fetch(
+                '/temelisgyeni2/calisanguncelle/' + encodeURIComponent(firmaid),
+                {
+                    method: 'PUT',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(calisanjson)
+                }
+            );
+
+            if (!response.ok)
+            {
+                throw new Error('Çalışan listesi güncellenemedi.');
+            }
         }
-        window.location.href = '/dosyacikti';
+        catch (err)
+        {
+            console.error('temelisgyeni2 güncelle hata', err);
+            mesaj('9');
+            return false;
+        }
     }
-    catch (err)
-    {
-        console.error('temelisgyeni2 güncelle hata', err);
-        mesaj('9');
-    }
+    window.location.href = '/dosyacikti';
     return false;
 }
