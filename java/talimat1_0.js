@@ -43,21 +43,15 @@ function talimatduzenle1load(talimatjson)
     });
 }
 
-function talimatduzenle1sil()
+async function talimatduzenle1sil()
 {
-    let secimid = parseInt(store.get("talimatduzenle1silid"), 10);
-    if (isNaN(secimid) || secimid <= 0)
+    const secimid = parseInt(String(store.get("talimatduzenle1silid") || ""), 10);
+    if (!Number.isInteger(secimid) || secimid <= 0)
     {
         alertify.error("Beklenmedik bir hata oluştu");
         return false;
     }
-    let json = jsoncevir(store.get("talimatjson"));
-    if (!Array.isArray(json))
-    {
-        alertify.error("Veri bulunamadı");
-        return false;
-    }
-    return isgtalimatsilsql(secimid, json);
+    return isgtalimatsilsql(secimid, store.get("talimatjson"));
 }
 
 function talimatApiIstek(url, secenekler)
