@@ -393,6 +393,7 @@ function tumunukaldir()
 function kkdzimmetcikti3load(kkdjson)
 {
     kkdjson = Array.isArray(kkdjson) ? kkdjson : [];
+    kkdjson.sort((a, b) => (a.ad || "").localeCompare(b.ad || "", "tr", { sensitivity: "base" }));  
     store.set("jsonkkdliste", kkdjson);
     const select = $('#kkddrop');
     select.empty();
