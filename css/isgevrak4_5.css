@@ -243,3 +243,18 @@ table.dataTable input.dt-select-checkbox:indeterminate:after{content:"";position
 .csstamamyazi{display:none; background-color:teal; color:white; font-weight:bold; text-align:center; padding-right: 1vw; padding-left: 1vw; line-height: 1.8vw;}
 #tehlikesecim{display:flex;align-items:center;gap:1vw;font-weight:bold;font-size:1vw}
 .onerivetedbir{display:flex;align-items:center;gap:1vw;font-weight:bold;font-size:1vw}
+.sinav-sablon-kapsayici{font-family:'Inter', Calibri, 'Segoe UI', Arial, sans-serif;}
+.sinav-sablon-grid{display:grid;grid-template-columns:1fr 1fr;gap:1vw;align-items:start;}
+.sinav-sablon-kolon{border:0.1vw solid #d6d6d6;border-radius:0.4vw;overflow:hidden;background:#fafafa;}
+.sinav-sablon-kolonbaslik{display:flex;align-items:center;justify-content:space-between;gap:1vw;background:#5d6d7e;color:#ffffff;padding:0.7vw 1vw;font-weight:bold;}
+.sinav-sablon-sayac{font-weight:normal;background:#ffffff;color:#333333;border-radius:0.3vw;padding:0.2vw 0.5vw;white-space:nowrap;}
+.sinav-sablon-liste{padding:0.7vw;display:grid;gap:0.7vw;}
+.sinav-sablon-soru{display:grid;grid-template-columns:1.4vw 1fr;gap:0.7vw;align-items:start;background:#ffffff;border:0.1vw solid #dddddd;border-radius:0.35vw;padding:0.75vw;cursor:pointer;}
+.sinav-sablon-soru:hover{border-color:#cb4335;box-shadow:0 0.15vw 0.45vw rgba(0,0,0,0.12);}
+.sinav-sablon-secim{width:1vw;height:1vw;margin-top:0.2vw;}
+.sinav-sablon-soru-ust{display:flex;gap:0.5vw;align-items:center;flex-wrap:wrap;margin-bottom:0.35vw;}
+.sinav-sablon-id{background:#f2f3f4;border:0.1vw solid #d7dbdd;border-radius:0.25vw;padding:0.1vw 0.35vw;font-weight:bold;}
+.sinav-sablon-konu{color:#7b241c;font-weight:bold;}
+.sinav-sablon-soru-metin{font-weight:bold;line-height:1.25;margin-bottom:0.35vw;}
+.sinav-sablon-secenekler{display:grid;gap:0.2vw;color:#333333;line-height:1.2;}
+@media (max-width:900px){.sinav-sablon-grid{grid-template-columns:1fr;}.sinav-sablon-soru{grid-template-columns:24px 1fr;}.sinav-sablon-secim{width:18px;height:18px;}}
