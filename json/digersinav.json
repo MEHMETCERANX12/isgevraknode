@@ -180,6 +180,26 @@
         "y": false
       }
     ]
-  }
+  },
+  {
+    "id": 10,
+    "k": 3,
+    "b": "Kimyasal risk etmenleri",
+    "s": "Kimyasal maddelerin kullanıldığı alanda yemek yenmesi veya sigara içilmesi hangi temel riski doğurur?",
+    "c": [
+      {
+        "x": "Kimyasalların sindirim (ağız) yoluyla vücuda alınarak zehirlenmeye yol açma riskini.",
+        "y": true
+      },
+      {
+        "x": "Kimyasal maddelerin kokusunun ve tadının değişmesi riskini.",
+        "y": false
+      },
+      {
+        "x": "Çalışma alanının kirlenmesi ve düzeninin bozulması riskini.",
+        "y": false
+      }
+    ]
+  },
 ]
 }
