@@ -1,0 +1,404 @@
+{
+  "sinav":[
+    {
+      "id": 1,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Kimyasal maddelerle güvenli çalışma konusunda aşağıdakilerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Kimyasal maddeler uygun şekilde etiketlenmeli ve güvenli, kapalı alanlarda saklanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Kimyasal maddeler çalışma alanında açık ve kolay ulaşılabilir şekilde bırakılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Kimyasallarla çalışırken eldiven ve maske gibi koruyucu ekipmanlar kullanılmasa da olur.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Çalışma ortamında karşılaşabileceğiniz tehlikeli kimyasal maddelerle ilgili hangi önlem en doğru yaklaşımdır?",
+      "c": [
+        {
+          "x": "Çalışmadan önce malzeme güvenlik bilgi formunu okunmalı ve uygun kişisel koruyucu donanım kullanılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Kimyasal maddeler, havalandırılmayan veya kapalı bir ortamda güvenli şekilde kullanılabilir.",
+          "y": false
+        },
+        {
+          "x": "Kimyasal maddeleri karıştırmak veya birleştirmek her zaman güvenlidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Kimyasal maddelerin üzerinde yer alan tehlike piktogramları ve işaretleri ne amaçla kullanılır?",
+      "c": [
+        {
+          "x": "Kimyasalın taşıdığı riskleri hızlıca anlamamızı ve gerekli önlemleri almamızı sağlamak için.",
+          "y": true
+        },
+        {
+          "x": "Kimysal maddenin ticari değerini ve markasını belirtmek için.",
+          "y": false
+        },
+        {
+          "x": "Kimyasal maddenin kullanım amacını belirlemek için",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Vücudunuza veya gözünüze tehlikeli bir kimyasal madde sıçraması durumunda ilk olarak ne yapılmalıdır?",
+      "c": [
+        {
+          "x": "Etkilenen bölge derhal bol ve temiz suyla yıkanmalı ve tıbbi yardım istenmelidir.",
+          "y": true
+        },
+        {
+          "x": "Kimyasalın kuruması beklenmeli ve ardından bezle silinmelidir.",
+          "y": false
+        },
+        {
+          "x": "Tedavi etmek amacıyla ilaçla müdahale etmeleyiz.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Kimyasal atıkların iş yerinde bertaraf edilmesiyle ilgili hangi uygulama doğrudur?",
+      "c": [
+        {
+          "x": "Kimyasal atıklar türüne göre etiketlenmiş özel atık alanların da biriktirilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Sıvı kimyasal atıklar doğrudan lavaboya veya kanalizasyona dökülebilir.",
+          "y": false
+        },
+        {
+          "x": "Boş kimyasal kaplar tehlikeli değildir ve her yere istiflenebilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Kimyasal maddelerin depolandığı alanlarda havalandırma sisteminin bulunması neden zorunludur?",
+      "c": [
+        {
+          "x": "Ortamda birikebilecek zararlı gaz ve buharın uzaklaştırılarak soluma yoluyla zehirlenmeleri önlemek için.",
+          "y": true
+        },
+        {
+          "x": "Depolama alanının sürekli soğuk ve serin kalmasını sağlamak için.",
+          "y": false
+        },
+        {
+          "x": "Kimyasal maddelerin bozulamaması ve işlevsel olarak kalması için",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Kullanılmakta olan bir kimyasal maddenin başka bir kaba (bölme/aktarma işlemi) bölünmesi gerektiğinde hangisi yapılmalıdır?",
+      "c": [
+        {
+          "x": "Yeni kabın üzerine orijinal etiketteki tehlike uyarıları ve kimyasalın adı mutlaka yazılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Herkes ne olduğunu bildiği için kabın üzerine herhangi bir şey yazmaya gerek yoktur.",
+          "y": false
+        },
+        {
+          "x": "Eski bir içecek şişesi temizlenerek doğrudan aktarma kabı olarak kullanılabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Tehlikeli kimyasal madde içeren kaplarla ilgili aşağıdakilerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Kaplar üzerindeki etiketler asla çıkarılmamalı veya silinmemelidir.",
+          "y": true
+        },
+        {
+          "x": "Kimyasal boşaldıktan sonra kap etiketsiz olarak başka amaçla kullanılabilir.",
+          "y": false
+        },
+        {
+          "x": "Etiketi silinmiş veya okunaksız hale gelmiş kaplar olduğu gibi kullanılmaya devam edilebilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Kimyasal maddelerin depolanması ile ilgili hangi uygulama doğrudur?",
+      "c": [
+        {
+          "x": "Birbiriyle tepkimeye girebilecek kimyasallar ayrı ve uygun alanlarda depolanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Tüm kimyasallar tepkimeye girme riskine bakılmaksızın aynı dolapta saklanabilir.",
+          "y": false
+        },
+        {
+          "x": "Kimyasallar ısı kaynaklarının yakınında sorunsuz şekilde depolanabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "k": 3,
+      "b": "Kimyasal risk etmenleri",
+      "s": "Kimyasal maddelerin kullanıldığı alanda yemek yenmesi veya sigara içilmesi hangi temel riski doğurur?",
+      "c": [
+        {
+          "x": "Kimyasalların sindirim (ağız) yoluyla vücuda alınarak zehirlenmeye yol açma riskini.",
+          "y": true
+        },
+        {
+          "x": "Kimyasal maddelerin kokusunun ve tadının değişmesi riskini.",
+          "y": false
+        },
+        {
+          "x": "Çalışma alanının kirlenmesi ve düzeninin bozulması riskini.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "k": 3,
+      "b": "Gürültü risk etmenleri",
+      "s": "Gürültülü ortamlarda çalışırken kulak koruyucu donanımların kullanımı ile ilgili hangi uygulama en doğrudur?",
+      "c": [
+        {
+          "x": "Gürültülü alana girilmeden önce takılmalı ve bu alanda bulunulduğu sürece kesintisiz olarak kullanılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Sadece gürültü seviyesi çok rahatsız edici hissettirdiğinde kısa süreliğine takılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Arkadaşlarla konuşurken veya talimat alırken kulaklık tamamen çıkarılmalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "k": 3,
+      "b": "Gürültü risk etmenleri",
+      "s": "İş yerinde yüksek gürültüye uzun süre maruz kalmanın işitme kaybı dışındaki diğer olumsuz sağlık etkileri aşağıdakilerden hangisidir?",
+      "c": [
+        {
+          "x": "Kan basıncının yükselmesi (tansiyon), stres, uyku bozuklukları ve dikkat dağınıklığı.",
+          "y": true
+        },
+        {
+          "x": "Göz bozuklukları ve görme netliğinin azalması.",
+          "y": false
+        },
+        {
+          "x": "Kemik ve kas yapısında kalıcı erimeler.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "k": 3,
+      "b": "Gürültü risk etmenleri",
+      "s": "Yüksek gürültülü bir çalışma ortamında kulak tıkacı veya kulaklığın düzenli ve doğru takılmaması ne tür bir işitme kaybına yol açar?",
+      "c": [
+        {
+          "x": "Yavaş gelişen, genellikle fark edilmeyen ve geri dönüşü olmayan kalıcı işitme kaybına.",
+          "y": true
+        },
+        {
+          "x": "İşten çıktıktan birkaç saat sonra tamamen düzelen geçici bir duyma azalmasına.",
+          "y": false
+        },
+        {
+          "x": "Sadece kulak zarında geçici bir kaşıntı ve ağrıya.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "k": 4,
+      "b": "Gürültü",
+      "s": "Gürültüye bağlı işitme kaybının erken tespiti için hangi uygulama doğrudur?",
+      "c": [
+        {
+          "x": "Gürültülü ortamlarda çalışanlara periyodik olarak odyometri (işitme) testi yapılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "İşitme testleri sadece işitme kaybı belirtisi ortaya çıktıktan sonra yapılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Gürültülü ortamda çalışanlar için işitme testine gerek yoktur.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "k": 3,
+      "b": "Gürültü risk etmenleri",
+      "s": "Kulak koruyucunun kısa süreliğine çıkarılmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Gürültülü ortamda kısa süreli çıkarılması bile toplam gürültü maruziyetini ve işitme hasarı riskini artırabilir.",
+          "y": true
+        },
+        {
+          "x": "Kulak koruyucunun birkaç dakika çıkarılması koruma seviyesini etkilemez.",
+          "y": false
+        },
+        {
+          "x": "Kulak koruyucu yalnızca çalışma gününün ilk saatinde kullanılmalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "k": 4,
+      "b": "Gürültü",
+      "s": "Gürültülü bir makinede bakım yapılmasının temel amaçlarından biri aşağıdakilerden hangisidir?",
+      "c": [
+        {
+          "x": "Aşınmış veya gevşemiş parçaların oluşturduğu gereksiz gürültüyü azaltmak.",
+          "y": true
+        },
+        {
+          "x": "Makinenin daha fazla titreşim oluşturmasını sağlamak.",
+          "y": false
+        },
+        {
+          "x": "Makinenin koruyucu kapaklarını tamamen çıkarmak.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "k": 4,
+      "b": "Gürültü",
+      "s": "Gürültülü alanların uyarı levhalarıyla işaretlenmesinin amacı nedir?",
+      "c": [
+        {
+          "x": "Çalışanları gürültü tehlikesi ve kulak koruyucu kullanma gerekliliği konusunda uyarmak.",
+          "y": true
+        },
+        {
+          "x": "Çalışanların bu alanlarda daha hızlı hareket etmesini sağlamak.",
+          "y": false
+        },
+        {
+          "x": "Gürültülü alanlarda kulak koruyucu kullanımını isteğe bağlı hâle getirmek.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "k": 3,
+      "b": "Gürültü risk etmenleri",
+      "s": "Gürültüye bağlı işitme kaybının belirtilerinden biri aşağıdakilerden hangisi olabilir?",
+      "c": [
+        {
+          "x": "Konuşmaları anlamakta zorlanma, kulak çınlaması veya televizyonun sesini sürekli yükseltme ihtiyacı.",
+          "y": true
+        },
+        {
+          "x": "Saç ve sakalın normalden daha hızlı uzaması.",
+          "y": false
+        },
+        {
+          "x": "Burun veya boğazda ağrı oluşması.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "k": 4,
+      "b": "Gürültü",
+      "s": "Gürültülü ve gürültüsüz çalışma alanlarının birbirinden ayrılması hangi tür önleme örnektir?",
+      "c": [
+        {
+          "x": "Gürültünün çalışanlara ulaşmasını azaltmaya yönelik toplu korunma önlemidir.",
+          "y": true
+        },
+        {
+          "x": "Çalışanların kişisel tercihlerine bırakılan bir uygulamadır.",
+          "y": false
+        },
+        {
+          "x": "Yalnızca iş yerinin görünümünü düzenlemeye yönelik bir uygulamadır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "k": 3,
+      "b": "Gürültü risk etmenleri",
+      "s": "Kulak koruyucunun etkili olabilmesi için aşağıdakilerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Kulakları tamamen kapatmalı ve baş bandı uygun şekilde ayarlanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Tıkaç tipi kulaklık, kulak çevresini kapatan kulaklıklardan daha iyi kulakları korur.",
+          "y": false
+        },
+        {
+          "x": "Kulak koruyucu, kulağa tam oturmasa bile etkili bir koruma sağlar.",
+          "y": false
+        }
+      ]
+    }
+  ]
+}
