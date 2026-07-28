@@ -1,5 +1,5 @@
 {
-  "sinav":[
+  "sinav": [
     {
       "id": 1,
       "k": 3,
@@ -396,6 +396,206 @@
         },
         {
           "x": "Kulak koruyucu, kulağa tam oturmasa bile etkili bir koruma sağlar.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Yangın sırasında yoğun duman bulunan bir ortamda nasıl hareket edilmelidir?",
+      "c": [
+        {
+          "x": "Ayağa kalkılarak hızlıca koşulmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Yere yakın ve eğilerek ilerlenmelidir.",
+          "y": true
+        },
+        {
+          "x": "Pencereler açılmadan beklenmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Bir kişinin kıyafetleri tutuştuğunda aşağıdakilerden hangisi uygulanmalıdır?",
+      "c": [
+        {
+          "x": "Koşması sağlanmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Dur, yat ve yuvarlan yöntemi uygulanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Asansöre yönlendirilmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Yangının meydana gelebilmesi için aşağıdakilerden hangisinin bir arada bulunması gerekir?",
+      "c": [
+        {
+          "x": "Yanıcı madde, oksijen ve ısı",
+          "y": true
+        },
+        {
+          "x": "Su, oksijen ve duman",
+          "y": false
+        },
+        {
+          "x": "Isı, su ve karbondioksit",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Yangın söndürme tüpü kullanılmadan önce ilk olarak ne yapılmalıdır?",
+      "c": [
+        {
+          "x": "Yangın söndürme tüpünün emniyet pimi çekilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Yangın söndürme tüpü yere yatırılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Yangın söndürme tüpünün hortumu sökülmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Yangın söndürme cihazı kullanılırken söndürücü madde nereye yönlendirilmelidir?",
+      "c": [
+        {
+          "x": "Söndürücü madde tavana doğru sıkılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Yangının kaynağına ve alevlerin dibine sıkılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Yanmayan kısma doğru sıkılmalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Yangın sırasında binadan tahliye olurken aşağıdakilerden hangisi yapılmalıdır?",
+      "c": [
+        {
+          "x": "Asansör kullanılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Belirlenmiş kaçış yolları takip edilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Kişisel eşyalar toplandıktan sonra çıkılmalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Acil çıkış kapılarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Kilitli tutulmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Önlerine malzeme konulabilir.",
+          "y": false
+        },
+        {
+          "x": "Kolayca açılabilir ve ulaşılabilir olmalıdır.",
+          "y": true
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Tahliye sonrasında çalışanların gitmesi gereken yer neresidir?",
+      "c": [
+        {
+          "x": "Toplanma yeri",
+          "y": true
+        },
+        {
+          "x": "Otopark",
+          "y": false
+        },
+        {
+          "x": "Yemekhane",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Türkiye’de yangın ve diğer acil durumlarda aranması gereken numara hangisidir?",
+      "c": [
+        {
+          "x": "110",
+          "y": false
+        },
+        {
+          "x": "112",
+          "y": true
+        },
+        {
+          "x": "155",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "k": 3,
+      "b": "Yangın",
+      "s": "Acil durum bildirimi yapılırken aşağıdaki bilgilerden hangisi verilmelidir?",
+      "c": [
+        {
+          "x": "Olayın yeri, türü ve varsa yaralı sayısı",
+          "y": true
+        },
+        {
+          "x": "Yalnızca arayan kişinin adı",
+          "y": false
+        },
+        {
+          "x": "İşyerindeki toplam çalışan sayısı",
           "y": false
         }
       ]
