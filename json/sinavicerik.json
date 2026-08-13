@@ -906,10 +906,6 @@
       "s": "6331 sayılı Kanuna göre çalışan temsilcisinin temel görevi aşağıdakilerden hangisidir?",
       "c": [
         {
-          "x": "İşveren adına çalışanlara disiplin cezası vermek",
-          "y": false
-        },
-        {
           "x": "İş sağlığı ve güvenliği konularında çalışanları temsil etmek",
           "y": true
         },
@@ -930,15 +926,11 @@
       "s": "Çalışan temsilcisi, işyerindeki bir tehlike kaynağının ortadan kaldırılması için aşağıdakilerden hangisini yapabilir?",
       "c": [
         {
-          "x": "İSG kurallarına uymayan çalışanlara doğrudan disiplin cezası uygulayabilir.",
-          "y": false
-        },
-        {
           "x": "İşverene öneride bulunabilir ve gerekli önlemlerin alınmasını talep edebilir.",
           "y": true
         },
         {
-          "x": "İşverenin onayı olmadan yeni çalışma kuralları belirleyip uygulamaya koyabilir.",
+          "x": "İSG kurallarına uymayan çalışanlara doğrudan disiplin cezası uygulayabilir.",
           "y": false
         },
         {
@@ -951,22 +943,18 @@
       "id": 203,
       "k": 1,
       "b": "Çalışan Temsilcisi",
-      "s": "Çalışan temsilcisi, görevini yerine getirmesi nedeniyle aşağıdakilerden hangisine maruz bırakılamaz?",
+      "s": "Çalışan temsilcisine, temsilcilik görevini yürütmesi nedeniyle aşağıdaki işlemlerden hangisi uygulanaması doğru değildir?",
       "c": [
         {
-          "x": "Ücret ve diğer özlük haklarının kısıtlanmasına",
+          "x": "Ücretinin veya diğer özlük haklarının azaltılması",
           "y": true
         },
         {
-          "x": "İş sağlığı ve güvenliği eğitimine katılmaya",
+          "x": "İş sağlığı ve güvenliği eğitimlerine katılmasının sağlanması",
           "y": false
         },
         {
-          "x": "Çalışanların görüşlerini işverene bildirmeye",
-          "y": false
-        },
-        {
-          "x": "Risklerin önlenmesine yönelik öneri sunmaya",
+          "x": "İş sağlığı ve güvenliğiyle ilgili görüş ve önerilerinin alınması",
           "y": false
         }
       ]
@@ -978,15 +966,11 @@
       "s": "Çalışan temsilcisinin görevini yerine getirebilmesi için gerekli imkânları sağlamak kimin sorumluluğundadır?",
       "c": [
         {
-          "x": "Diğer çalışanların",
-          "y": false
-        },
-        {
           "x": "İşverenin",
           "y": true
         },
         {
-          "x": "Sendikanın",
+          "x": "Diğer çalışanların",
           "y": false
         },
         {
@@ -1002,16 +986,12 @@
       "s": "Çalışan temsilcisi görevi sırasında öğrendiği mesleki sırlar ve çalışanlara ait özel bilgiler konusunda nasıl davranmalıdır?",
       "c": [
         {
-          "x": "Bilgileri bütün çalışanlarla paylaşmalıdır.",
-          "y": false
+          "x": "Bilgileri gizli tutmalıdır.",
+          "y": true
         },
         {
           "x": "Bilgileri sosyal medyada yayımlayabilir.",
           "y": false
-        },
-        {
-          "x": "Bilgileri gizli tutmalıdır.",
-          "y": true
         },
         {
           "x": "Bilgileri yalnızca çalışan yakınlarına açıklayabilir.",
@@ -1026,15 +1006,11 @@
       "s": "Çalışan temsilcisinin risk değerlendirmesi çalışmalarındaki temel rolü aşağıdakilerden hangisidir?",
       "c": [
         {
-          "x": "Risk değerlendirmesini tek başına onaylamak",
-          "y": false
-        },
-        {
           "x": "İş sağlığı ve güvenliği ile ilgili çalışanların görüşlerini ve işyerine ilişkin gözlemlerini ekibe aktarmak",
           "y": true
         },
         {
-          "x": "Çalışanların performans değerlendirmesini yapmak",
+          "x": "Risk değerlendirmesini tek başına onaylamak",
           "y": false
         },
         {
@@ -1050,15 +1026,11 @@
       "s": "Risk değerlendirmesi ekibinde yer alan çalışan temsilcisine gerekli bilgi, belge, araç ve zamanı sağlamak kimin sorumluluğundadır?",
       "c": [
         {
-          "x": "İşyeri hekiminin",
-          "y": false
-        },
-        {
           "x": "İşverenin",
           "y": true
         },
         {
-          "x": "Çalışan temsilcisinin",
+          "x": "İşyeri hekiminin",
           "y": false
         },
         {
@@ -1074,16 +1046,16 @@
       "s": "İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik'e göre, birden fazla çalışan temsilcisinin bulunduğu bir işyerinde İSG Kuruluna katılacak çalışan temsilcisi nasıl belirlenir?",
       "c": [
         {
+          "x": "Çalışan baştemsilcisi olarak seçilen kişi İSG kuruluna katılır.",
+          "y": true
+        },
+        {
           "x": "Çalışan temsilcileri içerisinden o gün işi en az yoğun olan kişi katılır.",
           "y": false
         },
         {
           "x": "Tüm çalışan temsilcileri eksiksiz olarak katılır.",
           "y": false
-        },
-        {
-          "x": "Çalışan baştemsilcisi olarak seçilen kişi İSG kuruluna katılır.",
-          "y": true
         }
       ]
     },
@@ -1114,16 +1086,16 @@
       "s": "Kişisel Koruyucu Donanımların İşyerlerinde Kullanılması Hakkında Yönetmelik'e göre, KKD seçiminde ve kullanılmasında çalışan temsilcilerinin rolü hakkında aşağıdakilerden hangisi doğrudur?",
       "c": [
         {
+          "x": "İşveren, KKD seçimi ve kullanımında çalışan temsilcilerinin görüşlerini almak ve katılımlarını sağlamakla yükümlüdür.",
+          "y": true
+        },
+        {
           "x": "KKD seçiminde sadece iş güvenliği uzmanı yetkilidir, çalışan temsilcisinin görüşü alınmaz.",
           "y": false
         },
         {
           "x": "Çalışan temsilcisi sadece kendisi için KKD talep etme hakkına sahiptir.",
           "y": false
-        },
-        {
-          "x": "İşveren, KKD seçimi ve kullanımında çalışan temsilcilerinin görüşlerini almak ve katılımlarını sağlamakla yükümlüdür.",
-          "y": true
         }
       ]
     },
