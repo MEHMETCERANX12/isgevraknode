@@ -1319,6 +1319,206 @@
           "y": false
         }
       ]
+    },
+    {
+      "id": 120,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "Yüksekte çalışmaya başlamadan önce aşağıdakilerden hangisi yapılmalıdır?",
+      "c": [
+        {
+          "x": "Çalışma alanındaki düşme riskleri değerlendirilmeli ve gerekli güvenlik önlemleri alınmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Çalışma kısa sürecekse herhangi bir önlem almadan işe başlanabilir.",
+          "y": false
+        },
+        {
+          "x": "Çalışan deneyimliyse çalışma alanının kontrol edilmesine gerek yoktur.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "Yüksekte çalışmalarda düşmeyi önlemek için öncelikle hangi yöntem tercih edilmelidir?",
+      "c": [
+        {
+          "x": "Korkuluk, güvenli çalışma platformu veya iskele gibi toplu korunma önlemleri kullanılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Çalışma alanına yalnızca uyarı levhaları yerleştirilerek çalışanların dikkatli olması sağlanmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Çalışanın emniyet kemeri kullanması yeterli olup toplu korunma tedbirleri gerekli değildir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "Yüksekte çalışırken emniyet kemeri kullanımıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Uygun emniyet kemeri kullanılmalı ve güvenli bir ankraj noktasına doğru şekilde bağlanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Emniyet kemerinin yalnızca takılması yeterlidir, herhangi bir noktaya bağlanmasına gerek yoktur.",
+          "y": false
+        },
+        {
+          "x": "Deneyimli çalışanların emniyet kemeri kullanmasına gerek yoktur.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "Merdiven kullanılarak yapılan çalışmalarda aşağıdakilerden hangisi doğru bir uygulamadır?",
+      "c": [
+        {
+          "x": "Merdiven sağlam ve dengeli bir zemine yerleştirilmeli, kaymaya ve devrilmeye karşı güvenli hâle getirilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Merdivenin yüksekliğini artırmak için altına kutu veya benzeri malzemeler konulabilir.",
+          "y": false
+        },
+        {
+          "x": "Merdivenin en üst basamağında uzun süre çalışmak güvenlidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "Yüksekte çalışma sırasında kullanılan el aletleri ve malzemelerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "El aletleri ve malzemeler aşağıya düşmeyecek şekilde sabitlenmeli veya güvenli biçimde muhafaza edilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Küçük el aletlerinin yüksekten düşmesi önemli bir risk oluşturmaz.",
+          "y": false
+        },
+        {
+          "x": "Malzemeler çalışma platformunun kenarında geçici olarak bırakılabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "Yüksekte çalışma alanının altında bulunan kişilerin güvenliği için ne yapılmalıdır?",
+      "c": [
+        {
+          "x": "Çalışma alanının altı sınırlandırılmalı ve yetkisiz kişilerin bu alana girmesi engellenmelidir.",
+          "y": true
+        },
+        {
+          "x": "Çalışma alanının altından geçerken baret kullanmak gerekli değildir.",
+          "y": false
+        },
+        {
+          "x": "Çalışma alanının altına yalnızca uyarı levhası konulması yeterlidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "Olumsuz hava koşullarında yüksekte çalışmayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Şiddetli rüzgâr, yağmur, buzlanma veya görüşü azaltan hava koşullarında çalışma durdurulmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Emniyet kemeri kullanılması hâlinde her türlü hava koşulunda çalışılabilir.",
+          "y": false
+        },
+        {
+          "x": "Olumsuz hava koşulları yalnızca çok yüksek binalarda dikkate alınmalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "İskele üzerinde çalışmaya başlamadan önce aşağıdakilerden hangisi kontrol edilmelidir?",
+      "c": [
+        {
+          "x": "İskelenin sağlamlığı, korkulukları, platformları, bağlantıları ve güvenli erişim imkânı kontrol edilmelidir.",
+          "y": true
+        },
+        {
+          "x": "İskelenin yalnızca çalışma platformunun düzgün olması kontrol edilmelidir.",
+          "y": false
+        },
+        {
+          "x": "İskele kurulumunu yapan kişinin deneyimli olması durumunda ayrıca kontrol yapılmasına gerek yoktur.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "Yüksekte çalışma sırasında kullanılan platform zemini ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Platform zemini sağlam, yeterli genişlikte ve boşluk oluşturmayacak şekilde kurulmuş olmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Platform zemini üzerinde boşluklar olabilir bunların üzerinden atlayarak geçebiliriz.",
+          "y": false
+        },
+        {
+          "x": "Platformun taşıma kapasitesinden daha fazla malzeme platforma konulabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "k": 4,
+      "b": "Yüksekte Güvenli Çalışma",
+      "s": "Yüksekte çalışma sırasında bir çalışanın düşmesi ve emniyet kemerinde asılı kalması durumunda ne yapılmalıdır?",
+      "c": [
+        {
+          "x": "Acil durum ve kurtarma planı uygulanarak çalışan en kısa sürede eğitimli kişiler tarafından güvenli şekilde kurtarılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Çalışanın kendi imkânlarıyla kurtulması beklenmelidir.",
+          "y": false
+        },
+        {
+          "x": "Çalışmaya devam edilmeli ve vardiya sonunda müdahale edilmelidir.",
+          "y": false
+        }
+      ]
     }
   ]
 }
