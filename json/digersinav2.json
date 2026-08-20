@@ -1059,6 +1059,266 @@
           "y": false
         }
       ]
+    },
+        {
+      "id": 160,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Baret kullanımı aşağıdaki risklerden hangisine karşı gereklidir?",
+      "c": [
+        {
+          "x": "Başa cisim düşmesi, çarpma veya başın sabit bir yüzeye çarpması riskine karşı.",
+          "y": true
+        },
+        {
+          "x": "Yüksek gürültü nedeniyle işitme kaybı riskine karşı.",
+          "y": false
+        },
+        {
+          "x": "Kimyasal buharların solunması riskine karşı.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Koruyucu gözlük veya yüz siperi hangi durumlarda kullanılmalıdır?",
+      "c": [
+        {
+          "x": "Göze veya yüze kimyasal, toz, kıvılcım, çapak ya da parçacık sıçrama riski bulunduğunda kullanılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Yalnızca çalışma alanındaki aydınlatma yetersiz olduğunda kullanılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Sadece numaralı gözlük kullanmayan çalışanlar tarafından kullanılmalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Keskin kenarlı malzemelerin taşınması sırasında hangi kişisel koruyucu donanım kullanılmalıdır?",
+      "c": [
+        {
+          "x": "Kesilme ve delinme riskine uygun koruyucu eldiven kullanılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Kimyasal buhar filtresine sahip solunum koruyucu kullanılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Yalnızca kulak koruyucu kullanılması yeterlidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Solunum koruyucu maskenin etkili koruma sağlayabilmesi için aşağıdakilerden hangisi gereklidir?",
+      "c": [
+        {
+          "x": "Maske yüze uygun olmalı, doğru takılmalı ve yüz ile maske arasında hava kaçağı bulunmamalıdır.",
+          "y": true
+        },
+        {
+          "x": "Maske ağzı kapattığı sürece burnun açıkta kalması önemli değildir.",
+          "y": false
+        },
+        {
+          "x": "Maske gevşek takılsa bile aynı seviyede koruma sağlar.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Koruyucu ayakkabı kullanımı aşağıdaki risklerden hangilerine karşı gereklidir?",
+      "c": [
+        {
+          "x": "Ayağa ağır malzeme düşmesi, ezilme, delinme, kayma ve benzeri mekanik tehlikelere karşı.",
+          "y": true
+        },
+        {
+          "x": "Kimyasal buharların solunum yoluyla vücuda girmesi ve havadaki zararlı gazlara maruz kalma riskine karşı.",
+          "y": false
+        },
+        {
+          "x": "Yüksek gürültülü ortamlarda uzun süre çalışılması sonucu oluşabilecek işitme kaybı riskine karşı.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Yüksekten düşme riskinin bulunduğu ve toplu korunma önlemlerinin yeterli olmadığı çalışmalarda hangi kişişel koruyucu donanım kullanılmalıdır?",
+      "c": [
+        {
+          "x": "Uygun tam vücut emniyet kemeri ve güvenli bağlantı sistemleri kullanılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Yalnızca reflektif yelek kullanılması yeterlidir.",
+          "y": false
+        },
+        {
+          "x": "Bel çevresine bağlanan herhangi bir ip yeterli koruma sağlar.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Koruyucu ayakkabı kullanımı aşağıdaki risklerden hangilerine karşı gereklidir?",
+      "c": [
+        {
+          "x": "Ayağa ağır malzeme düşmesi, ezilme, delinme, kayma ve benzeri mekanik tehlikelere karşı.",
+          "y": true
+        },
+        {
+          "x": "Kimyasal buharların solunum yoluyla vücuda girmesi ve havadaki zararlı gazlara maruz kalma riskine karşı.",
+          "y": false
+        },
+        {
+          "x": "Yüksek gürültülü ortamlarda uzun süre çalışılması sonucu oluşabilecek işitme kaybı riskine karşı.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Hasarlı veya koruyucu özelliğini kaybetmiş bir kişisel koruyucu donanımla karşılaşıldığında ne yapılmalıdır?",
+      "c": [
+        {
+          "x": "Donanım kullanılmamalı, durum işverene bildirilmeli ve yenisiyle değiştirilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Hasarlı bölümü bantlanarak kullanılmaya devam edilmelidir.",
+          "y": false
+        },
+        {
+          "x": "Kısa süreli işlerde hasarlı donanım kullanılabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Kişisel koruyucu donanımların temizliği ve saklanmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Üretici talimatlarına uygun şekilde temizlenmeli, kontrol edilmeli ve koruyucu özelliğini bozmayacak temiz, kuru ve uygun koşullarda saklanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Kişisel koruyucu donanımlar yalnızca gözle görülür şekilde kirlendiğinde temizlenmeli, diğer zamanlarda doğrudan kullanım alanında muhafaza edilmelidir.",
+          "y": false
+        },
+        {
+          "x": "İş elbisesi, iş ayakkabısı ve kulaklık gibi kişisel koruyucu donanımlar, diğer çalışanlar ile ortak kullanılabilir.",
+          "y": false
+        }
+      ]
+    },
+        {
+      "id": 169,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Yoğun toz bulunan bir çalışma ortamında solunum yollarının korunması için hangi kişisel koruyucu donanım kullanılmalıdır?",
+      "c": [
+        {
+          "x": "Tozun türüne ve ortam ölçümlerine uygun koruma sınıfına sahip solunum koruyucu maske kullanılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Tozun ağızdan alınmasını engellemek için yalnızca yüz siperi kullanılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Toz parçacıklarının saçlara ulaşmasını önleyen bir bone kullanılması yeterlidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Kimyasal sıçrama riski bulunan bir işlemde gözlerin ve yüzün korunması için hangi uygulama doğrudur?",
+      "c": [
+        {
+          "x": "Kimyasala karşı uygun koruyucu gözlük kullanılmalı, yüzün tamamına sıçrama riski varsa buna yüz siperi de eklenmelidir.",
+          "y": true
+        },
+        {
+          "x": "Yüz siperi kullanılması durumunda her koşulda koruyucu gözlüğe gerek kalmaz.",
+          "y": false
+        },
+        {
+          "x": "Günlük kullanılan numaralı gözlükler kimyasal sıçramalara karşı yeterli koruma sağlar.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Biyolojik risk bulunan bir ortamda kullanılmış tek kullanımlık eldivenlerle ilgili hangi uygulama doğrudur?",
+      "c": [
+        {
+          "x": "Eldivenler uygun şekilde çıkarılmalı, belirlenmiş atık kutusuna atılmalı ve ardından eller yıkanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Eldivenler görünür şekilde kirlenmemişse yıkanarak tekrar kullanılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Eldiven kullanıldığı için çalışma sonrasında ellerin yıkanmasına gerek yoktur.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "k": 3,
+      "b": "Kişisel Koruyucu Donanım",
+      "s": "Sıcak yüzeyler veya sıcak malzemelerle yapılan çalışmalarda ellerin korunması için hangi donanım kullanılmalıdır?",
+      "c": [
+        {
+          "x": "Çalışma sıcaklığına uygun ve ısıya dayanıklı koruyucu eldiven kullanılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Kimyasal maddeler için üretilmiş her eldiven ısıya karşı da yeterli koruma sağlar.",
+          "y": false
+        },
+        {
+          "x": "İki adet ince tek kullanımlık eldivenin üst üste takılması yeterlidir.",
+          "y": false
+        }
+      ]
     }
   ]
 }
