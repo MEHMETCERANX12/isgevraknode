@@ -751,15 +751,11 @@
           "y": true
         },
         {
-          "x": "Acil stop (durdurma) butonuna erişimi engellemediği sürece ekipman çevresinde geçici ham madde depolanabilir.",
+          "x": "Ekipman çevresindeki alanın aydınlatması yetersiz olsa dahi çalışılabilir.",
           "y": false
         },
         {
           "x": "Riskli ve sıçrama tehlikesi olan ekipmanların çevresinde, kontrol amaçlı bulunan kişilere özel bir emniyet mesafesi uygulanması zorunlu değildir.",
-          "y": false
-        },
-        {
-          "x": "Ekipman çevresindeki alanın aydınlatması yetersiz olsa dahi çalışılabilir.",
           "y": false
         }
       ]
