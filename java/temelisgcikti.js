@@ -718,7 +718,7 @@ async function temelisgyeniSinavSoruVerisiOku()
     {
         return mevcutJson;
     }
-    var url = "https://cdn.jsdelivr.net/gh/MEHMETCERANX12/isgevrak@main/json/sinav1_4.json";
+    var url = "https://mehmetceranx12.github.io/isgevraknode/json/sinavicerik.json";
     var veri = await $.getJSON(url);
     store.set("sinavicerik", veri);
     return veri || {};
