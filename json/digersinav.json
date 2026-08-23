@@ -841,6 +841,226 @@
       ]
     },
     {
+      "id": 140,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Kaldırma işleminde kullanılacak sapan, halat veya zincir gibi aksesuarlar kullanılmadan önce aşağıdakilerden hangisi yapılmalıdır?",
+      "c": [
+        {
+          "x": "Aksesuarların kapasite etiketi, uygunluğu ve hasar durumu kontrol edilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Aksesuarlar daha önce kullanılmışsa ayrıca kontrol yapılmasına gerek yoktur.",
+          "y": false
+        },
+        {
+          "x": "Yük hafif görünüyorsa aksesuarın taşıma kapasitesi dikkate alınmayabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Üzerinde kapasite bilgisi veya tanımlama etiketi bulunmayan bir kaldırma sapanı için en doğru uygulama hangisidir?",
+      "c": [
+        {
+          "x": "Sapan kullanılmamalı ve ilgili kişiye bildirilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Sapan sağlam görünüyorsa her türlü yükte kullanılabilir.",
+          "y": false
+        },
+        {
+          "x": "Kapasitesi tahmin edilerek düşük ağırlıklı yüklerde kullanılabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Kancada bulunan emniyet mandalının kaldırma işlemlerindeki temel amacı nedir?",
+      "c": [
+        {
+          "x": "Sapan veya bağlantı elemanının kancadan istem dışı çıkmasını önlemeye yardımcı olmak.",
+          "y": true
+        },
+        {
+          "x": "Kancanın taşıma kapasitesini artırmak.",
+          "y": false
+        },
+        {
+          "x": "Yükün daha hızlı kaldırılmasını sağlamak.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Eminyet mandalı kırık veya çalışmayan bir kanca ile çalışma yapılması gerektiğinde ne yapılmalıdır?",
+      "c": [
+        {
+          "x": "Emniyet mandalı takılana kadar kanca kullanılmamalıdır.",
+          "y": true
+        },
+        {
+          "x": "Sapan dikkatli yerleştirilirse emniyet mandalı olmayan kanca ile çalışmaya devam edilebilir.",
+          "y": false
+        },
+        {
+          "x": "Emniyet mandalı yerine tel veya bant sarılarak kaldırma işlemi yapılabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Kesik, ezik, aşınmış veya lifleri zarar görmüş bir tekstil sapan görüldüğünde hangi işlem yapılmalıdır?",
+      "c": [
+        {
+          "x": "Sapan kullanım dışı bırakılmalı ve durum ilgili kişiye bildirilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Hasarlı bölge düğüm atılarak güçlendirilip kullanılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Yük kısa süreli kaldırılacaksa hasarlı sapan kullanılabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Çelik sapanda tel kopması, ezilme veya paslanma fark edilirse en güvenli davranış hangisidir?",
+      "c": [
+        {
+          "x": "Çelik sapan kullanılmamalı ve durum ilgili kişiye bildirilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Hasarlı kısım yükün dışında kalacak şekilde kullanıma devam edilmelidir.",
+          "y": false
+        },
+        {
+          "x": "Çelik sapan yağlanarak aynı kaldırma işinde kullanılabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Yükün sapanla bağlanması sırasında aşağıdaki uygulamalardan hangisi güvenlidir?",
+      "c": [
+        {
+          "x": "Yükün ağırlık merkezi dikkate alınmalı ve sapanlar dengeli bağlanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Yükün dengesi kaldırma başladıktan sonra havada elle düzeltilmelidir.",
+          "y": false
+        },
+        {
+          "x": "Keskin kenarlı yüklerde sapanın zarar görmesi önemli değildir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Sapanların kaldırma açısı büyüdükçe aksesuarlar üzerindeki kuvvetle ilgili aşağıdakilerden hangisi doğrudur?",
+      "c": [
+        {
+          "x": "Açı arttıkça sapan kollarına binen kuvvet artabileceği için uygun açı ve kapasite dikkate alınmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Kaldırma açısı arttıkça sapan kollarına uygulanan kuvvet azalır ve kaldırma daha güvenli hale gelir.",
+          "y": false
+        },
+        {
+          "x": "Sapan açısı yalnızca yükün dengesi açısından önemlidir, sapanlara binen kuvveti değiştirmez.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Kaldırma işlemi sırasında askıdaki yükün çevresinde bulunmakla ilgili en doğru ifade hangisidir?",
+      "c": [
+        {
+          "x": "Askıdaki yükün altında veya tehlike alanında durulmamalı, alan kontrol altında tutulmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Yük dengede görünüyorsa kısa süreliğine altında durulabilir.",
+          "y": false
+        },
+        {
+          "x": "Yük sallanırsa çalışanlar elle tutarak yükü durdurmalı ve dengeyi sağlamalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Uzun veya dengesiz bir yükün kaldırılmasında sapanlama ile ilgili en güvenli uygulama hangisidir?",
+      "c": [
+        {
+          "x": "Yük, ağırlık merkezi dikkate alınarak en az iki noktadan dengeli şekilde sapanlanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Yük sağlam görünüyorsa tek sapanla ortadan bağlanarak kaldırılabilir.",
+          "y": false
+        },
+        {
+          "x": "Yük havadayken dengesizleşirse çalışanlar elle tutarak dengeyi sağlamalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "k": 8,
+      "b": "Kaldırma Aksesuarlarının Güvenli Kullanımı",
+      "s": "Kaldırma aksesuarları kullanılmadığında nasıl muhafaza edilmelidir?",
+      "c": [
+        {
+          "x": "Temiz, kuru, düzenli ve hasar görmeyecekleri uygun bir alanında saklanmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Bir sonraki kullanım için yükün üzerinde veya yerde bırakılabilir.",
+          "y": false
+        },
+        {
+          "x": "Islak, yağlı veya kimyasal maddelerle temas eden alanlarda saklanması sorun oluşturmaz.",
+          "y": false
+        }
+      ]
+    },
+    {
       "id": 201,
       "k": 6,
       "b": "Çalışan Temsilcisi",
