@@ -1739,6 +1739,206 @@
           "y": false
         }
       ]
+    },
+    {
+      "id": 251,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "İş kazası sonrası işe dönen çalışan, yaptığı işle ilgili güvenli çalışma yöntemleri konusunda nasıl hareket etmelidir?",
+      "c": [
+        {
+          "x": "İşi için belirlenen güvenli çalışma yöntemleri ve talimatlarına uymalı, meydana gelen kazanın tekrarını önlemeye yönelik eğitimlerde aktarılan güvenlik kurallarını uygulamalıdır.",
+          "y": true
+        },
+        {
+          "x": "Bir daha benzer bir kazanın meydana gelme olasılığı çok düşük olduğu için aynı şekilde çalışmaya devam edilmelidir.",
+          "y": false
+        },
+        {
+          "x": "İş kazaları doğal bir süreç olduğu için tekrar aynı kaza yaşanabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "İş kazası sonrası işe dönen çalışan, kullandığı makine, cihaz veya diğer iş ekipmanlarıyla çalışırken nasıl hareket etmelidir?",
+      "c": [
+        {
+          "x": "İş ekipmanlarını kullanım talimatlarına uygun şekilde kullanmalı, koruyucu donanımları devre dışı bırakmamalı ve ekipmana yetkisiz müdahalede bulunmamalıdır.",
+          "y": true
+        },
+        {
+          "x": "İşi hızlandırmak amacıyla gerekli gördüğünde ekipmanın koruyucu donanımlarını geçici olarak devre dışı bırakabilir.",
+          "y": false
+        },
+        {
+          "x": "Ekipmanda arıza veya güvenliği etkileyen bir durum olsa dahi dikkatli olmak şartıyla çalışmaya devam edebilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "Çalışanlar, tehlikeli durum veya iş ekipmanında güvenliği etkileyebilecek bir arıza fark ettiğinde nasıl hareket etmelidir?",
+      "c": [
+        {
+          "x": "Durumu gecikmeden yetkili kişiye bildirmeli ve gerekli güvenlik önlemleri alınmadan tehlikeli şekilde çalışmaya devam etmemelidir.",
+          "y": true
+        },
+        {
+          "x": "Herhangi bir yaralanma meydana gelmemişse durumu bildirmesine gerek yoktur.",
+          "y": false
+        },
+        {
+          "x": "Tehlikeli durum veya arıza çalışmayı tamamen engellemiyorsa iş bitimine kadar çalışmaya devam etmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "İşyerinde bir iş kazası meydana geldiğinde çalışan öncelikle nasıl hareket etmelidir?",
+      "c": [
+        {
+          "x": "Kazayı gecikmeden yetkili kişilere bildirmeli ve yaralanma durumunda ilk yardım görevlilerine haber verilmesini sağlamalıdır.",
+          "y": true
+        },
+        {
+          "x": "Kaza ciddi görünmüyorsa herhangi bir bildirimde bulunmadan çalışmaya devam etmelidir.",
+          "y": false
+        },
+        {
+          "x": "Kazayı yalnızca çalışma arkadaşlarına bildirmesi yeterlidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "İş kazası sonucunda yaralanan bir çalışana ilk yardım gerektiğinde nasıl hareket edilmelidir?",
+      "c": [
+        {
+          "x": "İlk yardım konusunda eğitimli çalışanlardan yardım istenmeli, gerekli durumlarda 112 Acil Çağrı Merkezine haber verilmelidir.",
+          "y": true
+        },
+        {
+          "x": "İlk yardım eğitimi olmayan çalışanlar yaralıya uygun gördükleri şekilde müdahale etmelidir.",
+          "y": false
+        },
+        {
+          "x": "Yaralının durumu kendiliğinden düzelebileceği için herhangi bir müdahalede veya bildirimde bulunulmamalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "İş kazasının meydana geldiği alanda çalışanlar nasıl hareket etmelidir?",
+      "c": [
+        {
+          "x": "Yeni bir kazaya neden olabilecek tehlikeler dikkate alınmalı ve yetkisi olmayan kişiler tehlikeli alana müdahale etmemelidir.",
+          "y": true
+        },
+        {
+          "x": "Kazanın nedenini öğrenmek amacıyla çalışanlar kaza alanına girerek inceleme yapmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Kaza sonrasında ekipmanda herhangi bir hasar görünmüyorsa gerekli kontroller yapılmadan ekipman tekrar çalıştırılabilir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "İş kazası sonrasında kazanın tekrarını önlemek amacıyla alınan yeni güvenlik tedbirlerine çalışanlar nasıl yaklaşmalıdır?",
+      "c": [
+        {
+          "x": "Belirlenen yeni güvenlik tedbirlerini öğrenmeli ve çalışma sırasında eksiksiz şekilde uygulamalıdır.",
+          "y": true
+        },
+        {
+          "x": "Yeni güvenlik tedbirleri işi yavaşlatıyorsa çalışan tarafından uygulanmayabilir.",
+          "y": false
+        },
+        {
+          "x": "Kaza yalnızca bir kez meydana geldiyse yeni güvenlik tedbirlerinin uygulanmasına gerek yoktur.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "İş kazası sonrasında çalışan, kendisine verilen güvenli çalışma talimatının uygulanmasının mümkün olmadığını veya yeni bir tehlike oluşturduğunu fark ederse ne yapmalıdır?",
+      "c": [
+        {
+          "x": "Durumu yetkili kişiye bildirmeli ve güvenli çalışma koşullarının yeniden değerlendirilmesini talep etmelidir.",
+          "y": true
+        },
+        {
+          "x": "Talimatı dikkate almadan kendisine en kolay gelen yöntemle çalışmaya devam etmelidir.",
+          "y": false
+        },
+        {
+          "x": "İşi tamamladıktan sonra uygun bir zamanda durumu bildirmesi yeterlidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "İşe dönen çalışan, sağlık durumunda yaptığı işi güvenli şekilde yürütmesini engelleyecek bir kısıt veya rahatsızlık hissettiğinde ne yapmalıdır?",
+      "c": [
+        {
+          "x": "Durumu derhal işyeri hekimine veya bağlı bulunduğu yetkiliye bildirmeli ve sağlık durumuna uygun değerlendirme yapılmasını istemelidir.",
+          "y": true
+        },
+        {
+          "x": "İş akışının aksamaması için durumu gizleyerek kendini zorlama pahasına çalışmaya devam etmelidir.",
+          "y": false
+        },
+        {
+          "x": "Kendi imkanlarıyla çalışma temposunu düşürerek durumu kimseye yansıtmadan işi tamamlamalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "k": 9,
+      "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
+      "s": "İşe dönen bir çalışan, yaralanmaya yol açmayan ancak tehlike oluşturan bir 'ramak kala' olayla karşılaştığında ne yapmalıdır?",
+      "c": [
+        {
+          "x": "Olayı derhal yetkililere bildirmeli ve ramak kala bildiriminde bulunarak olası kazaların önlenmesine katkı sağlamalıdır.",
+          "y": true
+        },
+        {
+          "x": "Herhangi bir yaralanma veya hasar meydana gelmediği için durumu bildirmeyi gereksiz görmelidir.",
+          "y": false
+        },
+        {
+          "x": "Yalnızca somut bir kaza ve yaralanma gerçekleştiğinde bildirim yapılması gerektiğini düşünmelidir.",
+          "y": false
+        }
+      ]
     }
   ]
 }
