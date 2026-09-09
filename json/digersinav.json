@@ -1521,7 +1521,7 @@
       ]
     },
     {
-      "id": 172,
+      "id": 171,
       "k": 7,
       "b": "Kişisel Koruyucu Donanım",
       "s": "Sıcak yüzeyler veya sıcak malzemelerle yapılan çalışmalarda ellerin korunması için hangi donanım kullanılmalıdır?",
@@ -1936,6 +1936,246 @@
         },
         {
           "x": "Yalnızca somut bir kaza ve yaralanma gerçekleştiğinde bildirim yapılması gerektiğini düşünmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "İş sağlığı ve güvenliği kurulunun başkanı kimdir?",
+      "c": [
+        {
+          "x": "İşveren veya işveren vekilidir.",
+          "y": true
+        },
+        {
+          "x": "İşyerinde en uzun süredir çalışan kurul üyesidir.",
+          "y": false
+        },
+        {
+          "x": "Her toplantıda üyeler arasından salt çoğunlukla seçilen kurul üyesidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "İş sağlığı ve güvenliği kurulunun olağan toplantı sıklığıyla ilgili aşağıdakilerden hangi ifade doğrudur?",
+      "c": [
+        {
+          "x": "Kurul ayda en az bir kez toplanır; kurul kararıyla tehlikeli işyerlerinde iki ayda, az tehlikeli işyerlerinde üç ayda bir toplanılabilir.",
+          "y": true
+        },
+        {
+          "x": "Kurul 6 ayda en az bir kez toplanması zorunludur.",
+          "y": false
+        },
+        {
+          "x": "Kurul yılda en az bir kez toplanması zorunludur.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "Olağan kurul toplantısının gündemi, yeri, günü ve saati üyelere en az ne kadar önce bildirilmelidir?",
+      "c": [
+        {
+          "x": "Toplantıdan en az 48 saat önce bildirilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Toplantıdan en az 24 saat önce bildirilmelidir.",
+          "y": false
+        },
+        {
+          "x": "Toplantının başladığı anda bildirilmesi yeterlidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "Yedi üyesi olan bir İSG kurulunda toplantı yeter sayısı ve başkanlık bakımından hangi koşul sağlanmalıdır?",
+      "c": [
+        {
+          "x": "İş güvenliği uzmanının başkanlığında üç üyenin katılması yeterlidir.",
+          "y": false
+        },
+        {
+          "x": "İşveren veya işveren vekili katılmadan dört üyenin bir araya gelmesi yeterlidir.",
+          "y": false
+        },
+        {
+          "x": "İşveren veya işveren vekilinin başkanlığında en az dört üye katılmalıdır.",
+          "y": true
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "İSG kurulunda karar alma ve oy kullanma usulüyle ilgili hangi ifade doğrudur?",
+      "c": [
+        {
+          "x": "Kararlar katılanların salt çoğunluğuyla alınır; çekimser oy kullanılamaz, oylar eşitse başkanın oyu kararı belirler.",
+          "y": true
+        },
+        {
+          "x": "Kararlar yalnızca bütün üyelerin aynı yönde oy kullanmasıyla alınabilir.",
+          "y": false
+        },
+        {
+          "x": "Üyeler çekimser oy kullanabilir; eşitlik hâlinde iş güvenliği uzmanının oyu kararı belirler.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "Ağır bir iş kazası sonrasında kurulun olağanüstü toplantıya çağrılmasıyla ilgili hangi ifade doğrudur?",
+      "c": [
+        {
+          "x": "Olağanüstü toplantı talebini yalnızca işyeri hekimi yapabilir.",
+          "y": false
+        },
+        {
+          "x": "Herhangi bir kurul üyesi, başkana veya sekretere teklif yaparak olağanüstü toplantı çağrısında bulunabilir.",
+          "y": true
+        },
+        {
+          "x": "Önceden belirlenen olağan toplantı tarihi gelmeden kurul toplanamaz.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "Kurul toplantısında alınan kararlar nasıl kayıt altına alınmalıdır?",
+      "c": [
+        {
+          "x": "Yazılı bir tutanak gerekli değildir. Görev dağılımı yapılması yeterlidir.",
+          "y": false
+        },
+        {
+          "x": "Herkes kurulda konuşulan konulara not almalı toplu bir tutanağa gerek yoktur.",
+          "y": false
+        },
+        {
+          "x": "Kararları içeren tutanak düzenlenmeli, katılan başkan ve üyelerce imzalanmalı ve saklanmalıdır.",
+          "y": true
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "İşverenin, iş sağlığı ve güvenliği mevzuatına uygun kurul kararları karşısındaki yükümlülüğü nedir?",
+      "c": [
+        {
+          "x": "Kararların uygulanmasını sağlamaktır.",
+          "y": true
+        },
+        {
+          "x": "Kararları yalnızca tavsiye kabul ederek uygulayıp uygulamamak işverenin takdiridir.",
+          "y": false
+        },
+        {
+          "x": "Kararları uygulamak için iş müfettişinin tutanak tutması gereklidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "Bir çalışan ciddi ve yakın tehlike nedeniyle çalışmaktan kaçınma hakkı kapsamında kurula başvurduğunda kurul ne yapmalıdır?",
+      "c": [
+        {
+          "x": "Talebi bir sonraki olağan toplantıya kadar bekletmelidir.",
+          "y": false
+        },
+        {
+          "x": "Çalışanın talebini ancak iş kazası meydana gelirse değerlendirmelidir.",
+          "y": false
+        },
+        {
+          "x": "Acilen toplanıp karar vermeli ve kararı çalışana ve çalışan temsilcisine yazılı olarak tebliğ etmelidir.",
+          "y": true
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "Kurul, çalışanların sağlığını tehdit eden bir riske karşı önlem önerirken hangi yaklaşımı esas almalıdır?",
+      "c": [
+        {
+          "x": "Önce riski ortadan kaldırmayı hedeflemeli; korunmada toplu tedbirlere kişisel tedbirlerden önce yer vermelidir.",
+          "y": true
+        },
+        {
+          "x": "Öncelikle kişisel koruyucu donanımı hedeflemeli, diğer önlemleri yalnızca kaza olursa değerlendirmelidir.",
+          "y": false
+        },
+        {
+          "x": "Çalışma alanına uyarı ve sağlık işaretleri konulması halinde önlem alınması gerekli değilidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "İşyerinde bir yük düşmüş, olay sırasında yükün altında kimse bulunmadığı için yaralanma meydana gelmemiştir. Kurul, bu ramak kala olayla ilgili nasıl hareket etmelidir?",
+      "c": [
+        {
+          "x": "Yaralanma meydana gelmediği için olayın incelenmesine gerek olmadığına karar vermelidir.",
+          "y": false
+        },
+        {
+          "x": "Olayın nedenlerini araştırmalı, tekrarını önleyecek tedbirleri belirleyerek işverene bildirmeli ve uygulanmasını izlemelidir.",
+          "y": true
+        },
+        {
+          "x": "Olay ikinci kez yaşanması halinde kurul gündemine alınmalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "k": 10,
+      "b": "İş Sağlığı ve Güvenliği Kurulu",
+      "s": "Aşağıdakilerden hangisi iş sağlığı ve güvenliği kurulunun gündem maddesi olması daha uygundur?",
+      "c": [
+        {
+          "x": "Çalışanların kullanması gerekli kişisel koruyucu donanımların mevsim şartları ve ortam risklerine göre seçimi.",
+          "y": true
+        },
+        {
+          "x": "Çevreye yayılan zararlı katı, sıvı ve gaz atıklarının arındırılması süreçlerinin değerlendirilmesi.",
+          "y": false
+        },
+        {
+          "x": "İşyerinin genel üretim planlaması ve yıllık bütçe hedeflerinin belirlenmesi",
           "y": false
         }
       ]
