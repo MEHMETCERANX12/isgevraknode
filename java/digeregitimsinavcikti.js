@@ -15,7 +15,8 @@
         [5, "KKD Eğitimi"],
         [6, "Kaldırma Aksesuarı Eğitimi"],
         [7, "Yangın Eğitimi"],
-        [8, "Gürültülü Ortamda Güvenli Çalışma"]
+        [8, "Gürültülü Ortamda Güvenli Çalışma"],
+        [9, "İSG Kurul Üye Eğitimi"]
     ]);
 
     window.digerEgitimSinavCiktiKontrol = async function ()
