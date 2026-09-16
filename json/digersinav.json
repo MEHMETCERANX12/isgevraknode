@@ -1244,7 +1244,7 @@
       "id": 210,
       "k": 6,
       "b": "Çalışan Temsilcisi",
-      "s": "Kişisel Koruyucu Donanımların İşyerlerinde Kullanılması Hakkında Yönetmelik'e göre, KKD seçiminde ve kullanılmasında çalışan temsilcilerinin rolü hakkında aşağıdakilerden hangisi doğrudur?",
+      "s": "Kişisel Koruyucu Donanımların seçiminde ve kullanılmasında çalışan temsilcilerinin rolü hakkında aşağıdakilerden hangisi doğrudur?",
       "c": [
         {
           "x": "İşveren, KKD seçimi ve kullanımında çalışan temsilcilerinin görüşlerini almak ve katılımlarını sağlamakla yükümlüdür.",
@@ -1384,7 +1384,7 @@
       "id": 165,
       "k": 7,
       "b": "Kişisel Koruyucu Donanım",
-      "s": "Yüksekten düşme riskinin bulunduğu ve toplu korunma önlemlerinin yeterli olmadığı çalışmalarda hangi kişişel koruyucu donanım kullanılmalıdır?",
+      "s": "Yüksekten düşme riskinin bulunduğu ve toplu korunma önlemlerinin yeterli olmadığı çalışmalarda aşağıdakilerden hangisi kullanılmalıdır?",
       "c": [
         {
           "x": "Uygun tam vücut emniyet kemeri ve güvenli bağlantı sistemleri kullanılmalıdır.",
@@ -1447,11 +1447,11 @@
       "s": "Kişisel koruyucu donanımların temizliği ve saklanmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
       "c": [
         {
-          "x": "Üretici talimatlarına uygun şekilde temizlenmeli, kontrol edilmeli ve koruyucu özelliğini bozmayacak temiz, kuru ve uygun koşullarda saklanmalıdır.",
+          "x": "İş gözlüğü, uygun temizlik bezi ile işe başlamadan önce temizlenmelidir.",
           "y": true
         },
         {
-          "x": "Kişisel koruyucu donanımlar yalnızca gözle görülür şekilde kirlendiğinde temizlenmeli, diğer zamanlarda doğrudan kullanım alanında muhafaza edilmelidir.",
+          "x": "Kişisel koruyucu donanımlar yalnızca gözle görülür şekilde kirlendiğinde temizlenmelidir.",
           "y": false
         },
         {
@@ -1884,18 +1884,18 @@
       "id": 258,
       "k": 9,
       "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
-      "s": "İş kazası sonrasında çalışan, kendisine verilen güvenli çalışma talimatının uygulanmasının mümkün olmadığını veya yeni bir tehlike oluşturduğunu fark ederse ne yapmalıdır?",
+      "s": "İş kazası geçiren ve istirahat raporu verilen bir çalışan, bu süre zarfında ne yapmalıdır?",
       "c": [
         {
-          "x": "Durumu yetkili kişiye bildirmeli ve güvenli çalışma koşullarının yeniden değerlendirilmesini talep etmelidir.",
+          "x": "Doktor tavsiyesine uyarak dinlenmeli ve iyileşme sürecini evinde tamamlamalıdır.",
           "y": true
         },
         {
-          "x": "Talimatı dikkate almadan kendisine en kolay gelen yöntemle çalışmaya devam etmelidir.",
+          "x": "Durumu ciddi değilse raporlu olmasına rağmen işyerinde çalışmaya devam etmelidir.",
           "y": false
         },
         {
-          "x": "İşi tamamladıktan sonra uygun bir zamanda durumu bildirmesi yeterlidir.",
+          "x": "Raporlu olduğu süre boyunca yorulmayacağı başka bir işte çalışabilir.",
           "y": false
         }
       ]
@@ -1904,14 +1904,14 @@
       "id": 259,
       "k": 9,
       "b": "İş Kazası Sonrası İşe Dönüş Eğitimi",
-      "s": "İşe dönen çalışan, sağlık durumunda yaptığı işi güvenli şekilde yürütmesini engelleyecek bir kısıt veya rahatsızlık hissettiğinde ne yapmalıdır?",
+      "s": "İşe dönen çalışan, sağlık durumunda yaptığı işi güvenli şekilde yürütmesini engelleyecek bir unsur varsa ne yapmalıdır?",
       "c": [
         {
-          "x": "Durumu derhal işyeri hekimine veya bağlı bulunduğu yetkiliye bildirmeli ve sağlık durumuna uygun değerlendirme yapılmasını istemelidir.",
+          "x": "Yetkili kişiye bildirmeli ve sağlık durumuna uygun değerlendirme yapılmasını işyeri hekiminden istemelidir.",
           "y": true
         },
         {
-          "x": "İş akışının aksamaması için durumu gizleyerek kendini zorlama pahasına çalışmaya devam etmelidir.",
+          "x": "İş akışının aksamaması için durumu gizleyerek çalışmaya devam etmelidir.",
           "y": false
         },
         {
