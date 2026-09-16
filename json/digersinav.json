@@ -1747,11 +1747,11 @@
       "s": "İş kazası sonrası işe dönen çalışan, yaptığı işle ilgili güvenli çalışma yöntemleri konusunda nasıl hareket etmelidir?",
       "c": [
         {
-          "x": "İşi için belirlenen güvenli çalışma yöntemleri ve talimatlarına uymalı, meydana gelen kazanın tekrarını önlemeye yönelik eğitimlerde aktarılan güvenlik kurallarını uygulamalıdır.",
+          "x": "Güvenli çalışma talimatlarına uymalı ve kaza sonrası eğitimlerde aktarılan kuralları uygulamalıdır."
           "y": true
         },
         {
-          "x": "Bir daha benzer bir kazanın meydana gelme olasılığı çok düşük olduğu için aynı şekilde çalışmaya devam edilmelidir.",
+          "x": "Benzer bir kazanın tekrar meydana gelme olasılığı düşük olduğu için aynı şekilde çalışmaya devam etmelidir.",
           "y": false
         },
         {
@@ -1767,7 +1767,7 @@
       "s": "İş kazası sonrası işe dönen çalışan, kullandığı makine, cihaz veya diğer iş ekipmanlarıyla çalışırken nasıl hareket etmelidir?",
       "c": [
         {
-          "x": "İş ekipmanlarını kullanım talimatlarına uygun şekilde kullanmalı, koruyucu donanımları devre dışı bırakmamalı ve ekipmana yetkisiz müdahalede bulunmamalıdır.",
+          "x": "İş ekipmanlarını kullanım talimatlarına uygun şekilde kullanmalı, koruyucu donanımları devre dışı bırakmamalıdır.",
           "y": true
         },
         {
@@ -1787,7 +1787,7 @@
       "s": "Çalışanlar, tehlikeli durum veya iş ekipmanında güvenliği etkileyebilecek bir arıza fark ettiğinde nasıl hareket etmelidir?",
       "c": [
         {
-          "x": "Durumu gecikmeden yetkili kişiye bildirmeli ve gerekli güvenlik önlemleri alınmadan tehlikeli şekilde çalışmaya devam etmemelidir.",
+          "x": "Durumu yetkili kişiye bildirmeli ve gerekli güvenlik önlemleri alınana kadar çalışmaya devam etmemelidir.",
           "y": true
         },
         {
@@ -1807,7 +1807,7 @@
       "s": "İşyerinde bir iş kazası meydana geldiğinde çalışan öncelikle nasıl hareket etmelidir?",
       "c": [
         {
-          "x": "Kazayı gecikmeden yetkili kişilere bildirmeli ve yaralanma durumunda ilk yardım görevlilerine haber verilmesini sağlamalıdır.",
+          "x": "Kaza yetklili kişiye bildirmeli; yaralanmalarda zaman kaybetmeden ilk yardım ekibini haber verilmelidir."
           "y": true
         },
         {
