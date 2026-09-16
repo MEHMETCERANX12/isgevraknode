@@ -1204,7 +1204,7 @@
       "id": 208,
       "k": 6,
       "b": "Çalışan Temsilcisi",
-      "s": "İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik'e göre, birden fazla çalışan temsilcisinin bulunduğu bir işyerinde İSG Kuruluna katılacak çalışan temsilcisi nasıl belirlenir?",
+      "s": "Birden fazla çalışan temsilcisinin bulunduğu bir işyerinde İSG Kuruluna katılacak çalışan temsilcisi nasıl belirlenir?",
       "c": [
         {
           "x": "Çalışan baştemsilcisi olarak seçilen kişi İSG kuruluna katılır.",
@@ -2104,7 +2104,7 @@
       "id": 278,
       "k": 10,
       "b": "İş Sağlığı ve Güvenliği Kurulu",
-      "s": "Bir çalışan ciddi ve yakın tehlike nedeniyle çalışmaktan kaçınma hakkı kapsamında kurula başvurduğunda kurul ne yapmalıdır?",
+      "s": "Çalışan ciddi ve yakın hayati tehlike nedeniyle kurula başvurduğunda kurul ne yapmalıdır?",
       "c": [
         {
           "x": "Talebi bir sonraki olağan toplantıya kadar bekletmelidir.",
@@ -2144,7 +2144,7 @@
       "id": 280,
       "k": 10,
       "b": "İş Sağlığı ve Güvenliği Kurulu",
-      "s": "İşyerinde bir yük düşmüş, olay sırasında yükün altında kimse bulunmadığı için yaralanma meydana gelmemiştir. Kurul, bu ramak kala olayla ilgili nasıl hareket etmelidir?",
+      "s": "İşyerinde yaralanma ile sonuçlanmayan ramak kala olay meydana geldiğinde, kurul bu olaya nasıl yaklaşmalıdır?",
       "c": [
         {
           "x": "Yaralanma meydana gelmediği için olayın incelenmesine gerek olmadığına karar vermelidir.",
