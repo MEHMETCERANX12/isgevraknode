@@ -1967,7 +1967,7 @@
       "s": "İş sağlığı ve güvenliği kurulunun olağan toplantı sıklığıyla ilgili aşağıdakilerden hangi ifade doğrudur?",
       "c": [
         {
-          "x": "Kurul ayda en az bir kez toplanır; kurul kararıyla tehlikeli işyerlerinde iki ayda, az tehlikeli işyerlerinde üç ayda bir toplanılabilir.",
+          "x": "Kurul ayda en az bir kez toplanır; tehlikeli işyerlerinde iki, az tehlikeli işyerlerinde üç ayda bire çıkarılabilir.",
           "y": true
         },
         {
