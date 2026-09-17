@@ -2179,6 +2179,246 @@
           "y": false
         }
       ]
+    },
+    {
+      "id": 300,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "İşyerinde yangın fark eden bir acil durum ekip görevlisi nasıl hareket etmelidir?",
+      "c": [
+        {
+          "x": "Önce yangını tek başına söndürmeye çalışmalı, başarılı olamazsa alarm butonuna basmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Alarm butonuna basmalı, 112 çağrı merkezine haber vermeli ve acil durum planındaki görevini uygulamalıdır.",
+          "y": true
+        },
+        {
+          "x": "Yangın küçük görünüyorsa alarm butonuna basmadan doğrudan söndürmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "Polis, itfaiye veya ambulans desteği gerektiren bir olayda 112 Acil Çağrı Merkezi ile nasıl iletişim kurulmalıdır?",
+      "c": [
+        {
+          "x": "Yalnızca işyerinin adı söylenmeli ve hattı meşgul etmemek için görüşme hemen sonlandırılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Olayın nedeni kesin olarak belirlenene kadar arama yapılmamalıdır.",
+          "y": false
+        },
+        {
+          "x": "Açık adres, olayın türü, bilinen tehlikeler, varsa yaralı sayısı aktarılmalı ve operatörün soruları yanıtlanmalıdır.",
+          "y": true
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "İtfaiye, polis veya sağlık ekipleri işyerine ulaştığında koordinasyondan sorumlu kişi ne yapmalıdır?",
+      "c": [
+        {
+          "x": "Güvenli giriş yolunu göstermeli; içeride kalmış olabilecek kişiler ve yapılan müdahaleler hakkında bilgi vermelidir.",
+          "y": true
+        },
+        {
+          "x": "Ekiplerin tarafsız incelemelerini yapabilmesi için olay hakkında bilgi vermekten kaçınmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Gelen ekipleri, idari işlemlerin tamamlanabilmesi için çalışma ofisine yönlendirmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "Söndürme ekibi, başlangıç aşamasındaki bir yangına hangi koşullarda müdahale etmelidir?",
+      "c": [
+        {
+          "x": "Yangının türüne bakmadan en yakındaki söndürme cihazıyla ve tek başına müdahale etmelidir.",
+          "y": false
+        },
+        {
+          "x": "Güvenli kaçış yolu açıkken uygun söndürücüyle müdahale edilmeli; yangın büyür veya duman yoğunlaşırsa geri çekilmelidir.",
+          "y": true
+        },
+        {
+          "x": "Kaçış yolu dumanla kapansa bile yangın tamamen sönene kadar müdahaleyi sürdürmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "Elektrik panosunda yangın çıktığında söndürme ekibi nasıl müdahale etmelidir?",
+      "c": [
+        {
+          "x": "Alevleri hızla soğutmak için panoya su dökmelidir.",
+          "y": false
+        },
+        {
+          "x": "Enerjiyi kesmek için yanan panonun kapağını açarak kabloları çekmelidir.",
+          "y": false
+        },
+        {
+          "x": "Elektrik güvenli şekilde bütünüyle kesilmeli; panoya uygun söndürücü ile müdahale edilmelidir.",
+          "y": true
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "Kurtarma ekibi, yoğun duman bulunan veya çökme tehlikesi taşıyan bir alanda kişinin mahsur kaldığını öğrendiğinde ne yapmalıdır?",
+      "c": [
+        {
+          "x": "Uygun eğitim ve donanım olmadan tehlikeli alana girmemeli; itfaiye veya afad ekiplerie durum aktarılmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Ağzını ıslak bezle kapatarak başka bir koruyucu donanım olmadan alana girmelidir.",
+          "y": false
+        },
+        {
+          "x": "Kurtarmayı hızlandırmak için eğitim almamış çalışanları da tehlikeli alana yönlendirmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "Acil tahliye sırasında hareket kısıtlılığı bulunan bir çalışana kurtarma ekibi nasıl yardımcı olmalıdır?",
+      "c": [
+        {
+          "x": "Diğer çalışanların çıkışını geciktirmemek için kişinin kendi imkânlarıyla çıkmasını beklemelidir.",
+          "y": false
+        },
+        {
+          "x": "Önceden belirlenen yardım düzenine göre, uygun tahliye ekipmanı ile güvenli çıkışını sağlamalıdır.",
+          "y": true
+        },
+        {
+          "x": "Olayın türüne ve acil durum planına bakmadan kişiyi en yakın asansöre götürmelidir.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "İlk yardım ekibi, yaralı bulunan bir olay yerine ulaştığında öncelikle ne yapmalıdır?",
+      "c": [
+        {
+          "x": "Kendisinin, yaralının ve çevrenin güvenliğini değerlendirmeli; ilkyardım eğitimine göre müdahale etmelidir.",
+          "y": true
+        },
+        {
+          "x": "Çevre güvenliğinden önce yaralının yaşamsal bulgularını (ABC) kontrol ederek ilk müdahaleye başlanmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Yaralıyı doğrudan tedavi etmeye çalışmalı ve acil durum çağrı merkezini aramamalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "Yüksekten düşme sonucu yaralanan ve düştüğü alan güvenli ise yaralıya yaklaşım nasıl olmalıdır?",
+      "c": [
+        {
+          "x": "Yürüyüp yürüyemediğini veya kırık olup olmadığını anlamak için ayağa kaldırılmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Gereksiz yere hareket ettirilmemeli; 112 acil çağrı merkezine derhal haber vermelidir.",
+          "y": true
+        },
+        {
+          "x": "Daha rahat etmesi için kollarından ve bacaklarından tutularak başka bir odaya taşınmalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "Bina içinde deprem sarsıntısı başladığında acil durum ekip görevlileri nasıl davranmalıdır?",
+      "c": [
+        {
+          "x": "Sarsıntı devam ederken ekipmanları almak için hemen merdivenlere ve çıkış kapılarına koşmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Deprem başlar başlamaz asansörler ile hızlı bir şekilde tahliyeye başlanmalıdır.",
+          "y": false
+        },
+        {
+          "x": "Önce kendilerini koruyarak uygun bir yerde Çök-Kapan-Tutun uygulamalı; sarsıntı bitince plana göre hareket edilmelidir.",
+          "y": true
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "İşyerini sel veya su baskını tehdit ettiğinde acil durum ekipleri hangi yaklaşımı benimsemelidir?",
+      "c": [
+        {
+          "x": "Çalışanları sel suyuna girmeden güvenli ve yüksek alanlara yönlendirmeli; su basmış elektrikli alanlardan uzak durmalıdır.",
+          "y": true
+        },
+        {
+          "x": "Öncelikle bodrum katındaki malzemeleri kurtarmak için çalışanları su basmış alanlara göndermelidir.",
+          "y": false
+        },
+        {
+          "x": "Suyun derinliği az görünüyorsa çalışanların yürüyerek veya araçla sel suyundan geçmesini sağlamalıdır.",
+          "y": false
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "k": 11,
+      "b": "Acil Durum",
+      "s": "Yangın, deprem veya sel sonrasında işyerine yeniden giriş ne zaman yapılmalıdır?",
+      "c": [
+        {
+          "x": "Dışarıdan bakıldığında tehlike görünmüyorsa çalışanlar kendi kararlarıyla içeri girebilir.",
+          "y": false
+        },
+        {
+          "x": "İlgili yetkililerin güvenlik değerlendirmesi tamamlanıp yeniden giriş izni verildikten sonra yapılabilir.",
+          "y": true
+        },
+        {
+          "x": "Üretimin aksamaması için olay sona erer ermez işe devam edilmelidir.",
+          "y": false
+        }
+      ]
     }
   ]
 }
