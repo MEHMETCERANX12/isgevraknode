@@ -1747,7 +1747,7 @@
       "s": "İş kazası sonrası işe dönen çalışan, yaptığı işle ilgili güvenli çalışma yöntemleri konusunda nasıl hareket etmelidir?",
       "c": [
         {
-          "x": "Güvenli çalışma talimatlarına uymalı ve kaza sonrası eğitimlerde aktarılan kuralları uygulamalıdır."
+          "x": "Güvenli çalışma talimatlarına uymalı ve kaza sonrası eğitimlerde aktarılan kuralları uygulamalıdır.",
           "y": true
         },
         {
@@ -1807,7 +1807,7 @@
       "s": "İşyerinde bir iş kazası meydana geldiğinde çalışan öncelikle nasıl hareket etmelidir?",
       "c": [
         {
-          "x": "Kaza yetklili kişiye bildirmeli; yaralanmalarda zaman kaybetmeden ilk yardım ekibini haber verilmelidir."
+          "x": "Kaza yetklili kişiye bildirmeli; yaralanmalarda zaman kaybetmeden ilk yardım ekibini haber verilmelidir.",
           "y": true
         },
         {
