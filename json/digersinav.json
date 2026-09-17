@@ -2251,7 +2251,7 @@
           "y": false
         },
         {
-          "x": "Güvenli kaçış yolu açıkken uygun söndürücüyle müdahale edilmeli; yangın büyür veya duman yoğunlaşırsa geri çekilmelidir.",
+          "x": "Uygun söndürücü ile müdahale edilmeli; yangın büyür veya duman yoğunlaşırsa geri çekilmelidir.",
           "y": true
         },
         {
@@ -2284,7 +2284,7 @@
       "id": 305,
       "k": 11,
       "b": "Acil Durum",
-      "s": "Kurtarma ekibi, yoğun duman bulunan veya çökme tehlikesi taşıyan bir alanda kişinin mahsur kaldığını öğrendiğinde ne yapmalıdır?",
+      "s": "Kurtarma ekibi, yoğun duman bulunan bir alanda kişinin mahsur kaldığını öğrendiğinde ne yapmalıdır?",
       "c": [
         {
           "x": "Uygun eğitim ve donanım olmadan tehlikeli alana girmemeli; itfaiye veya afad ekiplerie durum aktarılmalıdır.",
