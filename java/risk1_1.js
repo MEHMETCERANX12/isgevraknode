@@ -1054,7 +1054,7 @@ function ciktidevam1r1()
     var kapaksecim = $('#kapaksecim')[0].selectedIndex + 1;
     store.set("riskdegerlendirmetarih", tarih);
     store.set("riskkapaksecim", kapaksecim);
-    window.location.href = "/riskdegerlendirmecikti2?id=" + encodeURIComponent(firmaid);
+    window.location.href = "/riskcikti2?id=" + encodeURIComponent(firmaid);
 }
 
 async function riskcikti2load()
@@ -1232,22 +1232,6 @@ function ciktidevamr5()
     }
 }
 
-function ciktidevamr5node()
-{
-    if (!ciktidevamr5())
-    {
-        return false;
-    }
-    const firma = String(store.get('xfirmaid') || '').trim();
-    const ids = riskStoreJsonOku("riskciktisecilenids");
-    if (!firma || !Array.isArray(ids) || !ids.length)
-    {
-        alertify.error("Risk Değerlendirmesi Bulunamadı");
-        return false;
-    }
-    window.location.href = "/riskdegerlendirmecikti3?firmaid=" + encodeURIComponent(firma) + "&ids=" + encodeURIComponent(ids.join(","));
-    return true;
-}
 ////////////////YARDIMCI FONKSİYON////////////////YARDIMCI FONKSİYON////////////////YARDIMCI FONKSİYON////////////////YARDIMCI FONKSİYON////////////////YARDIMCI FONKSİYON
 function riskgecerlilik(tarih, tehlike) { if (!tarih) return ""; const [g, a, y] = tarih.split(".").map(Number); if (!g || !a || !y) return ""; let e = 0; switch (tehlike) { case 1: e = 6; break; case 2: e = 4; break; case 3: e = 2; break; default: return "" }const d = new Date(y + e, a - 1, g), p = n => n.toString().padStart(2, "0"); return `${p(d.getDate())}.${p(d.getMonth() + 1)}.${d.getFullYear()}` }
 function isyeribaslikayar(a, v) { if (!v || typeof v !== "string" || v.trim().length === 0) { alert("Lütfen geçerli bir veri girin!"); return } const k = v.trim().split(" ").filter(k => k.length > 0); if (k.length === 0) { alert("Geçerli veri girin!"); return } let s = {}; switch (a) { case 1: s = { ustbaslik: k[0], altbaslik: k.slice(1).join(" ") }; break; case 2: if (k.length < 2) { alert("Script 2 için en az 2 kelime gerekli!"); return } s = { ustbaslik: k.slice(0, 2).join(" "), altbaslik: k.slice(2).join(" ") }; break; case 3: if (k.length < 3) { alert("Script 3 için en az 3 kelime gerekli!"); return } s = { ustbaslik: k.slice(0, 3).join(" "), altbaslik: k.slice(3).join(" ") }; break; default: alertify.error("Geçersiz giriş (1, 2 veya 3 olmalı)"); return }return s }
