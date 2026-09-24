@@ -375,11 +375,11 @@
             const selected = new URLSearchParams(window.location.search).get('id');
             if (selected && String(store.get('xfirmaid')) !== selected)
                 throw new Error('İşyeri seçimi değişmiş. Lütfen bu sayfada işyerini yeniden seçiniz.');
-            const response = await fetch('/riskdegerlendirmecikti2/excelveri/' + encodeURIComponent(button.dataset.id));
+            const response = await fetch('/riskcikti2/excelveri/' + encodeURIComponent(button.dataset.id));
             const risk = await response.json();
             if (!response.ok) throw new Error(risk.error || 'Risk değerlendirme verisi alınamadı.');
             const teamQuery = new URLSearchParams({ firmaid: selectedCompany() });
-            const teamResponse = await fetch('/riskdegerlendirmecikti2/verigetir?' + teamQuery);
+            const teamResponse = await fetch('/riskcikti2/verigetir?' + teamQuery);
             const teamData = await teamResponse.json();
             if (!teamResponse.ok) throw new Error(teamData.error || 'İmza ekibi alınamadı.');
             const result = await build(risk, String(firma.fi), {
@@ -553,7 +553,7 @@ function loadTables()
     async function outputData(ids)
     {
         const query = new URLSearchParams({ firmaid: selectedCompany(), ids: ids.join(',') });
-        const response = await fetch('/riskdegerlendirmecikti2/verigetir?' + query);
+        const response = await fetch('/riskcikti2/verigetir?' + query);
         const data = await response.json();
         if (!response.ok) throw new Error(data.error || 'Çıktı verileri alınamadı.');
         // Önceki işyerinden kalan verilerle çıktı üretme; her tıklamada yeniden oku.
