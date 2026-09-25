@@ -1156,6 +1156,14 @@ function ciktiload2r4()
         ordering: false,
         columns:
         [
+            {
+                data: null,
+                title: 'Sıra',
+                width: '14%',
+                orderable: false,
+                searchable: false,
+                render: (d, t, r) => `<input type="button" class="cssbutontamam risk-sira-buton" value="↑" title="Yukarı taşı" data-id="${r.i}" onclick="riskcikti2sirayukari(this);"/><input type="button" class="cssbutontamam risk-sira-buton" value="↓" title="Aşağı taşı" data-id="${r.i}" onclick="riskcikti2siraasagi(this);"/>`
+            },
             { data: 'a', title: "Risk Değerlendirme Listesi", width: "100%" },
             { data: 'i', title: 'Sil', width: '10%', render: d => `<input name="sil" type="button" class="cssbutontamam" value="Sil" data-id="${d}" />` }
         ],
@@ -1205,8 +1213,30 @@ function ciktiload2r4()
         if (anatablo.rows().count() > 1) $("#bilgi").fadeIn();
         else $("#bilgi").fadeOut();
     });
-    $("#risktablocikti tbody").sortable({helper:fixHelper,update:function(){const n=[];$("#risktablocikti tbody tr").each(function(){n.push($(this).find("td:eq(0)").text())})}}).disableSelection();
-    function fixHelper(e,tr){const $originals=tr.children();const $helper=tr.clone();$helper.children().each(function(i){$(this).width($originals.eq(i).width())});return $helper}
+}
+
+function riskcikti2sirayukari(button)
+{
+    riskcikti2siradegistir(button.getAttribute("data-id"), -1);
+}
+
+function riskcikti2siraasagi(button)
+{
+    riskcikti2siradegistir(button.getAttribute("data-id"), 1);
+}
+
+function riskcikti2siradegistir(id, yon)
+{
+    const tablo = $('#risktablocikti').DataTable();
+    const liste = tablo.rows().data().toArray();
+    const index = liste.findIndex(item => String(item.i) === String(id));
+    const yeniIndex = index + yon;
+    if (index < 0 || yeniIndex < 0 || yeniIndex >= liste.length)
+    {
+        return;
+    }
+    [liste[index], liste[yeniIndex]] = [liste[yeniIndex], liste[index]];
+    tablo.clear().rows.add(liste).draw();
 }
 
 function ciktidevamr5()
