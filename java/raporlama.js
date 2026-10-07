@@ -388,7 +388,7 @@ function isyeriraporalpdf()
             return {text: 'Sayfa: ' + currentPage + '/' + pageCount,  alignment: 'right', margin: [0, 0, 25, 10]};
         }
     };
-    pdfMake.createPdf(docDefinition).getBlob(function (blob) {saveAs(blob, 'İşyeri Rapor.pdf');});
+    pdfMake.createPdf(docDefinition).getBlob().then(function (blob) { saveAs(blob, 'İşyeri Rapor.pdf');}).catch(function (err) {console.error('PDF oluşturulamadı:', err);});
 }
 
 async function isyeriraporalexcel()
