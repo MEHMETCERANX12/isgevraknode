@@ -861,8 +861,8 @@ async function acildurumegitimpdf()
                 [
                     {
                     svg: tickSvg,
-                    width: 15,
-                    height: 18,
+                    width: 12,
+                    height: 12,
                     margin: [80, 0, 0, 0]
                     },
                     {
