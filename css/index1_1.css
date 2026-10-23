@@ -1,0 +1,45 @@
+* { box-sizing: border-box; }
+html { min-height: 100%; }
+body { min-height: 100vh; margin: 0; padding: 28px 16px; display: grid; place-items: center; background: #79716B; color: #1f2933; font-family: Roboto, Arial, sans-serif; font-size: 15px; line-height: 1.45; }
+.ortakutu { position: relative; z-index: 1; width: min(100%, 400px); height: auto; overflow: hidden; border: 1px solid #555454; border-radius: 18px; background: rgba(255, 255, 255, 0.96); padding-bottom: 50px; }
+.kutubaslik { display: flex; width: 100%; min-height: 66px; align-items: center; justify-content: center; padding: 0px; border: 0; border-radius: 0; background: #015F78; color: #fff; font-size: 22px; font-weight: 700; line-height: 1.4; text-align: center; letter-spacing: 0; }
+.kutuorta { width: 100%; height: auto; padding: 28px 32px 32px; border-radius: 0; background: rgba(255, 255, 255, 0.96); }
+.solsagbosluk { padding: 0; }
+.solsagbosluk > div:not([class]) { color: #334155; font-size: 16px; font-weight: 500; }
+.cssboslukalt1 { padding-bottom: 18px; }
+.cssboslukalt1_5 { padding-bottom: 27px; }
+.cssboslukalt0_2 { padding-bottom: 7px; }
+.cssboslukalt0_4 { padding-bottom: 7px; color: #334155; font-size: 14px; font-weight: 500; }
+.csstextbox100 { display: block; width: 100%; min-width: 0; min-height: 46px; padding: 10px 13px; border: 1px solid #909497; border-radius: 10px; outline: none; background-color: #fff; color: #111827; font-family: Roboto, Arial, sans-serif; font-size: 16px; transition: border-color 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease; -webkit-appearance: none; appearance: none; }
+.csstextbox100:hover { border-color: #94a3b8; background-color: #fbfdff; }
+.csstextbox100:focus { border-color: #0f766e; outline: none; box-shadow: 0 0 0 4px rgba(15, 118, 110, 0.14); background-color: #fff; }
+.cssbuton100 { min-height: 48px; padding: 12px 18px; border: 0; border-radius: 12px; background: #EF5350; color: #fff; cursor: pointer; font-family: Roboto, Arial, sans-serif; font-size: 14px; font-weight: 600; line-height: 1.4; }
+.cssbuton100:hover { box-shadow: 0 12px 24px rgba(16, 31, 28, 0.26); filter: brightness(1.1); transform: translateY(-1px); }
+.cssbuton100:active { box-shadow: 0 6px 14px rgba(17, 122, 101, 0.2); transform: translateY(0); }
+.cssbuton100:disabled { cursor: wait; opacity: 0.72; transform: none; }
+.cssbuton100:focus-visible, a:focus-visible { outline: 3px solid #f2b84b; outline-offset: 3px; }
+.solsagbosluk a { display: inline-flex; min-height: 32px; align-items: center; color: #276873; font-size: 15px; text-decoration: none; }
+.solsagbosluk a:visited { color: #276873; }
+.solsagbosluk a:hover { color: #922b21; text-decoration: underline; text-underline-offset: 3px; }
+.solsagbosluk a:active { color: #922b21; }
+.mesaj { position: absolute; right: 0; bottom: 0; left: 0; display: none; min-height: 48px; align-items: center; justify-content: center; padding: 10px 16px; background-color: #cb4335; color: #fff; text-align: center; font-weight: 700; }
+@media (max-width: 600px) {
+    body { padding: 16px; font-size: 15px; }
+    .ortakutu { width: 100%; max-width: 400px; border-radius: 14px; }
+    .kutubaslik { min-height: 76px; padding: 16px 18px; font-size: 18px; }
+    .kutuorta { padding: 22px 20px 24px; }
+    .cssboslukalt1 { padding-bottom: 14px; }
+    .cssboslukalt1_5 { padding-bottom: 16px; }
+    .csstextbox100 { min-height: 46px; font-size: 16px; }
+}
+@media (max-width: 360px) {
+    body { padding: 10px; }
+    .kutuorta { padding: 18px 16px 20px; }
+    .kutubaslik { font-size: 17px; }
+}
+@media (max-height: 600px) {
+    body { place-items: start center; }
+}
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { transition-duration: 0.01ms !important; }
+}
