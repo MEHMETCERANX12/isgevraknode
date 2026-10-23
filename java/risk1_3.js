@@ -1086,7 +1086,7 @@ async function riskgirispdfyazdir()
                 ...riskisekipmanikontrollistesi.slice(0, 14).map(item =>
                 [
                     { text: item.k, style: 'normal'},
-                    ...['x1','x2','x3','x4','x5','x6'].map(x => Number(item[x])===1 ? {svg:tickSvg,width:15,height:15,alignment:'center'} : {text:'X',alignment:'center'})
+                    ...['x1','x2','x3','x4','x5','x6'].map(x => Number(item[x])===1 ? {svg:tickSvg,width:11,height:11,alignment:'center'} : {text:'X',alignment:'center'})
                 ])
             ]
         }
@@ -1111,7 +1111,7 @@ async function riskgirispdfyazdir()
                 ...riskisekipmanikontrollistesi.slice(14).map(item =>
                 [
                     { text: item.k, style: 'normal'},
-                    ...['x1','x2','x3','x4','x5','x6'].map(x => Number(item[x])===1 ? {svg:tickSvg,width:12,height:12,alignment:'center'} : {text:'X',alignment:'center'})
+                    ...['x1','x2','x3','x4','x5','x6'].map(x => Number(item[x])===1 ? {svg:tickSvg,width:11,height:11,alignment:'center'} : {text:'X',alignment:'center'})
                 ])
             ]
         }
