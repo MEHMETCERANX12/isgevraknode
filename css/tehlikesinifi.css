@@ -1,0 +1,191 @@
+  *
+    {
+      box-sizing: border-box;
+    }
+    body
+    {
+      min-height: 100vh;
+      margin: 0;
+      background: #f3f6f8;
+      color: #22313f;
+      font-family:'Inter', Calibri, 'Segoe UI', Arial, sans-serif;
+    }
+    .sayfa
+    {
+      width: 90%;
+      margin: 0 auto;
+      padding: 28px 0;
+    }
+    .baslik-alani
+    {
+      margin-bottom: 18px;
+      padding: 24px;
+      border-radius: 8px;
+      background: linear-gradient(135deg, #1f6f78, #30475e 58%, #d65a31);
+      color: #ffffff;
+      box-shadow: 0 14px 36px rgba(31, 111, 120, 0.18);
+    }
+    .baslik-alani h1
+    {
+      margin: 0 0 8px;
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: 0;
+    }
+    .baslik-alani p
+    {
+      max-width: 780px;
+      margin: 0;
+      color: rgba(255, 255, 255, 0.86);
+      font-size: 15px;
+      line-height: 1.5;
+    }
+    .tablo-alani
+    {
+      padding: 18px;
+      border: 1px solid #dce5ea;
+      border-radius: 8px;
+      background: #ffffff;
+      box-shadow: 0 12px 32px rgba(34, 49, 63, 0.08);
+      overflow-x: auto;
+    }
+
+    .yukleme-durumu
+    {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      min-height: 180px;
+      color: #475866;
+      font-size: 15px;
+    }
+
+    .yukleme-cemberi
+    {
+      width: 28px;
+      height: 28px;
+      border: 3px solid #dce5ea;
+      border-top-color: #1f6f78;
+      border-radius: 50%;
+      animation: don 0.8s linear infinite;
+    }
+
+    .yukleme-durumu.hata .yukleme-cemberi
+    {
+      display: none;
+    }
+
+    @keyframes don
+    {
+      to { transform: rotate(360deg); }
+    }
+
+    @media (prefers-reduced-motion: reduce)
+    {
+      .yukleme-cemberi { animation-duration: 1.8s; }
+    }
+
+    table.dataTable
+    {
+      width: 100%;
+      border-collapse: collapse;
+      color: #22313f;
+    }
+
+    #naceTablo thead th
+    {
+      background: #30475e;
+      color: #ffffff;
+      font-weight: 700;
+      text-align: center;
+      white-space: nowrap;
+    }
+
+    #naceTablo tbody td.dt-center
+    {
+      text-align: center;
+    }
+
+    #naceTablo tbody td.dt-left
+    {
+      text-align: left;
+    }
+
+    #naceTablo tbody tr:nth-child(even)
+    {
+      background: #f8fbfc;
+    }
+
+    #naceTablo tbody tr:hover
+    {
+      background: #e9f5f6;
+    }
+
+    .dataTables_wrapper .dataTables_filter,
+    .dataTables_wrapper .dataTables_length,
+    .dataTables_wrapper .dataTables_info
+    {
+      color: #475866;
+      font-size: 14px;
+    }
+
+    .dataTables_wrapper .dataTables_filter input,
+    .dataTables_wrapper .dataTables_length select
+    {
+      min-height: 36px;
+      margin-left: 8px;
+      border: 1px solid #b8c8d2;
+      border-radius: 6px;
+      background: #ffffff;
+      color: #22313f;
+      outline: none;
+    }
+
+    .dataTables_wrapper .dataTables_filter input
+    {
+      width: min(320px, 58vw);
+      padding: 8px 10px;
+    }
+
+    .dataTables_wrapper .dataTables_filter input:focus,
+    .dataTables_wrapper .dataTables_length select:focus
+    {
+      border-color: #1f6f78;
+      box-shadow: 0 0 0 3px rgba(31, 111, 120, 0.14);
+    }
+
+    .dataTables_wrapper .dataTables_paginate .paginate_button.current,
+    .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover
+    {
+      border: 1px solid #1f6f78;
+      background: #1f6f78;
+      color: #ffffff !important;
+    }
+
+    @media (max-width: 720px)
+    {
+      .sayfa
+      {
+        width: min(100% - 20px, 1280px);
+        padding: 14px 0;
+      }
+
+      .baslik-alani,
+      .tablo-alani
+      {
+        padding: 16px;
+      }
+
+      .baslik-alani h1
+      {
+        font-size: 22px;
+      }
+
+      .dataTables_wrapper .dataTables_filter,
+      .dataTables_wrapper .dataTables_length
+      {
+        float: none;
+        text-align: left;
+      }
+    }
