@@ -730,6 +730,16 @@
         "q": "P2"
       },
       {
+        "id": "y3",
+        "c": "Kimyasalın, ısı kaynakları ile teması sonucunda patlayıcı ortam oluşturması",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 6,
+        "m": 1,
+        "q": "P2"
+      },
+      {
         "id": "y4",
         "c": "Basınçlı kabın ısıtılması sonucunda tüpün basınç sebebi ile patlaması",
         "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
