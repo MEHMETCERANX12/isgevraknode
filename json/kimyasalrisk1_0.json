@@ -1,0 +1,1289 @@
+[
+  {
+    "Katı":
+    {
+      "P1": [
+        {
+          "f": "Kimyasalın çalışma ortamına yayılmasını ve çalışanların solunum yoluyla maruziyetini önlemek amacıyla, yeterli hava emiş kapasitesine sahip cebri çekişli havalandırma sistemi ile kimyasal mümkün olduğunca kaynağından emilerek ortamdan uzaklaştırılmalıdır.",
+          "g": "Mevcut cebri çekişli havalandırma sistemiyle kaynağından emilerek çalışma ortamından uzaklaştırılmaktadır."
+        },
+        {
+          "f": "Kimyasal maddenin kullanıldığı bölüm, çalışanların kimyasal maruziyetini önlemek amacıyla fiziksel olarak diğer bölümlerden ayrılmalıdır.",
+          "g": "Kimyasalın kullanıldığı alan fiziksel olarak diğer bölümlerden izole edilmiştir."
+        },
+        {
+          "f": "Kimyasal kullanılan alanda yeterli temiz hava girişi ve genel havalandırma sağlanmalı, cebri çekişli havalandırma sistemi kimyasal işlemler süresince etkin ve çalışır durumda tutulmalıdır.",
+          "g": "Temiz hava girişi sağlanmakta ve cebri çekişli havalandırma sistemi çalışma süresince çalışır vaziyettedir. Bu şekilde çalışma sürdürülmelidir."
+        },
+        {
+          "f": "Havalandırma tesisatı yılda en az bir kez yetkili kişiler tarafından kontrol edilmeli ve varsa tespit edilen uygunsuzluklar giderilmelidir.",
+          "g": "Havalandırma tesisatının periyodik kontrolü gerçekleştirilmiş olup, düzenlenen kontrol raporunda tesisatın uygun olduğu belirtilmiştir."
+        },
+        {
+          "f": "Çalışanların kimyasalın kullanımı sırasında oluşabilecek toza solunum yoluyla maruziyet düzeyini belirlemek amacıyla, kişisel ya da ortama yönelik toz ölçümü yapılmalıdır.",
+          "g": "Toz ölçümü yapılmış ve zaman ağırlıklı maruziyet sınır değerinin altında olduğu raporda belirtilmiştir."
+        },
+        {
+          "f": "Havalandırmanın yetersiz kaldığı ve kimyasala maruziyetin önlenemediği durumlarda, FFP2 partikül filtreli maske kullanılmalıdır.",
+          "g": "FFP2 toz maskesi verilmiş ve çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasalın bulunduğu kap üzerinde, kimyasalın tehlikeli özelliklerini, zararlılık işaretlerini ve gerekli uyarıları içeren, okunaklı ve mevzuata uygun etiketler bulunmalıdır.",
+          "g": "Kimyasallar üzerinde uygun etiketleme ve zararlılık işaretleri bulunmaktadır."
+        },
+        {
+          "f": "Kimyasal madde muhafaza edildiği kaplar, kimyasalın özelliklerine uygun, sağlam ve sızdırmaz yapıda olmalı; kaplarda çatlak, kırık, deformasyon veya sızıntı bulunmamalıdır.",
+          "g": "Bu niteliğe sahip bir kap içerisinde bulunmaktadır."
+        }
+      ],
+      "P2": [
+        {
+          "f": "Kimyasal tozun çalışma ortamında birikerek patlayıcı toz-hava karışımı oluşturmasını önlemek amacıyla, toz oluşan noktalarda uygun emiş ve toz toplama sistemi kurulmalı; ortamda toz birikmesini önleyecek yeterli havalandırma ve düzenli temizlik sağlanmalıdır.",
+          "g": "Cebri çekişli havalandırma sistemi bulunmakta ve ortam belirli aralıklarla temizlenmektedir."
+        },
+        {
+          "f": "Kimyasal maddenin diğer çalışma alanlarına yayılmasını önlemek amacıyla, toz oluşan alanlar uygun fiziksel ayırma ve izolasyon yöntemleriyle diğer bölümlerden ayrılmalıdır.",
+          "g": "Toz oluşan kısımlar fiziksel olarak diğer bölümlerden izole edilmiştir."
+        },
+        {
+          "f": "Kimyasal kullanılan alanda yeterli temiz hava girişi ve genel havalandırma sağlanmalı, cebri çekişli havalandırma sistemi kimyasal işlemler süresince etkin ve çalışır durumda tutulmalıdır.",
+          "g": "Temiz hava girişi sağlanmakta ve cebri çekişli havalandırma sistemi çalışma süresince çalışır vaziyettedir. Bu şekilde çalışma sürdürülmelidir."
+        },
+        {
+          "f": "Havalandırma tesisatı yılda en az bir kez yetkili kişiler tarafından kontrol edilmeli ve varsa tespit edilen uygunsuzluklar giderilmelidir.",
+          "g": "Havalandırma tesisatının periyodik kontrolü gerçekleştirilmiş olup, düzenlenen kontrol raporunda tesisatın uygun olduğu belirtilmiştir."
+        },
+        {
+          "f": "Kimyasal; açık alevlerden, kıvılcımlardan, sıcak yüzeylerden, sigaradan ve diğer bütün ısı veya tutuşturucu kaynaklardan uzak tutulmalıdır.",
+          "g": "Kimyasal kullanılan ve depolanan alanlarda açık alev ve sigara kullanılması yasaklanmıştır."
+        },
+        {
+          "f": "Çalışanların vücudunda biriken statik elektriği güvenli şekilde boşaltmak amacıyla işyerinde statik elektrik topraklama levhası bulunmalıdır.",
+          "g": "Statik elektrik topraklama levhası mevcuttur."
+        },
+        {
+          "f": "Kimyasal tozun, patlayıcı atmosfer oluşturabileceği alanlar için Patlamadan Korunma Dokümanı hazırlanmalı ve söz konusu bölgelerde ilgili tüm güvenlik önlemleri patlamadan korunma dokumanında belirtilen şekilde alınmalıdır.",
+          "g": "Patlamadan korunma dokümanı hazırlanmıştır. Laboratuvar bölümünde alt patlama limitini aşacak seviyede bir patlayıcı ortam oluşmamaktadır."
+        },
+        {
+          "f": "Patlamadan korunma dokümanında belirlenen patlayıcı ortam bölgesinde, ilgili bölge sınıfına uygun elektrik tesisatı ve ekipman kullanılmalıdır.",
+          "g": "Patlayıcı ortam içerisinde, ilgili bölge sınıfına uygun elektrik tesisatı ve ekipman kullanılmakta olduğu patlamadan korunma dokumanında beyan edilmiştir."
+        },
+        {
+          "f": "Kimyasal kaynaklı yangınlara müdahale amacıyla çalışma alanına uygun kapasitede köpük veya kuru kimyevi tozlu yangın söndürücü yerleştirilmelidir.",
+          "g": "Çalışma alanında uygun tipte yangın söndürme cihazları bulunmakta ve periyodik kontrolleri yapılmıştır."
+        }
+      ],
+      "P3": [
+        {
+          "f": "Kimyasal maddenin kullanıldığı alana yetkisiz kişilerin ve işi olmayan herkesin girişi sınırlandırılmalıdır.",
+          "g": "Kimyasalın kullanıldığı alana yalnızca kimyasalı kullanan kişiler girmekte, diğer kişilerin girişi yasaklanmıştır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Yetkisiz kişilerin erişimini önlemek amacıyla kilitli veya girişlerin kontrollü olduğu özel depolama alanlarında ya da kilitli dolaplarda muhafaza edilmelidir.",
+          "g": "Kilitli bir alan içerisinde muhafaza edilmekte kontrollü bir biçimde erişilebilmektedir."
+        },
+        {
+          "f": "Kimyasal mümkün olan en az miktarda kullanılmalı; işlem kapalı sistem içerisinde gerçekleştirilmeli ve maruz kalabilecek çalışan sayısı en düşük düzeyde tutulmalıdır.",
+          "g": "Kanserojen kimyasal çeker ocak içinde gerekli en düşük miktarda kullanılmakta, çalışma yalnızca yetkili çalışanlar tarafından gerçekleştirilmektedir."
+        },
+        {
+          "f": "Kimyasalın kullanımı sırasında FFP3 partikül filtreli maske kullanılmalıdır.",
+          "g": "FFP3 partikül filtreli maske temin edilmiş ve kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasalla ile çalışanlara, tek kullanımlık iş elbisesi ve kimyasala dayanıklı eldivenler kullanılmalıdır.",
+          "g": "Tek kullanımlık iş elbisesi ve kimyasala dayanıklı eldiven kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasalın çalışanın ellerine veya vücudunun başka bir bölgesine temas etmesi hâlinde, etkilenen bölgenin derhal yıkanabilmesi için çalışma alanına yakın, kolay erişilebilir bir lavabo ve temiz su bulundurulmalıdır.",
+          "g": "Çalışma alanına yakın, kimyasalın temas ettiği el veya vücut bölgesinin yıkanması için kolay erişilebilir lavabo ve temiz su bulunmaktadır."
+        }
+      ],
+      "P4": [
+        {
+          "f": "Çevreye zararlı kimyasal ve bu kimyasalla kirlenmiş sıvılar kesinlikle lavaboya, tuvalete, kanalizasyona, yağmur suyu giderine veya doğrudan çevreye boşaltılmamalıdır.",
+          "g": "Çevreye zararlı kimyasalların ve kimyasalla kirlenmiş sıvıların kanalizasyon veya su giderlerine boşaltılması yasaklanmıştır."
+        },
+        {
+          "f": "Kimyasal depolama ve kullanım alanlarının zemini geçirimsiz, kolay temizlenebilir yapıda olmalıdır.",
+          "g": "Kimyasal kullanılan alanların zeminleri geçirimsizdir ve kolay temizlenebilir yapıda olmalıdır."
+        }
+      ],
+      "P5": [
+        {
+          "f": "Oksitleyici sınıftaki kimyasallar, yanıcı maddelerden, organik kimyasallardan, yağlardan, greslerden, indirgen maddelerden ayrı olarak depolanmalıdır.",
+          "g": "Sadece oksitleyicilerin olduğu, başka bir kimyasalın bulunmadığı bir kısımda depolanmaktadır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Oksitleyici kimyasalın kullanıldığı alanda, yanıcı ve parlayıcı kimyasallarla temas ederek yangına neden olmasını önlemek amacıyla bu maddelerin bir arada bulundurulması yasaklanmalıdır.",
+          "g": "Farklı alanlarda bulundurulmakta ve aynı ortam içerisinde kullanılmamaktadır."
+        }
+      ],
+      "P6": [
+        {
+          "f": "Çok düşük sıcaklıktaki sıvılaştırılmış gazlarla yapılan işlemler tamamlandıktan sonra, gazın kontrolsüz şekilde açığa çıkmasını ve ciltle temasına bağlı soğuk yanıklarına maruz kalmasını önlemek amacıyla gaz kaynağı güvenli şekilde kapatılmalı ve gaz akışı kesilmelidir.",
+          "g": "Çok düşük sıcaklıktaki sıvılaştırılmış gazlarla yapılan işlemler tamamlandıktan sonra gaz kaynağı kapatılarak gaz akışı kesilmektedir."
+        }
+      ],
+      "P7": [
+        {
+          "f": "Kimyasalların göze sıçrama riskine karşı, ilgili EN 166 standardına uygun, göz çevresini tamamen kapatan ve kimyasal sıçramalarına karşı koruma sağlayan sızdırmaz koruyucu gözlük kullanılmalıdır.",
+          "g": "Çalışanlara kimyasal sıçramalarına karşı koruma sağlayan, göz çevresini tamamen kapatan uygun koruyucu gözlükler temin edilmekte ve çalışma sırasında kullanılması sağlanmaktadır."
+        },
+        {
+          "f": "Kimyasalın göze temas etmesi durumunda, gözlerin derhal ve kesintisiz şekilde bol suyla yıkanabilmesi için çalışma alanında kolay erişilebilir, uygun göz yıkama ekipmanı bulundurulmalıdır.",
+          "g": "Çalışma alanında, kimyasalların göze temas etmesi durumunda hızlı müdahale edilebilmesi amacıyla kolay erişilebilir göz yıkama solüsyonu ve lavabo bulunmaktadır."
+        }
+      ],
+      "P8": [
+        {
+          "f": "Aşındırıcı kimyasalla çalışırken, kimyasalın ciltle temasını önlemek amacıyla, EN 374 ve EN 388 standardına sahip iş eldiveni, koruyucu iş elbisesi ve göz koruyucu kullanılmalıdır.",
+          "g": "Çalışanlara, katı aşındırıcı kimyasalla çalışmaya uygun kimyasal koruma eldiveni, koruyucu iş elbisesi ve gerekli göz koruyucular temin edilmekte; çalışma sırasında kullanmaları sağlanmaktadır."
+        },
+        {
+          "f": "Katı aşındırıcı kimyasalın cilt veya gözle teması halinde, etkilenen bölgenin derhal ve yeterli süreyle suyla yıkanabilmesi için çalışma alanında kolay erişilebilir acil göz ve vücut yıkama imkânı bulundurulmalıdır.",
+          "g": "Çalışma alanında, katı aşındırıcı kimyasalın cilt veya gözle teması halinde hızlı müdahale için kolay erişilebilir temiz su ve uygun acil yıkama imkânı bulunmaktadır."
+        }
+      ],
+      "P9": [
+        {
+          "f": "Toksik kimyasalla çalışırken, kimyasalın ciltle temasını önlemek amacıyla, EN 388 standardına sahip iş eldiveni, koruyucu iş elbisesi ve göz koruyucu kullanılmalıdır.",
+          "g": "Çalışanlara,  EN 388 iş eldiveni, koruyucu iş elbisesi ve gerekli göz koruyucular temin edilmekte; çalışma sırasında kullanmaları sağlanmaktadır."
+        },
+        {
+          "f": "Toksik kimyasalın cilt veya gözle teması halinde, etkilenen bölgenin derhal ve yeterli süreyle suyla yıkanabilmesi için çalışma alanında kolay erişilebilir acil göz ve vücut yıkama imkânı bulundurulmalıdır.",
+          "g": "Çalışma alanında, toksik kimyasalın cilt veya gözle teması halinde hızlı müdahale için kolay erişilebilir temiz su ve uygun acil yıkama imkânı bulunmaktadır."
+        }
+      ],
+      "P10": [
+        {
+          "f": "Kimyasal kullanılan veya depolanan alanlarda yiyecek ve içecek bulundurulmamalı, yemek yenmemeli ve içecek tüketilmemelidir.",
+          "g": "Kimyasal kullanılan alanlarda yiyecek ve içecek bulundurulması ve tüketilmesi yasaklanmıştır."
+        },
+        {
+          "f": "Kimyasalın bulunduğu kap üzerinde, kimyasalın tehlikeli özelliklerini, zararlılık işaretlerini ve gerekli uyarıları içeren, okunaklı ve mevzuata uygun etiketler bulunmalıdır.",
+          "g": "Kimyasallar üzerinde uygun etiketleme ve zararlılık işaretleri bulunmaktadır."
+        }
+      ],
+      "P11": [
+        {
+          "f": "Basınçlı kaplar, üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmalı; doğrudan ısı kaynaklarından ve güneş ışığından uzak tutulmalıdır.",
+          "g": "Basınçlı kaplar üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmakta; doğrudan ısı kaynaklarından ve güneş ışığından uzakta tutulmaktadır."
+        },
+        {
+          "f": "Şişme, korozyon, hasar veya kaçak görülen basınçlı kaplar kullanılmamalı veya yakılmamalıdır.",
+          "g": "Şişme, korozyon, hasar veya kaçak görülen basınçlı kaplar kullanılmamakta ve uygun şekilde iade edilmektedir."
+        }
+      ],
+      "P12": [
+        {
+          "f": "Basınçlı gaz tüpleri, üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmalı; doğrudan ısı kaynaklarından uzak tutulmalı ve devrilmeye karşı sabitlenmelidir.",
+          "g": "Basınçlı gaz tüpleri üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmakta; doğrudan ısı kaynaklarından uzakta ve devrilmeye karşı sabitlenmiş şekilde tutulmaktadır."
+        },
+        {
+          "f": "Şişme, korozyon, hasar veya kaçak görülen basınçlı gaz tüpü kullanılmamalı ve güvenli alana alınmalıdır. Tedarikçiye veya yetkili firmaya haber verilmeli; tüp, onların talimatına göre iade edilmelidir.",
+          "g": "Şişme, korozyon, hasar veya kaçak görülen basınçlı gaz tüpü kullanılmamakta; tedarikçiye veya yetkili firmaya haber verilerek talimatlarına göre işlem yapılmaktadır."
+        }
+      ],
+      "P13": [
+        {
+          "f": "Kimyasalın bulunduğu kaplar, kullanım dışında sıkıca kapalı tutulmalı; madde yalnızca uygun, kuru ve inert koşullar sağlanmış çalışma alanlarında kullanılmalıdır.",
+          "g": "Kimyasalın bulunduğu kaplar kullanım dışında sıkıca kapalı tutulmakta; madde uygun, kuru ve inert koşullar sağlanmış çalışma alanlarında kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        }
+      ],
+      "P14": [
+        {
+          "f": "Kimyasalın bulunduğu kap, su ve nem kaynaklarından uzakta; kuru, uygun ve kapalı ambalajlarında, üretici talimatlarına göre depolanmalı ve kullanılmalıdır.",
+          "g": "Bu şekilde çalışılmakta ve bu konuda mesleki yeterliliği olan çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        }
+      ]
+    }
+  },
+  {
+    "Sıvı":
+    {
+      "P1": [
+        {
+          "f": "Kimyasal buhar ve aerosollerin çalışma ortamına yayılmasını ve çalışanların solunum yoluyla maruziyetini önlemek amacıyla, yeterli hava emiş kapasitesine sahip cebri çekişli havalandırma sistemi ile kimyasal buharlar mümkün olduğunca kaynağından emilerek ortamdan uzaklaştırılmalıdır.",
+          "g": "Mevcut cebri çekişli havalandırma sistemiyle kaynağından emilerek çalışma ortamından uzaklaştırılmaktadır."
+        },
+        {
+          "f": "Kimyasal maddeninin kullanıldığı bölüm, çalışanların kimyasal maruziyetini önlemek amacıyla fiziksel olarak diğer bölümlerden ayrılmalıdır.",
+          "g": "Kimyasalın kullanıldığı alan fiziksel olarak diğer bölümlerden izole edilmiştir."
+        },
+        {
+          "f": "Kimyasal kullanılan alanda yeterli temiz hava girişi ve genel havalandırma sağlanmalı, cebri çekişli havalandırma sistemi kimyasal işlemler süresince etkin ve çalışır durumda tutulmalıdır.",
+          "g": "Temiz hava girişi sağlanmakta ve cebri çekişli havalandırma sistemi çalışma süresince çalışır vaziyettedir. Bu şekilde çalışma sürdürülmelidir."
+        },
+        {
+          "f": "Havalandırma tesisatı yılda en az bir kez yetkili kişiler tarafından kontrol edilmeli ve varsa tespit edilen uygunsuzluklar giderilmelidir.",
+          "g": "Havalandırma tesisatının periyodik kontrolü gerçekleştirilmiş olup, düzenlenen kontrol raporunda tesisatın uygun olduğu belirtilmiştir."
+        },
+        {
+          "f": "Kimyasal maddenin bulunduğu kabın kapağı yalnızca kullanım sırasında açık tutulmalı, işlem tamamlandıktan hemen sonra kapakları sıkıca kapatılarak kimyasal buharların çalışma ortamına yayılması önlenmelidir.",
+          "g": "Kimyasal maddelerin bulunduğu kaplar yalnızca kullanım sırasında açılmakta, kullanılmadıkları zamanlarda ise kapakları kapalı tutulmaktadır. Bu konuda çalışanlar eğitim verilmiştir."
+        },
+        {
+          "f": "Çalışanların kimyasal buhara maruziyet düzeyenin belirlenmesi amacıyla, kullanılan kimyasal maddenin özelliği dikkate alınarak çalışma ortamında uçucu organik bileşiklerin (VOC) tayinine yönelik kişisel ölçümler yapılmalıdır.",
+          "g": "Kişisel uçucu organik bileşiklerin (VOC) tayini ölçümleri gerçekleştirilmiş olup, ölçüm sonuçlarının ilgili zaman ağırlıklı ortalama (TWA) maruziyet sınır değerlerinin altında olduğu raporda belirtilmiştir."
+        },
+        {
+          "f": "Havalandırmanın yetersiz kaldığı veya kimyasal buhar, gaz ve aerosollere maruziyetin önlenemediği durumlarda, EN 136 veya EN 140 standardına sahip solunum koruyucu maskeler ile EN 14387 standardına uygun gaz ve buhar filtreleri kullanılmalıdır.",
+          "g": "Çalışanların kullanımı için EN 136 standardına uygun tam yüz gaz maskesi ve ABEK1 tipi gaz ve buhar filtresi bulunmaktadır."
+        },
+        {
+          "f": "Kimyasalın bulunduğu kap üzerinde, kimyasalın tehlikeli özelliklerini, zararlılık işaretlerini ve gerekli uyarıları içeren, okunaklı ve mevzuata uygun etiketler bulunmalıdır.",
+          "g": "Kimyasallar üzerinde uygun etiketleme ve zararlılık işaretleri bulunmaktadır."
+        },
+        {
+          "f": "Kimyasal madde muhafaza edildiği kaplar, kimyasalın özelliklerine uygun, sağlam ve sızdırmaz yapıda olmalı; kaplarda çatlak, kırık, deformasyon veya sızıntı bulunmamalıdır.",
+          "g": "Bu niteliğe sahip bir kap içerisinde bulunmaktadır."
+        },
+        {
+          "f": "Kimyasal kaplarının altında, dökülme veya sızıntı durumunda sıvıyı tutabilecek uygun kapasitede taşma havuzu veya sızıntı toplama tepsisi bulundurulmalıdır.",
+          "g": "Kimyasal kaplarının altında, olası dökülme ve sızıntıları toplamak amacıyla uygun taşma havuzu bulunmaktadır."
+        },
+        {
+          "f": "Kimyasal dökülmesi durumunda, dökülen sıvının güvenli bir şekilde temizlenebilmesi için kimyasalın özelliklerine uygun döküntü kiti veya sıvı emici malzeme bulundurulmalıdır.",
+          "g": "Kimyasal döküntü kiti bulunmaktadır."
+        }
+      ],
+      "P2": [
+        {
+          "f": "Yanıcı ve parlayıcı kimyasal buhar, gaz ve aerosollerin ortam havasında birikerek patlayıcı atmosfer oluşturmasını önlemek amacıyla, yeterli hava debisine sahip cebri çekişli havalandırma sistemi kurulmalı veya doğal havalandırma açıklıkları ve kanalları oluşturulmalıdır.",
+          "g": "Yanıcı ve parlayıcı kimyasal buhar ve gazların ortamda birikmesini önlemek amacıyla cebri çekişli havalandırma sistemi bulunmaktadır."
+        },
+        {
+          "f": "Yanıcı ve parlayıcı kimyasal buharların diğer çalışma alanlarına yayılmasını önlemek amacıyla, buhar oluşan alanlar uygun fiziksel ayırma ve izolasyon yöntemleriyle diğer bölümlerden ayrılmalıdır.",
+          "g": "Yanıcı ve parlayıcı kimyasal buhar fiziksel olarak diğer bölümlerden izole edilmiştir."
+        },
+        {
+          "f": "Yanıcı kimyasal kullanılan alanda yeterli temiz hava girişi ve genel havalandırma sağlanmalı, cebri çekişli havalandırma sistemi kimyasal işlemler süresince etkin ve çalışır durumda tutulmalıdır.",
+          "g": "Temiz hava girişi sağlanmakta ve cebri çekişli havalandırma sistemi çalışma süresince çalışır vaziyettedir. Bu şekilde çalışma sürdürülmelidir."
+        },
+        {
+          "f": "Havalandırma tesisatı yılda en az bir kez yetkili kişiler tarafından kontrol edilmeli ve varsa tespit edilen uygunsuzluklar giderilmelidir.",
+          "g": "Havalandırma tesisatının periyodik kontrolü gerçekleştirilmiş olup, düzenlenen kontrol raporunda tesisatın uygun olduğu belirtilmiştir."
+        },
+        {
+          "f": "Kimyasal maddenin bulunduğu kabın kapağı yalnızca kullanım sırasında açık tutulmalı, işlem tamamlandıktan hemen sonra kapakları sıkıca kapatılarak yanıcı kimyasal buharın çalışma ortamına yayılması önlenmelidir.",
+          "g": "Kimyasal maddelerin bulunduğu kaplar yalnızca kullanım sırasında açılmakta, kullanılmadıkları zamanlarda ise kapakları kapalı tutulmaktadır. Bu konuda çalışanlar eğitim verilmiştir."
+        },
+        {
+          "f": "Kimyasal; açık alevlerden, kıvılcımlardan, sıcak yüzeylerden, sigaradan ve diğer bütün ısı veya tutuşturucu kaynaklardan uzak tutulmalıdır.",
+          "g": "Kimyasal kullanılan ve depolanan alanlarda açık alev ve sigara kullanılması yasaklanmıştır."
+        },
+        {
+          "f": "Çalışanların vücudunda biriken statik elektriği güvenli şekilde boşaltmak amacıyla işyerinde statik elektrik topraklama levhası bulunmalıdır.",
+          "g": "Statik elektrik topraklama levhası mevcuttur."
+        },
+        {
+          "f": "Kimyasal buharın, patlayıcı atmosfer oluşturabileceği alanlar için Patlamadan Korunma Dokümanı hazırlanmalı ve söz konusu bölgelerde ilgili tüm güvenlik önlemleri patlamadan korunma dokumanında belirtilen şekilde alınmalıdır.",
+          "g": "Patlamadan korunma dokümanı hazırlanmış ve patlayıcı ortamda alınmış tedbirler yeterli ve uygun olduğu değerlendirilmiştir."
+        },
+        {
+          "f": "Patlamadan korunma dokümanında belirlenen patlayıcı ortam bölgesinde, ilgili bölge sınıfına uygun elektrik tesisatı ve ekipman kullanılmalıdır.",
+          "g": "Patlayıcı ortam içerisinde, ilgili bölge sınıfına uygun elektrik tesisatı ve ekipman kullanılmakta olduğu patlamadan korunma dokumanında beyan edilmiştir."
+        },
+        {
+          "f": "Kimyasal kaynaklı yangınlara müdahale amacıyla çalışma alanına uygun kapasitede köpük veya kuru kimyevi tozlu yangın söndürücü yerleştirilmelidir.",
+          "g": "Çalışma alanında uygun tipte yangın söndürme cihazları bulunmakta ve periyodik kontrolleri yapılmıştır."
+        }
+      ],
+      "P3": [
+        {
+          "f": "Kimyasal maddenin kullanıldığı alana yetkisiz kişilerin ve işi olmayan herkesin girişi sınırlandırılmalıdır.",
+          "g": "Kimyasalın kullanıldığı alana yalnızca kimyasalı kullanan kişiler girmekte, diğer kişilerin girişi yasaklanmıştır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Yetkisiz kişilerin erişimini önlemek amacıyla kilitli veya girişlerin kontrollü olduğu özel depolama alanlarında ya da kilitli dolaplarda muhafaza edilmelidir.",
+          "g": "Kilitli bir alan içerisinde muhafaza edilmekte kontrollü bir biçimde erişilebilmektedir."
+        },
+        {
+          "f": "Kimyasal mümkün olan en az miktarda kullanılmalı; işlem kapalı sistem içerisinde gerçekleştirilmeli ve maruz kalabilecek çalışan sayısı en düşük düzeyde tutulmalıdır.",
+          "g": "Kanserojen kimyasal çeker ocak içinde gerekli en düşük miktarda kullanılmakta, çalışma yalnızca yetkili çalışanlar tarafından gerçekleştirilmektedir."
+        },
+        {
+          "f": "Kimyasalın kullanımı sırasında ABEK2 EN 136 - EN 140 uygun solunum koruyucu kullanılmalıdır.",
+          "g": "EN 136 gaz maskesi ve ABEK2  filtre bulunmaktadır."
+        },
+        {
+          "f": "Kimyasalla ile çalışanlara, tek kullanımlık iş elbisesi ve kimyasala dayanıklı eldivenler kullanılmalıdır.",
+          "g": "Tek kullanımlık iş elbisesi ve kimyasala dayanıklı eldiven kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasalın çalışanın ellerine veya vücudunun başka bir bölgesine temas etmesi hâlinde, etkilenen bölgenin derhal yıkanabilmesi için çalışma alanına yakın, kolay erişilebilir bir lavabo ve temiz su bulundurulmalıdır.",
+          "g": "Çalışma alanına yakın, kimyasalın temas ettiği el veya vücut bölgesinin yıkanması için kolay erişilebilir lavabo ve temiz su bulunmaktadır."
+        }
+      ],
+      "P4": [
+        {
+          "f": "Çevreye zararlı kimyasal ve bu kimyasalla kirlenmiş sıvılar kesinlikle lavaboya, tuvalete, kanalizasyona, yağmur suyu giderine veya doğrudan çevreye boşaltılmamalıdır.",
+          "g": "Çevreye zararlı kimyasalların ve kimyasalla kirlenmiş sıvıların kanalizasyon veya su giderlerine boşaltılması yasaklanmıştır."
+        },
+        {
+          "f": "Kimyasal dökülmesi durumunda, dökülen sıvının güvenli bir şekilde temizlenebilmesi için kimyasalın özelliklerine uygun döküntü kiti veya sıvı emici malzeme bulundurulmalıdır.",
+          "g": "Kimyasal döküntü kiti bulunmaktadır."
+        },
+        {
+          "f": "Kimyasal depolama ve kullanım alanlarının zemini geçirimsiz, kolay temizlenebilir ve sıvıyı su giderlerine yönlendirmeyecek yapıda olmalıdır.",
+          "g": "Kimyasal kullanılan alanların zeminleri geçirimsizdir ve olası kimyasal yayılımının su giderlerine ulaşmasını engelleyecek şekilde düzenlenmiştir."
+        }
+      ],
+      "P5": [
+        {
+          "f": "Oksitleyici sınıftaki kimyasallar, yanıcı maddelerden, organik kimyasallardan, yağlardan, greslerden, indirgen maddelerden ayrı olarak depolanmalıdır.",
+          "g": "Sadece oksitleyicilerin olduğu, başka bir kimyasalın bulunmadığı bir kısımda depolanmaktadır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Oksitleyici kimyasalın kullanıldığı alanda, yanıcı ve parlayıcı kimyasallarla temas ederek yangına neden olmasını önlemek amacıyla bu maddelerin bir arada bulundurulması yasaklanmalıdır.",
+          "g": "Farklı alanlarda bulundurulmakta ve aynı ortam içerisinde kullanılmamaktadır."
+        }
+      ],
+      "P6": [
+        {
+          "f": "Çok düşük sıcaklıktaki sıvılaştırılmış gazlarla yapılan işlemler tamamlandıktan sonra, gazın kontrolsüz şekilde açığa çıkmasını ve ciltle temasına bağlı soğuk yanıklarına maruz kalmasını önlemek amacıyla gaz kaynağı güvenli şekilde kapatılmalı ve gaz akışı kesilmelidir.",
+          "g": "Çok düşük sıcaklıktaki sıvılaştırılmış gazlarla yapılan işlemler tamamlandıktan sonra gaz kaynağı kapatılarak gaz akışı kesilmektedir."
+        }
+      ],
+      "P7": [
+        {
+          "f": "Kimyasalların göze sıçrama riskine karşı, ilgili EN 166 standardına uygun, göz çevresini tamamen kapatan ve kimyasal sıçramalarına karşı koruma sağlayan sızdırmaz koruyucu gözlük kullanılmalıdır.",
+          "g": "Çalışanlara kimyasal sıçramalarına karşı koruma sağlayan, göz çevresini tamamen kapatan uygun koruyucu gözlükler temin edilmekte ve çalışma sırasında kullanılması sağlanmaktadır."
+        },
+        {
+          "f": "Kimyasalın göze temas etmesi durumunda, gözlerin derhal ve kesintisiz şekilde bol suyla yıkanabilmesi için çalışma alanında kolay erişilebilir, uygun göz yıkama ekipmanı bulundurulmalıdır.",
+          "g": "Çalışma alanında, kimyasalların göze temas etmesi durumunda hızlı müdahale edilebilmesi amacıyla kolay erişilebilir göz yıkama solüsyonu ve lavabo bulunmaktadır."
+        }
+      ],
+      "P8": [
+        {
+          "f": "Aşındırıcı kimyasalla çalışanlara, EN 374 standardına göre kimyasal koruma sağlayan eldiven ve kimyasala dayanıklı koruyucu iş elbisesi temin edilmeli ve çalışma sırasında kullanılması sağlanmalıdır.",
+          "g": "Çalışanlara EN 374 standardına uygun iş eldiveni ve kimyasala dayanıklı iş elbisesi verilmektedir."
+        },
+        {
+          "f": "Aşındırıcı kimyasalın el veya ciltle teması durumunda, etkilenen bölgenin derhal bol suyla yıkanabilmesi için çalışma alanında kolay erişilebilir ve uygun acil yıkama imkânı bulundurulmalıdır.",
+          "g": "Çalışma alanında, aşındırıcı kimyasalların el veya ciltle teması durumunda hızlı müdahale edilebilmesi amacıyla kolay erişilebilir lavabo ve temiz su imkânı bulunmaktadır."
+        }
+      ],
+      "P9": [
+        {
+          "f": "Toksik kimyasalla çalışanlara, EN 374 standardına göre kimyasal koruma sağlayan eldiven ve kimyasala dayanıklı koruyucu iş elbisesi temin edilmeli ve çalışma sırasında kullanılması sağlanmalıdır.",
+          "g": "Çalışanlara EN 374 standardına uygun iş eldiveni ve kimyasala dayanıklı iş elbisesi verilmektedir."
+        },
+        {
+          "f": "Toksik kimyasalın el veya ciltle teması durumunda, etkilenen bölgenin derhal bol suyla yıkanabilmesi için çalışma alanında kolay erişilebilir ve uygun acil yıkama imkânı bulundurulmalıdır.",
+          "g": "Çalışma alanında, toksik kimyasalların el veya ciltle teması durumunda hızlı müdahale edilebilmesi amacıyla kolay erişilebilir lavabo ve temiz su imkânı bulunmaktadır."
+        }
+      ],
+      "P10": [
+        {
+          "f": "Kimyasal kullanılan veya depolanan alanlarda yiyecek ve içecek bulundurulmamalı, yemek yenmemeli ve içecek tüketilmemelidir.",
+          "g": "Kimyasal kullanılan alanlarda yiyecek ve içecek bulundurulması ve tüketilmesi yasaklanmıştır."
+        },
+        {
+          "f": "Kimyasalın bulunduğu kap üzerinde, kimyasalın tehlikeli özelliklerini, zararlılık işaretlerini ve gerekli uyarıları içeren, okunaklı ve mevzuata uygun etiketler bulunmalıdır.",
+          "g": "Kimyasallar üzerinde uygun etiketleme ve zararlılık işaretleri bulunmaktadır."
+        }
+      ],
+      "P11": [
+        {
+          "f": "Basınçlı kaplar, üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmalı; doğrudan ısı kaynaklarından ve güneş ışığından uzak tutulmalıdır.",
+          "g": "Basınçlı kaplar üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmakta; doğrudan ısı kaynaklarından ve güneş ışığından uzakta tutulmaktadır."
+        },
+        {
+          "f": "Şişme, korozyon, hasar veya kaçak görülen aerosol kutuları kullanılmamalı veya yakılmamalıdır.",
+          "g": "Şişme, korozyon, hasar veya kaçak görülen aerosol kutuları kullanılmamakta ve uygun şekilde iade edilmektedir."
+        }
+      ],
+      "P12": [
+        {
+          "f": "Basınçlı gaz tüpleri, üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmalı; doğrudan ısı kaynaklarından uzak tutulmalı ve devrilmeye karşı sabitlenmelidir.",
+          "g": "Basınçlı gaz tüpleri üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmakta; doğrudan ısı kaynaklarından uzakta ve devrilmeye karşı sabitlenmiş şekilde tutulmaktadır."
+        },
+        {
+          "f": "Şişme, korozyon, hasar veya kaçak görülen basınçlı gaz tüpü kullanılmamalı ve güvenli alana alınmalıdır. Tedarikçiye veya yetkili firmaya haber verilmeli; tüp, onların talimatına göre iade edilmelidir.",
+          "g": "Şişme, korozyon, hasar veya kaçak görülen basınçlı gaz tüpü kullanılmamakta; tedarikçiye veya yetkili firmaya haber verilerek talimatlarına göre işlem yapılmaktadır."
+        }
+      ],
+      "P13": [
+        {
+          "f": "Kimyasalın bulunduğu kaplar, kullanım dışında sıkıca kapalı tutulmalı; madde yalnızca uygun, kuru ve inert koşullar sağlanmış çalışma alanlarında kullanılmalıdır.",
+          "g": "Kimyasalın bulunduğu kaplar kullanım dışında sıkıca kapalı tutulmakta; madde uygun, kuru ve inert koşullar sağlanmış çalışma alanlarında kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        }
+      ],
+      "P14": [
+        {
+          "f": "Kimyasalın bulunduğu kap, su ve nem kaynaklarından uzakta; kuru, uygun ve kapalı ambalajlarında, üretici talimatlarına göre depolanmalı ve kullanılmalıdır.",
+          "g": "Bu şekilde çalışılmakta ve bu konuda mesleki yeterliliği olan çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        }
+      ]
+    }
+  },
+  {
+    "Gaz":
+    {
+      "P1": [
+        {
+          "f": "Kimyasal gazın çalışma ortamına yayılmasını ve çalışanların solunum yoluyla maruziyetini önlemek amacıyla, yeterli hava emiş kapasitesine sahip cebri çekişli havalandırma sistemi ile gazın mümkün olduğunca kaynağından emilerek ortamdan uzaklaştırılmalıdır.",
+          "g": "Mevcut cebri çekişli havalandırma sistemiyle kaynağından emilerek çalışma ortamından uzaklaştırılmaktadır."
+        },
+        {
+          "f": "Kimyasal gazın kullanıldığı bölüm, çalışanların kimyasal maruziyetini önlemek amacıyla fiziksel olarak diğer bölümlerden ayrılmalıdır.",
+          "g": "Kimyasalın kullanıldığı alan fiziksel olarak diğer bölümlerden izole edilmiştir."
+        },
+        {
+          "f": "Kimyasal kullanılan alanda yeterli temiz hava girişi ve genel havalandırma sağlanmalı, cebri çekişli havalandırma sistemi operasyon süresince etkin ve çalışır durumda tutulmalıdır.",
+          "g": "Temiz hava girişi sağlanmakta ve cebri çekişli havalandırma sistemi çalışma süresince çalışır vaziyettedir. Bu şekilde çalışma sürdürülmelidir."
+        },
+        {
+          "f": "Havalandırma tesisatı yılda en az bir kez yetkili kişiler tarafından kontrol edilmeli ve varsa tespit edilen uygunsuzluklar giderilmelidir.",
+          "g": "Havalandırma tesisatının periyodik kontrolü gerçekleştirilmiş olup, düzenlenen kontrol raporunda tesisatın uygun olduğu belirtilmiştir."
+        },
+        {
+          "f": "Kimyasal gazın bulunduğu kabın kapağı yalnızca kullanım sırasında açık tutulmalı, işlem tamamlandıktan hemen sonra kapakları sıkıca kapatılarak kimyasal buharların çalışma ortamına yayılması önlenmelidir.",
+          "g": "Kimyasal gazın bulunduğu kaplar yalnızca kullanım sırasında açılmakta, kullanılmadıkları zamanlarda ise kapakları kapalı tutulmaktadır. Bu konuda çalışanlar eğitim verilmiştir."
+        },
+        {
+          "f": "Çalışanların kimyasal gaza maruziyet düzeyenin belirlenmesi amacıyla, kullanılan kimyasal maddenin özelliği dikkate alınarak çalışma ortamında uçucu organik bileşiklerin (VOC) tayinine yönelik kişisel ölçümler yapılmalıdır.",
+          "g": "Kişisel uçucu organik bileşiklerin (VOC) tayini ölçümleri gerçekleştirilmiş olup, ölçüm sonuçlarının ilgili zaman ağırlıklı ortalama (TWA) maruziyet sınır değerlerinin altında olduğu raporda belirtilmiştir."
+        },
+        {
+          "f": "Havalandırmanın yetersiz kaldığı veya kimyasal gaza maruziyetin önlenemediği durumlarda, EN 136 veya EN 140 standardına sahip solunum koruyucu maskeler ile EN 14387 standardına uygun gaz ve buhar filtreleri kullanılmalıdır.",
+          "g": "Çalışanların kullanımı için EN 136 standardına uygun tam yüz gaz maskesi ve ABEK1 tipi gaz ve buhar filtresi bulunmaktadır."
+        },
+        {
+          "f": "Kimyasalın bulunduğu kap üzerinde, kimyasalın tehlikeli özelliklerini, zararlılık işaretlerini ve gerekli uyarıları içeren, okunaklı ve mevzuata uygun etiketler bulunmalıdır.",
+          "g": "Kimyasallar üzerinde uygun etiketleme ve zararlılık işaretleri bulunmaktadır."
+        },
+        {
+          "f": "Kimyasal madde muhafaza edildiği kaplar, kimyasalın özelliklerine uygun, sağlam ve sızdırmaz yapıda olmalı; kaplarda çatlak, kırık, deformasyon veya sızıntı bulunmamalıdır.",
+          "g": "Bu niteliğe sahip bir kap içerisinde bulunmaktadır."
+        }
+      ],
+      "P2": [
+        {
+          "f": "Yanıcı kimyasal gazın ortam havasında birikerek patlayıcı atmosfer oluşturmasını önlemek amacıyla, yeterli hava debisine sahip cebri çekişli havalandırma sistemi kurulmalı veya doğal havalandırma açıklıkları ve kanalları oluşturulmalıdır.",
+          "g": "Yanıcı kimyasal gazın  ortamda birikmesini önlemek amacıyla cebri çekişli havalandırma sistemi bulunmaktadır."
+        },
+        {
+          "f": "Yanıcı kimyasal gazın diğer çalışma alanlarına yayılmasını önlemek amacıyla, buhar oluşan alanlar uygun fiziksel ayırma ve izolasyon yöntemleriyle diğer bölümlerden ayrılmalıdır.",
+          "g": "Yanıcı kimyasal gazın fiziksel olarak diğer bölümlerden izole edilmiştir."
+        },
+        {
+          "f": "Yanıcı kimyasal gaz kullanılan alanda yeterli temiz hava girişi ve genel havalandırma sağlanmalı, cebri çekişli havalandırma sistemi kimyasal işlemler süresince etkin ve çalışır durumda tutulmalıdır.",
+          "g": "Temiz hava girişi sağlanmakta ve cebri çekişli havalandırma sistemi çalışma süresince çalışır vaziyettedir. Bu şekilde çalışma sürdürülmelidir."
+        },
+        {
+          "f": "Havalandırma tesisatı yılda en az bir kez yetkili kişiler tarafından kontrol edilmeli ve varsa tespit edilen uygunsuzluklar giderilmelidir.",
+          "g": "Havalandırma tesisatının periyodik kontrolü gerçekleştirilmiş olup, düzenlenen kontrol raporunda tesisatın uygun olduğu belirtilmiştir."
+        },
+        {
+          "f": "Yanıcı kimyasal gazın bulunduğu kabın kapağı yalnızca kullanım sırasında açık tutulmalı, işlem tamamlandıktan hemen sonra kapakları sıkıca kapatılarak yanıcı kimyasal buharın çalışma ortamına yayılması önlenmelidir.",
+          "g": "Kimyasal maddelerin bulunduğu kaplar yalnızca kullanım sırasında açılmakta, kullanılmadıkları zamanlarda ise kapakları kapalı tutulmaktadır. Bu konuda çalışanlar eğitim verilmiştir."
+        },
+        {
+          "f": "Kimyasal; açık alevlerden, kıvılcımlardan, sıcak yüzeylerden, sigaradan ve diğer bütün ısı veya tutuşturucu kaynaklardan uzak tutulmalıdır.",
+          "g": "Kimyasal kullanılan ve depolanan alanlarda açık alev ve sigara kullanılması yasaklanmıştır."
+        },
+        {
+          "f": "Çalışanların vücudunda biriken statik elektriği güvenli şekilde boşaltmak amacıyla işyerinde statik elektrik topraklama levhası bulunmalıdır.",
+          "g": "Statik elektrik topraklama levhası mevcuttur."
+        },
+        {
+          "f": "Yanıcı kimyasal gazın, patlayıcı atmosfer oluşturabileceği alanlar için Patlamadan Korunma Dokümanı hazırlanmalı ve söz konusu bölgelerde ilgili tüm güvenlik önlemleri patlamadan korunma dokumanında belirtilen şekilde alınmalıdır.",
+          "g": "Patlamadan korunma dokümanı hazırlanmış ve patlayıcı ortamda alınmış tedbirler yeterli ve uygun olduğu değerlendirilmiştir."
+        },
+        {
+          "f": "Patlamadan korunma dokümanında belirlenen patlayıcı ortam bölgesinde, ilgili bölge sınıfına uygun elektrik tesisatı ve ekipman kullanılmalıdır.",
+          "g": "Patlayıcı ortam içerisinde, ilgili bölge sınıfına uygun elektrik tesisatı ve ekipman kullanılmakta olduğu patlamadan korunma dokumanında beyan edilmiştir."
+        },
+        {
+          "f": "Kimyasal kaynaklı yangınlara müdahale amacıyla çalışma alanına uygun kapasitede köpük veya kuru kimyevi tozlu yangın söndürücü yerleştirilmelidir.",
+          "g": "Çalışma alanında uygun tipte yangın söndürme cihazları bulunmakta ve periyodik kontrolleri yapılmıştır."
+        }
+      ],
+      "P3": [
+        {
+          "f": "Kimyasal maddenin kullanıldığı alana yetkisiz kişilerin ve işi olmayan herkesin girişi sınırlandırılmalıdır.",
+          "g": "Kimyasalın kullanıldığı alana yalnızca kimyasalı kullanan kişiler girmekte, diğer kişilerin girişi yasaklanmıştır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Yetkisiz kişilerin erişimini önlemek amacıyla kilitli veya girişlerin kontrollü olduğu özel depolama alanlarında ya da kilitli dolaplarda muhafaza edilmelidir.",
+          "g": "Kilitli bir alan içerisinde muhafaza edilmekte kontrollü bir biçimde erişilebilmektedir."
+        },
+        {
+          "f": "Kimyasal mümkün olan en az miktarda kullanılmalı; işlem kapalı sistem içerisinde gerçekleştirilmeli ve maruz kalabilecek çalışan sayısı en düşük düzeyde tutulmalıdır.",
+          "g": "Kanserojen kimyasal çeker ocak içinde gerekli en düşük miktarda kullanılmakta, çalışma yalnızca yetkili çalışanlar tarafından gerçekleştirilmektedir."
+        },
+        {
+          "f": "Kimyasal gazın  kullanımı sırasında ABEK2 EN 136 - EN 140 uygun solunum koruyucu kullanılmalıdır.",
+          "g": "EN 136 gaz maskesi ve ABEK2  filtre bulunmaktadır."
+        },
+        {
+          "f": "Kimyasalın çalışanın ellerine veya vücudunun başka bir bölgesine temas etmesi hâlinde, etkilenen bölgenin derhal yıkanabilmesi için çalışma alanına yakın, kolay erişilebilir bir lavabo ve temiz su bulundurulmalıdır.",
+          "g": "Çalışma alanına yakın, kimyasalın temas ettiği el veya vücut bölgesinin yıkanması için kolay erişilebilir lavabo ve temiz su bulunmaktadır."
+        }
+      ],
+      "P4": [
+        {
+          "f": "Ozon tabakasına zararlı kimyasalın atmosfere salınmasını önlemek amacıyla, kimyasal kapalı ve sızdırmaz kaplarda muhafaza edilmeli; kullanım ve depolama sırasında oluşabilecek kaçak ve dökülmelere karşı uygun önlemler alınmalıdır.",
+          "g": "Kimyasal kapalı ve sızdırmaz kaplarda muhafaza edilmekte; kullanım ve depolama alanlarında kaçak veya dökülmelere karşı gerekli önlemler uygulanmaktadır."
+        }
+      ],
+      "P5": [
+        {
+          "f": "Oksitleyici sınıftaki kimyasallar, yanıcı maddelerden, organik kimyasallardan, yağlardan, greslerden, indirgen maddelerden ayrı olarak depolanmalıdır.",
+          "g": "Sadece oksitleyicilerin olduğu, başka bir kimyasalın bulunmadığı bir kısımda depolanmaktadır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Oksitleyici kimyasalın kullanıldığı alanda, yanıcı ve parlayıcı kimyasallarla temas ederek yangına neden olmasını önlemek amacıyla bu maddelerin bir arada bulundurulması yasaklanmalıdır.",
+          "g": "Farklı alanlarda bulundurulmakta ve aynı ortam içerisinde kullanılmamaktadır."
+        }
+      ],
+      "P6": [
+        {
+          "f": "Çok düşük sıcaklıktaki sıvılaştırılmış gazlarla yapılan işlemler tamamlandıktan sonra, gazın kontrolsüz şekilde açığa çıkmasını ve ciltle temasına bağlı soğuk yanıklarına maruz kalmasını önlemek amacıyla gaz kaynağı güvenli şekilde kapatılmalı ve gaz akışı kesilmelidir.",
+          "g": "Çok düşük sıcaklıktaki sıvılaştırılmış gazlarla yapılan işlemler tamamlandıktan sonra gaz kaynağı kapatılarak gaz akışı kesilmektedir."
+        }
+      ],
+      "P7": [
+        {
+          "f": "Kimyasalın gazın, göz ile etkileşime girmesi halinde gözlerin derhal yıkanabilmesi için çalışma alanında kolay erişilebilir göz yıkama istasyonu bulundurulmalıdır.",
+          "g": "Çalışma alanında, kimyasalların göze temas etmesi durumunda hızlı müdahale edilebilmesi amacıyla kolay erişilebilir göz yıkama solüsyonu ve lavabo bulunmaktadır."
+        }
+      ],
+      "P8": [
+        {
+          "f": "Aşındırıcı kimyasalla çalışanlara, EN 374 standardına göre kimyasal koruma sağlayan eldiven ve kimyasala dayanıklı koruyucu iş elbisesi temin edilmeli ve çalışma sırasında kullanılması sağlanmalıdır.",
+          "g": "Çalışanlara EN 374 standardına uygun iş eldiveni ve kimyasala dayanıklı iş elbisesi verilmektedir."
+        },
+        {
+          "f": "Aşındırıcı kimyasalın el veya ciltle teması durumunda, etkilenen bölgenin derhal bol suyla yıkanabilmesi için çalışma alanında kolay erişilebilir ve uygun acil yıkama imkânı bulundurulmalıdır.",
+          "g": "Çalışma alanında, aşındırıcı kimyasalların el veya ciltle teması durumunda hızlı müdahale edilebilmesi amacıyla kolay erişilebilir lavabo ve temiz su imkânı bulunmaktadır."
+        }
+      ],
+      "P9": [
+        {
+          "f": "Toksik kimyasalla çalışanlara, EN 374 standardına göre kimyasal koruma sağlayan eldiven ve kimyasala dayanıklı koruyucu iş elbisesi temin edilmeli ve çalışma sırasında kullanılması sağlanmalıdır.",
+          "g": "Çalışanlara EN 374 standardına uygun iş eldiveni ve kimyasala dayanıklı iş elbisesi verilmektedir."
+        },
+        {
+          "f": "Toksik kimyasalın el veya ciltle teması durumunda, etkilenen bölgenin derhal bol suyla yıkanabilmesi için çalışma alanında kolay erişilebilir ve uygun acil yıkama imkânı bulundurulmalıdır.",
+          "g": "Çalışma alanında, toksik kimyasalların el veya ciltle teması durumunda hızlı müdahale edilebilmesi amacıyla kolay erişilebilir lavabo ve temiz su imkânı bulunmaktadır."
+        }
+      ],
+      "P10": [
+        {
+          "f": "Kimyasal kullanılan veya depolanan alanlarda yiyecek ve içecek bulundurulmamalı, yemek yenmemeli ve içecek tüketilmemelidir.",
+          "g": "Kimyasal kullanılan alanlarda yiyecek ve içecek bulundurulması ve tüketilmesi yasaklanmıştır."
+        },
+        {
+          "f": "Kimyasalın bulunduğu kap üzerinde, kimyasalın tehlikeli özelliklerini, zararlılık işaretlerini ve gerekli uyarıları içeren, okunaklı ve mevzuata uygun etiketler bulunmalıdır.",
+          "g": "Kimyasallar üzerinde uygun etiketleme ve zararlılık işaretleri bulunmaktadır."
+        }
+      ],
+      "P11": [
+        {
+          "f": "Basınçlı kaplar, üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmalı; doğrudan ısı kaynaklarından ve güneş ışığından uzak tutulmalıdır.",
+          "g": "Basınçlı kaplar üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmakta; doğrudan ısı kaynaklarından ve güneş ışığından uzakta tutulmaktadır."
+        },
+        {
+          "f": "Şişme, korozyon, hasar veya kaçak görülen aerosol kutuları kullanılmamalı veya yakılmamalıdır.",
+          "g": "Şişme, korozyon, hasar veya kaçak görülen aerosol kutuları kullanılmamakta ve uygun şekilde iade edilmektedir."
+        }
+      ],
+      "P12": [
+        {
+          "f": "Basınçlı gaz tüpleri, üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmalı; doğrudan ısı kaynaklarından uzak tutulmalı ve devrilmeye karşı sabitlenmelidir.",
+          "g": "Basınçlı gaz tüpleri üretici talimatlarına ve belirtilen sıcaklık sınırlarına uygun kullanılmakta; doğrudan ısı kaynaklarından uzakta ve devrilmeye karşı sabitlenmiş şekilde tutulmaktadır."
+        },
+        {
+          "f": "Şişme, korozyon, hasar veya kaçak görülen basınçlı gaz tüpü kullanılmamalı ve güvenli alana alınmalıdır. Tedarikçiye veya yetkili firmaya haber verilmeli; tüp, onların talimatına göre iade edilmelidir.",
+          "g": "Şişme, korozyon, hasar veya kaçak görülen basınçlı gaz tüpü kullanılmamakta; tedarikçiye veya yetkili firmaya haber verilerek talimatlarına göre işlem yapılmaktadır."
+        }
+      ],
+      "P13": [
+        {
+          "f": "Kimyasalın bulunduğu kaplar, kullanım dışında sıkıca kapalı tutulmalı; madde yalnızca uygun, kuru ve inert koşullar sağlanmış çalışma alanlarında kullanılmalıdır.",
+          "g": "Kimyasalın bulunduğu kaplar kullanım dışında sıkıca kapalı tutulmakta; madde uygun, kuru ve inert koşullar sağlanmış çalışma alanlarında kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        }
+      ],
+      "P14": [
+        {
+          "f": "Kimyasalın bulunduğu kap, su ve nem kaynaklarından uzakta; kuru, uygun ve kapalı ambalajlarında, üretici talimatlarına göre depolanmalı ve kullanılmalıdır.",
+          "g": "Bu şekilde çalışılmakta ve bu konuda mesleki yeterliliği olan çalışanlar tarafından kullanılmaktadır."
+        },
+        {
+          "f": "Kimyasal, yalnızca bu maddeye ilişkin tehlikeler ve güvenli çalışma yöntemleri konusunda mesleki yeterliliğe sahip çalışanlar tarafından kullanılmalıdır.",
+          "g": "Mesleki yeterliliğe sahip çalışanlar tarafından kullanılmaktadır."
+        }
+      ]
+    }
+  },
+  {
+    "Risk":
+    [
+      {
+        "id": "p0",
+        "c": "Patlayıcı madde",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 6,
+        "m": 1,
+        "q": "P2"
+      },
+      {
+        "id": "y0",
+        "c": "Gazın sızıntı, kaçak vb. bir nedenle ortam havasında patlayıcı ortam oluşturması",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 6,
+        "m": 1,
+        "q": "P2"
+      },
+      {
+        "id": "y1",
+        "c": "Alevlenir aerosolün ortam havasına karışarak patlayıcı ortam oluşturması",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 6,
+        "m": 1,
+        "q": "P2"
+      },
+      {
+        "id": "y2",
+        "c": "Sıvının buharlaşarak ortam havasında patlayıcı ortam oluşturması",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 6,
+        "m": 1,
+        "q": "P2"
+      },
+      {
+        "id": "y4",
+        "c": "Basınçlı kabın ısıtılması sonucunda tüpün basınç sebebi ile patlaması",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 2,
+        "m": 1,
+        "q": "P11"
+      },
+      {
+        "id": "y5",
+        "c": "Kimyasalın, hava ile temas etmesi sonucu kendiliğinden tutuşması",
+        "d": "Yangın sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 2,
+        "m": 1,
+        "q": "P13"
+      },
+      {
+        "id": "y6",
+        "c": "Kimyasalın, suyla temas etmesi sonucu ortam havasında patlayıcı ortam oluşturması",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 2,
+        "m": 1,
+        "q": "P14"
+      },
+      {
+        "id": "o1",
+        "c": "Oksitleyici gazın, yanıcı madde ile teması sonucunda oluşabilecek yangın",
+        "d": "Yangın sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 2,
+        "m": 1,
+        "q": "P5"
+      },
+      {
+        "id": "o2",
+        "c": "Güçlü oksitleyici maddenin, yanıcı madde ile teması sonucunda oluşabilecek patlama",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 2,
+        "m": 1,
+        "q": "P5"
+      },
+      {
+        "id": "o3",
+        "c": "Oksitleyici maddenin, yanıcı madde ile teması sonucunda oluşabilecek yangın",
+        "d": "Yangın sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 2,
+        "m": 1,
+        "q": "P5"
+      },
+      {
+        "id": "b1",
+        "c": "Basınçlı gaz tüpünün ısıtılması sonucunda tüpün basınç sebebi ile patlaması",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 1,
+        "m": 1,
+        "q": "P12"
+      },
+      {
+        "id": "b2",
+        "c": "Çok düşük sıcaklıktaki sıvılaştırılmış gazların, ciltle teması",
+        "d": "Soğuk yanıkları, donma ve ciddi doku hasarına bağlı yaralanma",
+        "e": "Kimyasal kullanan çalışanlar",
+        "k": 7,
+        "l": 10,
+        "m": 1,
+        "q": "P6"
+      },
+      {
+        "id": "t0",
+        "c": "Kimyasal maddenin ağız yoluyla yutulması sonucu zehirlenme",
+        "d": "Zehirlenme sonucunda ölümlü iş kazası",
+        "e": "Kimyasal kullanan çalışanlar",
+        "k": 40,
+        "l": 6,
+        "m": "0.5",
+        "q": "P10"
+      },
+      {
+        "id": "t2",
+        "c": "Akut toksik kimyasalın ciltle teması sonucu deri yoluyla vücuda alınması",
+        "d": "Akut zehirlenme sonucu ölüm veya ciddi sağlık sorunu",
+        "e": "Kimyasal kullanan çalışanlar",
+        "k": 40,
+        "l": 6,
+        "m": 6,
+        "q": "P9"
+      },
+      {
+        "id": "t3",
+        "c": "Aşındırıcı kimyasalın ciltle teması",
+        "d": "Ciltte tahriş sonucu yaralanma",
+        "e": "Kimyasal kullanan çalışanlar",
+        "k": 7,
+        "l": 6,
+        "m": 6,
+        "q": "P8"
+      },
+      {
+        "id": "t4",
+        "c": "Aşındırıcı kimyasalın ciltle teması",
+        "d": "Allerjik cilt reaksiyonu",
+        "e": "Kimyasal kullanan çalışanlar",
+        "k": 15,
+        "l": 6,
+        "m": 1,
+        "q": "P8"
+      },
+      {
+        "id": "t5",
+        "c": "Aşındırıcı kimyasalın gözle teması",
+        "d": "Gözde hasar veya tahriş",
+        "e": "Kimyasal kullanan çalışanlar",
+        "k": 7,
+        "l": 6,
+        "m": 6,
+        "q": "P7"
+      },
+      {
+        "id": "t1",
+        "c": "Kimyasal buharın solunması sonucu akut zehirlenme meydana gelmesi",
+        "d": "Akut zehirlenme sonucu ölüm veya ciddi sağlık sorunu",
+        "e": "Kimyasal kullanan çalışanlar ve maruziyet alanında bulunan diğer kişiler",
+        "k": 40,
+        "l": 6,
+        "m": 1,
+        "q": "P1"
+      },
+      {
+        "id": "t6",
+        "c": "Solunum açısından zararlı kimyasalın solunması",
+        "d": "Solunum yoluna bağlı meslek hastalıkları",
+        "e": "Kimyasal kullanan çalışanlar ve maruziyet alanında bulunan diğer kişiler",
+        "k": 15,
+        "l": 6,
+        "m": 3,
+        "q": "P1"
+      },
+      {
+        "id": "t7",
+        "c": "Merkezi sinir sistemi üzerinde geçici baskılayıcı etki oluşturabilecek kimyasal maddelerin solunması",
+        "d": "Sersemlik, rehavet, baş dönmesi, dikkat ve koordinasyon bozukluğu meydana gelmesi",
+        "e": "Kimyasal kullanan çalışanlar ve maruziyet alanında bulunan diğer kişiler",
+        "k": 15,
+        "l": 6,
+        "m": 3,
+        "q": "P1"
+      },
+      {
+        "id": "m0",
+        "c": "Genetik hasara neden olabilecek mutajenik kimyasal maddelere maruz kalınması",
+        "d": "Hücrelerin genetik yapısında (DNA) kalıcı değişiklikler, buna bağlı kalıtsal genetik bozuklukların oluşması.",
+        "e": "Kimyasal kullanan çalışanlar ve maruziyet alanında bulunan diğer kişiler",
+        "k": 15,
+        "l": 3,
+        "m": 3,
+        "q": "P1 + P3"
+      },
+      {
+        "id": "k0",
+        "c": "Kanserojen özellik taşıyan kimyasal maddelere maruz kalınması",
+        "d": "Kimyasal maruziyet sonucunda kanser hastalığının gelişmesi ve mesleki kanser hastalıklarının meydana gelmesi",
+        "e": "Kimyasal kullanan çalışanlar ve maruziyet alanında bulunan diğer kişiler",
+        "k": 15,
+        "l": 3,
+        "m": 3,
+        "q": "P1 + P3"
+      },
+      {
+        "id": "u0",
+        "c": "Üreme sistemi üzerinde toksik etki oluşturabilecek veya doğmamış çocuğun gelişimine zarar verebilecek kimyasal maddelere maruz kalınması",
+        "d": "Üreme fonksiyonlarının ve doğurganlığın olumsuz etkilenmesi, doğmamış çocukta gelişim bozuklukları veya kalıcı sağlık sorunlarının meydana gelmesi",
+        "e": "Kimyasal kullanan çalışanlar ve maruziyet alanında bulunan diğer kişiler",
+        "k": 15,
+        "l": 3,
+        "m": 3,
+        "q": "P1 + P3"
+      },
+      {
+        "id": "u1",
+        "c": "Emzirme döneminde anne sütü yoluyla bebeğe geçerek zararlı etki oluşturabilecek kimyasal maddelere maruz kalınması",
+        "d": "Kimyasal maddelerin anne sütü yoluyla emzirilen çocuğa geçmesi sonucunda zehirlenme ve gelişim bozuklukları",
+        "e": "Kimyasal kullanan çalışanlar ve maruziyet alanında bulunan diğer kişiler",
+        "k": 15,
+        "l": 3,
+        "m": 3,
+        "q": "P1 + P3"
+      },
+      {
+        "id": "u2",
+        "c": "Tek maruziyet sonucunda belirli hedef organlarda toksik etki veya hasar oluşturabilen kimyasal maddelere maruz kalınması",
+        "d": "Hedef organlarda ciddi fonksiyon bozuklukları veya kalıcı organ hasarı",
+        "e": "Kimyasal kullanan çalışanlar ve maruziyet alanında bulunan diğer kişiler",
+        "k": 15,
+        "l": 6,
+        "m": 3,
+        "q": "P1 + P3"
+      },
+      {
+        "id": "u3",
+        "c": "Uzun süreli veya tekrarlanan maruziyet sonucunda belirli hedef organlarda toksik etki",
+        "d": "Karaciğer, böbrek, akciğer, sinir sistemi veya diğer hedef organlarda kalıcı hasar ve bunlara bağlı meslek hastalıklarının meydana gelmesi.",
+        "e": "Kimyasal kullanan çalışanlar ve maruziyet alanında bulunan diğer kişiler",
+        "k": 15,
+        "l": 3,
+        "m": 3,
+        "q": "P1 + P3"
+      },
+      {
+        "id": "c0",
+        "c": "Sucul ortam için zararlı kimyasal maddelerin çevreye yayılması",
+        "d": "Su kaynaklarının kirlenmesi, sucul canlıların zarar görmesi ve ekolojik dengenin bozulması",
+        "e": "Sucul canlılar ve çevre",
+        "k": 1,
+        "l": 6,
+        "m": "0.2",
+        "q": "P4"
+      },
+      {
+        "id": "c1",
+        "c": "Kimyasalın, atmosfere salınması sonucunda stratosferdeki ozon tabakasının incelmesi",
+        "d": "Ultraviyole (UV) ışınlarının artması, buna bağlı olarak cilt kanseri, katarakt ve diğer sağlık sorunlarının görülme riskinin artması",
+        "e": "Sucul canlılar ve çevre",
+        "k": 1,
+        "l": 6,
+        "m": "0.2",
+        "q": "P4"
+      }
+    ]
+  },
+  {
+    "kod":
+    [
+      {
+        "k": "H200",
+        "a": "Patlayıcı / Kararsız patlayıcı.",
+        "id": "p0"
+      },
+      {
+        "k": "H201",
+        "a": "Patlayıcı / Patlayıcı; kütlesel patlama zararı.",
+        "id": "p0"
+      },
+      {
+        "k": "H202",
+        "a": "Patlayıcı / Patlayıcı; ciddi yansıtım zararı.",
+        "id": "p0"
+      },
+      {
+        "k": "H203",
+        "a": "Patlayıcı / Patlayıcı; yangın, patlama veya yansıtım zararı.",
+        "id": "p0"
+      },
+      {
+        "k": "H204",
+        "a": "Patlayıcı / Yangın veya yansıtım zararı.",
+        "id": "p0"
+      },
+      {
+        "k": "H205",
+        "a": "Patlayıcı / Yangında kütlesel patlamaya yol açabilir.",
+        "id": "p0"
+      },
+      {
+        "k": "H220",
+        "a": "Alevlenir Gaz / Çok kolay alevlenir gaz.",
+        "id": "y0"
+      },
+      {
+        "k": "H221",
+        "a": "Alevlenir Gaz / Alevlenir gaz.",
+        "id": "y0"
+      },
+      {
+        "k": "H222",
+        "a": "Alevlenir Aerosol / Çok kolay alevlenir aerosol.",
+        "id": "y1"
+      },
+      {
+        "k": "H223",
+        "a": "Alevlenir Aerosol / Alevlenir aerosol.",
+        "id": "y1"
+      },
+      {
+        "k": "H224",
+        "a": "Alevlenir Sıvı / Çok kolay alevlenir sıvı ve buhar.",
+        "id": "y2"
+      },
+      {
+        "k": "H225",
+        "a": "Alevlenir Sıvı / Kolay alevlenir sıvı ve buhar.",
+        "id": "y2"
+      },
+      {
+        "k": "H226",
+        "a": "Alevlenir Sıvı / Alevlenir sıvı ve buhar.",
+        "id": "y2"
+      },
+      {
+        "k": "H228",
+        "a": "Alevlenir Katı / Alevlenir katı.",
+        "id": "y7"
+      },
+      {
+        "k": "H229",
+        "a": "Aerosol / Basınçlı kap ısıtma patlamaya yol açabilir.",
+        "id": "y4"
+      },
+      {
+        "k": "H230",
+        "a": "Alevlenir Gaz / Hava olmadığında bile patlayabilir.",
+        "id": "y0"
+      },
+      {
+        "k": "H231",
+        "a": "Alevlenir Gaz / Yüksek basınçta ve/veya sıcaklıkta, hava olmadığında bile, patlayabilir.",
+        "id": "y0"
+      },
+      {
+        "k": "H240",
+        "a": "Kendiliğinden Tepkimeye Giren Madde ve Karışımlar / Isıtma patlamaya yol açabilir.",
+        "id": "y3"
+      },
+      {
+        "k": "H241",
+        "a": "Kendiliğinden Tepkimeye Giren Madde ve Karışımlar / Isıtma yangına veya patlamaya yol açabilir.",
+        "id": "y3"
+      },
+      {
+        "k": "H242",
+        "a": "Kendiliğinden Tepkimeye Giren Madde ve Karışımlar / Isıtma yangına yol açabilir.",
+        "id": "y3"
+      },
+      {
+        "k": "H250",
+        "a": "Piroforik Sıvı ve Katı / Hava ile temas ettiğinde ani yangınlara yol açar.",
+        "id": "y5"
+      },
+      {
+        "k": "H251",
+        "a": "Kendiliğinden Isınan Madde ve Karışımlar / Kendiliğinden ısınır; alev alabilir.",
+        "id": "y5"
+      },
+      {
+        "k": "H252",
+        "a": "Kendiliğinden Isınabilen Madde ve Karışımlar / Büyük miktarlarda kendiliğinden ısınır; yangına yol açabilir.",
+        "id": "y5"
+      },
+      {
+        "k": "H260",
+        "a": "Su ile Temasında Alevlenir Gazlar Çıkaran Madde ve Karışımlar / Su ile temas ettiğinde kendiliğinden tutuşabilen alevlenir gazlar yayar.",
+        "id": "y6"
+      },
+      {
+        "k": "H261",
+        "a": "Su ile Temasında Alevlenir Gazlar Çıkaran Madde ve Karışımlar / Su ile temas ettiğinde alevlenir gazlar yayar.",
+        "id": "y6"
+      },
+      {
+        "k": "H270",
+        "a": "Oksitleyici Gaz / Yangına yol açabilir veya yangını şiddetlendirebilir; oksitleyici.",
+        "id": "o1"
+      },
+      {
+        "k": "H271",
+        "a": "Oksitleyici Sıvı ve Katı / Yangına veya patlamaya yol açabilir; güçlü oksitleyici.",
+        "id": "o2"
+      },
+      {
+        "k": "H272",
+        "a": "Oksitleyici Sıvı ve Katı / Yangını güçlendirebilir; oksitleyici.",
+        "id": "o3"
+      },
+      {
+        "k": "H280",
+        "a": "Sıkıştırılmış, Sıvılaştırılmış veya Çözünmüş Gaz / Basınçlı gaz içerir; ısıtıldığında patlayabilir.",
+        "id": "b1"
+      },
+      {
+        "k": "H281",
+        "a": "Soğutulmuş Sıvılaştırılmış Gaz / Soğutulmuş gaz içerir; soğuktan yanma veya yaralanmalara yol açabilir.",
+        "id": "b2"
+      },
+      {
+        "k": "H290",
+        "a": "Metaller İçin Aşındırıcı / Metalleri aşındırabilir.",
+        "id": "x"
+      },
+      {
+        "k": "H300",
+        "a": "Ağız Yolu ile Akut Toksisite / Yutulması halinde öldürücüdür.",
+        "id": "t0"
+      },
+      {
+        "k": "H301",
+        "a": "Ağız Yolu ile Akut Toksisite / Yutulması halinde toksiktir.",
+        "id": "t0"
+      },
+      {
+        "k": "H302",
+        "a": "Ağız Yolu ile Akut Toksisite / Yutulması halinde zararlıdır.",
+        "id": "t0"
+      },
+      {
+        "k": "H304",
+        "a": "Aspirasyon Zararı / Solunum yoluna nüfuzu ve yutulması halinde akut zehirlenme ölüm.",
+        "id": "t1"
+      },
+      {
+        "k": "H310",
+        "a": "Cilt Yolu ile Akut Toksisite / Cilt ile teması halinde öldürücüdür.",
+        "id": "t2"
+      },
+      {
+        "k": "H311",
+        "a": "Cilt Yolu ile Akut Toksisite / Cilt ile teması halinde toksiktir.",
+        "id": "t2"
+      },
+      {
+        "k": "H312",
+        "a": "Cilt Yolu ile Akut Toksisite / Cilt ile teması halinde zararlıdır.",
+        "id": "t2"
+      },
+      {
+        "k": "H314",
+        "a": "Ciltte Aşınma/Tahriş / Ciddi cilt yanıklarına ve göz hasarına yol açar.",
+        "id": "t3,t4"
+      },
+      {
+        "k": "H315",
+        "a": "Ciltte Aşınma/Tahriş / Cilt tahrişine yol açar.",
+        "id": "t3"
+      },
+      {
+        "k": "H317",
+        "a": "Ciltte Hassasiyet / Alerjik cilt reaksiyonlarına yol açabilir.",
+        "id": "t4"
+      },
+      {
+        "k": "H318",
+        "a": "Göz Hasarı/Göz Tahrişi / Ciddi göz hasarına yol açar.",
+        "id": "t5"
+      },
+      {
+        "k": "H319",
+        "a": "Göz Hasarı/Göz Tahrişi / Ciddi göz tahrişine yol açar.",
+        "id": "t5"
+      },
+      {
+        "k": "H330",
+        "a": "Solunum Yolu ile Akut Toksisite / Solunması halinde öldürücüdür.",
+        "id": "t1"
+      },
+      {
+        "k": "H331",
+        "a": "Solunum Yolu ile Akut Toksisite / Solunması halinde toksiktir.",
+        "id": "t1"
+      },
+      {
+        "k": "H332",
+        "a": "Solunum Yolu ile Akut Toksisite / Solunması halinde zararlıdır.",
+        "id": "t6"
+      },
+      {
+        "k": "H334",
+        "a": "Soluma Hassasiyeti / Solunması halinde nefes alma zorlukları, astım nöbetleri veya alerjiye yol açabilir.",
+        "id": "t6"
+      },
+      {
+        "k": "H335",
+        "a": "Belirli Hedef Organ Toksisitesi / Solunum yolu tahrişine yol açabilir.",
+        "id": "t6"
+      },
+      {
+        "k": "H336",
+        "a": "Belirli Hedef Organ Toksisitesi / Rehavete veya baş dönmesine yol açabilir.",
+        "id": "t7"
+      },
+      {
+        "k": "H340",
+        "a": "Eşey Hücre Mutajenitesi / Genetik hasara yol açabilir.",
+        "id": "m0"
+      },
+      {
+        "k": "H341",
+        "a": "Eşey Hücre Mutajenitesi / Genetik hasara yol açma şüphesi var.",
+        "id": "m0"
+      },
+      {
+        "k": "H350",
+        "a": "Kanserojen / Kansere yol açabilir.",
+        "id": "k0"
+      },
+      {
+        "k": "H351",
+        "a": "Kanserojen / Kansere yol açma şüphesi var.",
+        "id": "k0"
+      },
+      {
+        "k": "H360",
+        "a": "Üreme Sistemi Toksisitesi / Doğmamış çocukta hasara yol açabilir veya üremeye zarar verebilir.",
+        "id": "u0"
+      },
+      {
+        "k": "H361",
+        "a": "Üreme Sistemi Toksisitesi / Doğmamış çocukta hasara yol açma veya üremeye zarar verme şüphesi var.",
+        "id": "u0"
+      },
+      {
+        "k": "H362",
+        "a": "Üreme Sistemi Toksisitesi / Emzirilen çocuğa zarar verebilir.",
+        "id": "u1"
+      },
+      {
+        "k": "H370",
+        "a": "Belirli Hedef Organ Toksisitesi / Organlarda hasara yol açar.",
+        "id": "u2"
+      },
+      {
+        "k": "H371",
+        "a": "Belirli Hedef Organ Toksisitesi / Organlarda hasara yol açabilir.",
+        "id": "u2"
+      },
+      {
+        "k": "H372",
+        "a": "Belirli Hedef Organ Toksisitesi / Uzun süreli veya tekrarlı maruz kalma sonucu organlarda hasara yol açar.",
+        "id": "u3"
+      },
+      {
+        "k": "H373",
+        "a": "Belirli Hedef Organ Toksisitesi / Uzun süreli veya tekrarlı maruz kalma sonucu organlarda hasara yol açabilir.",
+        "id": "u3"
+      },
+      {
+        "k": "H400",
+        "a": "Sucul Ortama Zararlı Akut Zararlılık / Sucul ortamda çok toksiktir.",
+        "id": "c0"
+      },
+      {
+        "k": "H410",
+        "a": "Sucul Ortama Zararlı Kronik Zararlılık / Sucul ortamda uzun süre kalıcı, çok toksik etki.",
+        "id": "c0"
+      },
+      {
+        "k": "H411",
+        "a": "Sucul Ortama Zararlı Kronik Zararlılık / Sucul ortamda uzun süre kalıcı, toksik etki.",
+        "id": "c0"
+      },
+      {
+        "k": "H412",
+        "a": "Sucul Ortama Zararlı Kronik Zararlılık / Sucul ortamda uzun süre kalıcı, zararlı etki.",
+        "id": "c0"
+      },
+      {
+        "k": "H413",
+        "a": "Sucul Ortama Zararlı Kronik Zararlılık / Sucul ortamda uzun süre kalıcı, zararlı etki yapabilir.",
+        "id": "c0"
+      },
+      {
+        "k": "H420",
+        "a": "Ozon Tabakasına Zararlı / Atmosferin üst katmanındaki ozon tabakasını tahrip ederek halk sağlığına ve çevreye zarar verir.",
+        "id": "c1"
+      }
+    ]
+  }
+]
