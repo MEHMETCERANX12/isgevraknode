@@ -1,7 +1,6 @@
 [
   {
-    "Katı":
-    {
+    "Katı": {
       "P1": [
         {
           "f": "Kimyasalın çalışma ortamına yayılmasını ve çalışanların solunum yoluyla maruziyetini önlemek amacıyla, yeterli hava emiş kapasitesine sahip cebri çekişli havalandırma sistemi ile kimyasal mümkün olduğunca kaynağından emilerek ortamdan uzaklaştırılmalıdır.",
@@ -217,8 +216,7 @@
     }
   },
   {
-    "Sıvı":
-    {
+    "Sıvı": {
       "P1": [
         {
           "f": "Kimyasal buhar ve aerosollerin çalışma ortamına yayılmasını ve çalışanların solunum yoluyla maruziyetini önlemek amacıyla, yeterli hava emiş kapasitesine sahip cebri çekişli havalandırma sistemi ile kimyasal buharlar mümkün olduğunca kaynağından emilerek ortamdan uzaklaştırılmalıdır.",
@@ -454,8 +452,7 @@
     }
   },
   {
-    "Gaz":
-    {
+    "Gaz": {
       "P1": [
         {
           "f": "Kimyasal gazın çalışma ortamına yayılmasını ve çalışanların solunum yoluyla maruziyetini önlemek amacıyla, yeterli hava emiş kapasitesine sahip cebri çekişli havalandırma sistemi ile gazın mümkün olduğunca kaynağından emilerek ortamdan uzaklaştırılmalıdır.",
@@ -667,8 +664,31 @@
     }
   },
   {
-    "Risk":
-    [
+    "x": {
+      "P7": [
+        {
+          "f": "Kimyasalların göze sıçrama riskine karşı, ilgili EN 166 standardına uygun, göz çevresini tamamen kapatan ve kimyasal sıçramalarına karşı koruma sağlayan sızdırmaz koruyucu gözlük kullanılmalıdır.",
+          "g": "Çalışanlara kimyasal sıçramalarına karşı koruma sağlayan, göz çevresini tamamen kapatan uygun koruyucu gözlükler temin edilmekte ve çalışma sırasında kullanılması sağlanmaktadır."
+        },
+        {
+          "f": "Kimyasalın göze temas etmesi durumunda, gözlerin derhal ve kesintisiz şekilde bol suyla yıkanabilmesi için çalışma alanında kolay erişilebilir, uygun göz yıkama ekipmanı bulundurulmalıdır.",
+          "g": "Çalışma alanında, kimyasalların göze temas etmesi durumunda hızlı müdahale edilebilmesi amacıyla kolay erişilebilir göz yıkama solüsyonu ve lavabo bulunmaktadır."
+        }
+      ],
+      "P10": [
+        {
+          "f": "Kimyasal kullanılan veya depolanan alanlarda yiyecek ve içecek bulundurulmamalı, yemek yenmemeli ve içecek tüketilmemelidir.",
+          "g": "Kimyasal kullanılan alanlarda yiyecek ve içecek bulundurulması ve tüketilmesi yasaklanmıştır."
+        },
+        {
+          "f": "Kimyasalın bulunduğu kap üzerinde, kimyasalın tehlikeli özelliklerini, zararlılık işaretlerini ve gerekli uyarıları içeren, okunaklı ve mevzuata uygun etiketler bulunmalıdır.",
+          "g": "Kimyasallar üzerinde uygun etiketleme ve zararlılık işaretleri bulunmaktadır."
+        }
+      ]
+    }
+  },
+  {
+    "Risk": [
       {
         "id": "p0",
         "c": "Patlayıcı madde",
@@ -948,12 +968,31 @@
         "l": 6,
         "m": "0.2",
         "q": "P4"
+      },
+      {
+        "id": "x1",
+        "c": "Kimyasal maddenin ağız yoluyla yutulması",
+        "d": "Kimyasalın yutulması sonucu oluşabilecek sağlık sorunları",
+        "e": "Kimyasal kullanan çalışanlar",
+        "k": 15,
+        "l": 6,
+        "m": "0.5",
+        "q": "P10"
+      },
+      {
+        "id": "x2",
+        "c": "Kimyasal maddenin göz ile temas etmesi",
+        "d": "Gözde hasar oluşması",
+        "e": "Kimyasal kullanan çalışanlar",
+        "k": 3,
+        "l": 6,
+        "m": 1,
+        "q": "P7"
       }
     ]
   },
   {
-    "kod":
-    [
+    "kod": [
       {
         "k": "H200",
         "a": "Patlayıcı / Kararsız patlayıcı.",
