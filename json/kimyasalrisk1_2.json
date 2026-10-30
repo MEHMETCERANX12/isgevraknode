@@ -770,6 +770,16 @@
         "q": "P14"
       },
       {
+        "id": "y7",
+        "c": "Kimyasalın, tutuşturucu veya sürütünme sonucunda alevelenmesi",
+        "d": "Patlama sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
+        "e": "Tüm çalışanlar ve 3.Şahıslar",
+        "k": 100,
+        "l": 6,
+        "m": 1,
+        "q": "P2"
+      },
+      {
         "id": "o1",
         "c": "Oksitleyici gazın, yanıcı madde ile teması sonucunda oluşabilecek yangın",
         "d": "Yangın sonucunda birden fazla kişinin etkilenebileceği ölümlü veya ağır yaralanmalı iş kazası meydana gelmesi",
