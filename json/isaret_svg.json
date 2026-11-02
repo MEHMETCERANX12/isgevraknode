@@ -1,0 +1,442 @@
+[
+  {
+    "f": "mek01.svg",
+    "k": "Mekanik",
+    "a": "Ağır Yük Taşıma Kapasitesi - ISO 7010"
+  },
+  {
+    "f": "mek03.svg",
+    "k": "Mekanik",
+    "a": "Bakım Onarım Kilit EKED - ISO 7010"
+  },
+  {
+    "f": "mek04.svg",
+    "k": "Mekanik",
+    "a": "Solunum Koruyucu Donanım Kullan - ISO 7010"
+  },
+  {
+    "f": "mek05.svg",
+    "k": "Mekanik",
+    "a": "Koruyucu Kapak - ISO 7010"
+  },
+  {
+    "f": "mek06.svg",
+    "k": "Mekanik",
+    "a": "Dokunmak Yasak - ISO 7010"
+  },
+  {
+    "f": "mek07.svg",
+    "k": "Mekanik",
+    "a": "Kilitleyiniz - ISO 7010"
+  },
+  {
+    "f": "mek08.svg",
+    "k": "Mekanik",
+    "a": "Elinizi Dezenfekte Ediniz - ISO 7010"
+  },
+  {
+    "f": "mek09.svg",
+    "k": "Mekanik",
+    "a": "Makine Hareketi El Sıkışması - ISO 7010"
+  },
+  {
+    "f": "mek10.svg",
+    "k": "Mekanik",
+    "a": "Elinizi Yıkayınız - ISO 7010"
+  },
+  {
+    "f": "mek11.svg",
+    "k": "Mekanik",
+    "a": "Emniyet Kemeri Takınız - ISO 7010"
+  },
+  {
+    "f": "mek12.svg",
+    "k": "Mekanik",
+    "a": "Endüstriyel Araçlar Giremez - ISO 7010"
+  },
+  {
+    "f": "mek13.svg",
+    "k": "Mekanik",
+    "a": "Geçiti Kullanınız - ISO 7010"
+  },
+  {
+    "f": "mek14.svg",
+    "k": "Mekanik",
+    "a": "Dişlilere Sıkışma - ISO 7010"
+  },
+  {
+    "f": "mek18.svg",
+    "k": "Mekanik",
+    "a": "Kapağı Kapatarak Çalışınız - ISO 7010"
+  },
+  {
+    "f": "mek19.svg",
+    "k": "Mekanik",
+    "a": "Kaynakçı Siperi Kullan - ISO 7010"
+  },
+  {
+    "f": "mek20.svg",
+    "k": "Mekanik",
+    "a": "Koruyucu Krem Kullan - ISO 7010"
+  },
+  {
+    "f": "mek22.svg",
+    "k": "Mekanik",
+    "a": "Kullanım Kılavuzunu Oku - ISO 7010"
+  },
+  {
+    "f": "kim07.svg",
+    "k": "Mekanik",
+    "a": "El Sıkışması - ISO 7010"
+  },
+  {
+    "f": "mek24.svg",
+    "k": "Mekanik",
+    "a": "Yapay Aydınlatmayı Kullan - ISO 7010"
+  },
+  {
+    "f": "mek25.svg",
+    "k": "Mekanik",
+    "a": "Fişi Prizden Çıkar - ISO 7010"
+  },
+  {
+    "f": "mek27.svg",
+    "k": "Mekanik",
+    "a": "Sıkışma Riski - ISO 7010"
+  },
+  {
+    "f": "mek28.svg",
+    "k": "Mekanik",
+    "a": "Testere Koruyucusunu Kapat - ISO 7010"
+  },
+  {
+    "f": "mek29.svg",
+    "k": "Mekanik",
+    "a": "Topraklama Yapınız - ISO 7010"
+  },
+  {
+    "f": "mek31.svg",
+    "k": "Mekanik",
+    "a": "Yemek İçmek Yasak - ISO 7010"
+  },
+  {
+    "f": "guv11.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış - ISO 7010"
+  },
+  {
+    "f": "guv01.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış - ISO 7010"
+  },
+  {
+    "f": "guv12.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış - ISO 7010"
+  },
+  {
+    "f": "guv13.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış - ISO 7010"
+  },
+  {
+    "f": "guv14.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış - ISO 7010"
+  },
+  {
+    "f": "guv15.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış - ISO 7010"
+  },
+  {
+    "f": "guv16.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış - ISO 7010"
+  },
+  {
+    "f": "guv17.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış - ISO 7010"
+  },
+  {
+    "f": "guv02.svg",
+    "k": "Güvenlik",
+    "a": "İlkyardım - ISO 7010"
+  },
+  {
+    "f": "guv03.svg",
+    "k": "Güvenlik",
+    "a": "Göz Solüsyonu - ISO 7010"
+  },
+  {
+    "f": "guv04.svg",
+    "k": "Güvenlik",
+    "a": "Acil Duş - ISO 7010"
+  },
+  {
+    "f": "guv05.svg",
+    "k": "Güvenlik",
+    "a": "Sedye - ISO 7010"
+  },
+  {
+    "f": "guv06.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış Sağdan Sola - ISO 7010"
+  },
+  {
+    "f": "guv09.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış Soldan Sağa - ISO 7010"
+  },
+  {
+    "f": "guv07.svg",
+    "k": "Güvenlik",
+    "a": "Acil Çıkış Cam Kırma - ISO 7010"
+  },
+  {
+    "f": "guv08.svg",
+    "k": "Güvenlik",
+    "a": "Acil Toplanma Alanı - ISO 7010"
+  },
+  {
+    "f": "guv10.svg",
+    "k": "Güvenlik",
+    "a": "Kaçış Merdiveni - ISO 7010"
+  },
+  {
+    "f": "kim01.svg",
+    "k": "Kimyasal",
+    "a": "Patlama - ISO 7010"
+  },
+  {
+    "f": "kim02.svg",
+    "k": "Kimyasal",
+    "a": "Radyasyon - ISO 7010"
+  },
+  {
+    "f": "kim04.svg",
+    "k": "Kimyasal",
+    "a": "Toksik - ISO 7010"
+  },
+  {
+    "f": "kim05.svg",
+    "k": "Kimyasal",
+    "a": "Yanıcı - ISO 7010"
+  },
+  {
+    "f": "kim06.svg",
+    "k": "Kimyasal",
+    "a": "Aşındırıcı - ISO 7010"
+  },
+  {
+    "f": "kim08.svg",
+    "k": "Kimyasal",
+    "a": "Oksitleyici - ISO 7010"
+  },
+  {
+    "f": "kim18.svg",
+    "k": "Kimyasal",
+    "a": "Çevreye Zararlı - ISO 7010"
+  },
+  {
+    "f": "kim09.svg",
+    "k": "Kimyasal",
+    "a": "MSDS - ISO 7010"
+  },
+  {
+    "f": "kim10.svg",
+    "k": "Kimyasal",
+    "a": "Aşındırıcı - GHS"
+  },
+  {
+    "f": "kim11.svg",
+    "k": "Kimyasal",
+    "a": "Çevreye Zararlı - GHS"
+  },
+  {
+    "f": "kim12.svg",
+    "k": "Kimyasal",
+    "a": "Kanserojen, Mutajen, Üreme veya Organ İçin Toksik - GHS"
+  },
+  {
+    "f": "kim13.svg",
+    "k": "Kimyasal",
+    "a": "Oksitleyici - GHS"
+  },
+  {
+    "f": "kim14.svg",
+    "k": "Kimyasal",
+    "a": "Patlayıcı - GHS"
+  },
+  {
+    "f": "kim15.svg",
+    "k": "Kimyasal",
+    "a": "Toksik - GHS"
+  },
+  {
+    "f": "kkd01.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "İş Gözlüğü - DIN 4844-2"
+  },
+  {
+    "f": "kkd02.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "Baret - DIN 4844-2"
+  },
+  {
+    "f": "kkd03.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "Kulaklık - DIN 4844-2"
+  },
+  {
+    "f": "kkd04.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "Maske - DIN 4844-2"
+  },
+  {
+    "f": "kkd05.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "İş Ayakkabısı - DIN 4844-2"
+  },
+  {
+    "f": "kkd06.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "İş Eldiveni - DIN 4844-2"
+  },
+  {
+    "f": "kkd07.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "İş Elbisesi - DIN 4844-2"
+  },
+  {
+    "f": "kkd08.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "Yüz Siperi - DIN 4844-2"
+  },
+  {
+    "f": "kkd09.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "Emniyet Kemeri - DIN 4844-2"
+  },
+  {
+    "f": "kkd10.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "Emniyet Kemeri - DIN 4844-2"
+  },
+  {
+    "f": "mek02.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "Antistatik İş Ayakkabısı - DIN 4844-2"
+  },
+  {
+    "f": "mek26.svg",
+    "k": "Kişisel Koruyucu Donanım",
+    "a": "Reflektörlü İş Elbisesi Giy - ISO 7010"
+  },
+  {
+    "f": "yan01.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Yangın Söndürme Tüpü - ISO 7010"
+  },
+  {
+    "f": "yan03.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Yangın Söndürme Tüpü - ISO 7010"
+  },
+  {
+    "f": "yan07.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Yangın Hortumu - ISO 7010"
+  },
+  {
+    "f": "yan02.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Yangın Battaniyesi - ISO 7010"
+  },
+  {
+    "f": "yan04.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Sigara İçilmez - ISO 7010"
+  },
+  {
+    "f": "yan05.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Patlayıcı Ortam - Türkiye"
+  },
+  {
+    "f": "yan10.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Exproof Ekipman - ATEX"
+  },
+  {
+    "f": "yan06.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Ateşle Çalışmak Yasak - ISO 7010"
+  },
+  {
+    "f": "yan08.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Suyla Ateş Söndürmek Yasak - ISO 7010"
+  },
+  {
+    "f": "yan09.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Yanıcı Mataryel - ISO 7010"
+  },
+  {
+    "f": "mek30.svg",
+    "k": "Yangın Patlayıcı Ortam",
+    "a": "Yangın Anında Asansör Kullanmayınız - ISO 7010"
+  },
+    {
+    "f": "gaz01.svg",
+    "k": "Gaz Tüpü",
+    "a": "Gaz Tüpünü Zincirleme - ISO 7010"
+  },
+  {
+    "f": "gaz02.svg",
+    "k": "Gaz Tüpü",
+    "a": "Gaz Tüpünü Zincirleme - Peru"
+  },
+  {
+    "f": "gaz03.svg",
+    "k": "Gaz Tüpü",
+    "a": "Basınçlı Gaz Tüpü - ISO 7010"
+  },
+    {
+    "f": "dig02.svg",
+    "k": "Diğer",
+    "a": "Dikkat Köpek - ISO 7010"
+  },
+  {
+    "f": "dig01.svg",
+    "k": "Diğer",
+    "a": "Yükün Altında Durmama - ISO 7010"
+  },
+  {
+    "f": "kim03.svg",
+    "k": "Diğer",
+    "a": "Forklift - ISO 7010"
+  },
+  {
+    "f": "dig03.svg",
+    "k": "Diğer",
+    "a": "Elektrik Tehlikesi - ISO 7010"
+  },
+  {
+    "f": "dig04.svg",
+    "k": "Diğer",
+    "a": "Kayma Düşme - ISO 7010"
+  },
+  {
+    "f": "dig05.svg",
+    "k": "Diğer",
+    "a": "Cep Telefonu Yasağı - ISO 7010"
+  },
+  {
+    "f": "dig06.svg",
+    "k": "Diğer",
+    "a": "Dikkat Tehlike - ISO 7010"
+  }
+]
