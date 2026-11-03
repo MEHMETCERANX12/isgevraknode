@@ -72,7 +72,7 @@ async function temelisgsertifikauret(yon)
             { text: 'TEMEL EĞİTİM BELGESİ', style: 'ustbaslik', margin: [0, 50, 0, 30] },
             { text: '\u200B\t\tİşbu belge,', style: 'normalsatir', margin: [40, 5, 10, 5] },
             { text: '\u200B\t\t' + calisanAdi + '/' + calisanUnvani + ' adına', style: 'normalsatir', margin: [40, 5, 10, 5] },
-            { text: '\u200B\t\tÇalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik kapsamında ' + uzmanad + ' İş Güvenliği Uzmanı - ' + hekimad + ' İşyeri Hekimi ' + uzmankurum + ' Ortak Sağlık ve Güvenlik Birimi tarafından ' + katilimtarih + ' tarihinde gerçekleştirilen temel eğitim sonunda düzenlenmiştir.', style: 'normalsatir', margin: [40, 5, 40, 5] },
+            { text: '\u200B\t\tÇalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik kapsamında ' + uzmanad + ' İş Güvenliği Uzmanı - ' + hekimad + ' İşyeri Hekimi ' + uzmankurum + ' tarafından ' + katilimtarih + ' tarihinde gerçekleştirilen temel eğitim sonunda düzenlenmiştir.', style: 'normalsatir', margin: [40, 5, 40, 5] },
             { text: '\u200B\t\tÇalışanın İşyerinin Ünvanı', style: 'kalinsatir', margin: [40, 5, 40, 5] },
             { text: '\u200B\t\t' + isyeriismi, style: 'normalsatir', margin: [40, 5, 40, 5] },
             { text: '\u200B\t\tBelge Düzenlenme Tarihi', style: 'kalinsatir', margin: [40, 5, 40, 5] },
