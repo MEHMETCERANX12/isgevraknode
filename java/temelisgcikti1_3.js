@@ -89,7 +89,7 @@ async function temelisgsertifikauret(yon)
             { text: 'TEMEL EĞİTİM BELGESİ', style: 'ustbaslik', margin: [0, 50, 0, 30] },
             { text: '\u200B\t\t\t\t\t\t\t\tİşbu belge,', style: 'normalsatir', margin: [0, 0, 0, 5]},
             { text: '\u200B\t\t\t\t\t\t\t\t' + calisanAdi + '/' + calisanUnvani + ' adına', style: 'normalsatir', margin: [0, 0, 0, 10]},
-            { text: '\u200B\t\t\tÇalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik kapsamında ' + uzmanad + ' İş Güvenliği Uzmanı - ' + hekimad + ' İşyeri Hekimi ' + uzmankurum + ' Ortak Sağlık ve Güvenlik Birimi tarafından ' + katilimtarih + ' tarihinde gerçekleştirilen temel eğitim sonunda düzenlenmiştir.', style: 'normalsatir', margin: [55,0,55,10]},
+            { text: '\u200B\t\t\tÇalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik kapsamında ' + uzmanad + ' İş Güvenliği Uzmanı - ' + hekimad + ' İşyeri Hekimi ' + uzmankurum + ' tarafından ' + katilimtarih + ' tarihinde gerçekleştirilen temel eğitim sonunda düzenlenmiştir.', style: 'normalsatir', margin: [55,0,55,10]},
             { text: '\u200B\t\t\t\t\t\t\t\tÇalışanın İşyerinin Ünvanı: ' + isyeriismi, style: 'normalsatir', margin: [0, 0, 0, 5] },            
             { text: '\u200B\t\t\t\t\t\t\t\tBelge Düzenlenme Tarihi: ' + belgetarih, style: 'normalsatir', margin: [0, 0, 0, 5]},            
             { text: '\u200B\t\t\t\t\t\t\t\tEğitimin Süresi: ' + saatdagilim, style: 'normalsatir', margin: [0, 0, 0, 5] },
