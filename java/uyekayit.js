@@ -248,7 +248,7 @@ async function veridogrulama()
         }
         else
         {
-            uyarimesaj("Başarı ile oluşturuldu.");
+            alertify.alert().setting({ title: "Kayıt Başarılı", message: "Başarı ile oluşturuldu.", transition: "flipy", label: "TAMAM",  onok: function() { window.location.href = "/";}}).show();
         }
         return true;
     }
