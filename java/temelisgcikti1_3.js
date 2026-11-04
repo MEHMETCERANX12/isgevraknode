@@ -553,7 +553,7 @@ async function temelisgyenikatilimlistesiyaz()
     }
     if (bossatir === 0 && (!Array.isArray(calisanliste) || calisanliste.length === 0))
     {
-        calisanliste = Array.from({ length: 12 }, function ()
+        calisanliste = Array.from({ length: chunkSize }, function ()
         {
             return { a: "", u: "" };
         });
