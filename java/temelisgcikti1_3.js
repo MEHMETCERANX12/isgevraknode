@@ -590,9 +590,9 @@ async function temelisgyenikatilimlistesiyaz()
                 { text: '' }
             ],
             [
-                { text: '', colSpan: 2, margin: [25, 25] },
+                { text: '', colSpan: 2, margin: [20, 20] },
                 { text: '' },
-                { text: '', colSpan: 2, margin: [25, 25] },
+                { text: '', colSpan: 2, margin: [20, 20] },
                 { text: '' }
             ]
         );
