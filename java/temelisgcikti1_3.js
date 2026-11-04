@@ -476,6 +476,22 @@ function temelisgyeniKatilimListeAyriOku()
     return String(egitim.e ?? "0");
 }
 
+function katilimsatirhesabı(isgegitimveri)
+{
+    var gruplar = temelisgkonubulma(isgegitimveri || {});
+    var gunlukKonuSayilari = {};
+    gruplar.forEach(function (grup)
+    {
+        var gunNo = parseInt(grup.g, 10) || 1;
+        gunlukKonuSayilari[gunNo] = (gunlukKonuSayilari[gunNo] || 0) + (Array.isArray(grup.konular) ? grup.konular.length : 0);
+    });
+    var gunlukEnFazlaKonu = Object.keys(gunlukKonuSayilari).reduce(function (enFazla, gunNo)
+    {
+        return Math.max(enFazla, gunlukKonuSayilari[gunNo]);
+    }, 0);
+    return Math.max(1, 12 - Math.ceil(Math.max(0, gunlukEnFazlaKonu - 20) / 5));
+}
+
 function temelisgyeniKatilimKonuMetniOlustur(isgegitimveri, gunVeri)
 {
     var gunKonulari = Array.isArray(gunVeri && gunVeri.konular) ? gunVeri.konular : [];
@@ -527,6 +543,7 @@ async function temelisgyenikatilimlistesiyaz()
     var calisanliste = temelisgyeniSeciliCalisanlariOku();
     var seciliCalisanlar = Array.isArray(calisanliste) ? calisanliste.slice() : [];
     var ayriKatilimListesi = temelisgyeniKatilimListeAyriOku() === "1" && seciliCalisanlar.length > 0;
+    var chunkSize = katilimsatirhesabı(isgegitimveri);
     if (bossatir > 0)
     {
         calisanliste = calisanliste.concat(Array.from({ length: bossatir }, function ()
@@ -590,9 +607,9 @@ async function temelisgyenikatilimlistesiyaz()
                 { text: '' }
             ],
             [
-                { text: '', colSpan: 2, margin: [20, 20] },
+                { text: '', colSpan: 2, margin: [25, 25] },
                 { text: '' },
-                { text: '', colSpan: 2, margin: [20, 20] },
+                { text: '', colSpan: 2, margin: [25, 25] },
                 { text: '' }
             ]
         );
@@ -625,7 +642,6 @@ async function temelisgyenikatilimlistesiyaz()
     }
     else
     {
-        var chunkSize = 12;
         for (var gunNo = 1; gunNo <= toplamgun; gunNo++)
         {
             for (var baslangic = 0; baslangic < calisanliste.length; baslangic += chunkSize)
@@ -1100,7 +1116,6 @@ function temelisgyeniSinavIcerigiOlustur(calisanjson, tarih, sinavimzaalani, sor
             }
         };
     }
-
     calisanlar.forEach(function (calisan, calisanIndex)
     {
         var karisikSorular = sorulariKaristir(secilenSorular);
