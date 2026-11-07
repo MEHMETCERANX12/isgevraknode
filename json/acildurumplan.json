@@ -4893,6 +4893,48 @@
       "hastane": "Süloğlu İlçe Devlet Hastanesi",
       "adres": "Şafak Mahallesi Edirne Caddesi No:33 Süloğlu/Edirne",
       "telefon": "0 284 311 30 18"
-    }    
+    },
+    {
+      "il": "Kırklareli",
+      "ilce": "Merkez",
+      "hastane": "Kırklareli Eğitim ve Araştırma Hastanesi",
+      "adres": "Yayla Mahallesi Çamlık Caddesi No:49 Merkez/Kırklareli",
+      "telefon": "0 288 214 10 43",
+    },
+    {
+      "il": "Kırklareli",
+      "ilce": "Lüleburgaz",
+      "hastane": "Lüleburgaz Devlet Hastanesi",
+      "adres": "İstiklal Mahallesi İstanbul Caddesi No:170 Lüleburgaz/Kırklareli",
+      "telefon": "0 288 417 12 24",
+    },
+    {
+      "il": "Kırklareli",
+      "ilce": "Babaeski",
+      "hastane": "Babaeski Devlet Hastanesi",
+      "adres": "Dindoğru Mahallesi 434 Nolu Sokak No:2 Babaeski/Kırklareli",
+      "telefon": "0 288 512 10 44",
+    },
+    {
+      "il": "Kırklareli",
+      "ilce": "Vize",
+      "hastane": "Vize Devlet Hastanesi",
+      "adres": "Namık Kemal Mahallesi Sağlık Sokak No:2 Vize/Kırklareli",
+      "telefon": "0 288 318 33 70",
+    },
+    {
+      "il": "Kırklareli",
+      "ilce": "Pınarhisar",
+      "hastane": "Pınarhisar Devlet Hastanesi",
+      "adres": "Camiikebir Mahallesi 92. Sokak No:42 Pınarhisar/Kırklareli",
+      "telefon": "0 288 615 10 65",
+    },
+    {
+      "il": "Kırklareli",
+      "ilce": "Demirköy",
+      "hastane": "Demirköy İlçe Devlet Hastanesi",
+      "adres": "Hamdibey Mahallesi Muharrem Gülnar Caddesi No:51 Demirköy/Kırklareli",
+      "telefon": "0 288 681 50 70",
+    }   
   ]
 }
