@@ -4766,70 +4766,133 @@
       "ilce": "Merkez",
       "hastane": "Nevşehir Devlet Hastanesi",
       "adres": "15 Temmuz Mahallesi 148. Sokak No:1 Merkez/Nevşehir",
-      "telefon": "+90 (384) 228 50 50"
+      "telefon": "0 384 228 50 50"
     },
     {
       "il": "Nevşehir",
       "ilce": "Ürgüp",
       "hastane": "Ürgüp Devlet Hastanesi",
       "adres": "15 Temmuz Mahallesi Otogar Cad. No:3 Ürgüp/Nevşehir",
-      "telefon": "+90 (384) 341 40 31"
+      "telefon": "0 384 341 40 31"
     },
     {
       "il": "Nevşehir",
       "ilce": "Kozaklı",
       "hastane": "Kozaklı Devlet Hastanesi",
       "adres": "Hoca Ahmet Yesevi Mahallesi, 534 Sokak, Dış Kapı No: 6, Kozaklı/Nevşehir",
-      "telefon": "+90 (384) 471 30 08"
+      "telefon": "0 384 471 30 08"
     },
     {
       "il": "Nevşehir",
       "ilce": "Acıgöl",
       "hastane": "Acıgöl İlçe Devlet Hastanesi",
       "adres": "Çayırlık Mahallesi Hastane Caddesi No:33 Acıgöl/Nevşehir",
-      "telefon": "+90 (384) 311 20 17"
+      "telefon": "0 384 311 20 17"
     },
     {
       "il": "Nevşehir",
       "ilce": "Avanos",
       "hastane": "Avanos İlçe Devlet Hastanesi",
       "adres": "Cumhuriyet Mahallesi Zelve Caddesi No:22 Avanos/Nevşehir",
-      "telefon": "+90 (384) 511 40 21"
+      "telefon": "0 384 511 40 21"
     },
     {
       "il": "Nevşehir",
       "ilce": "Derinkuyu",
       "hastane": "Derinkuyu İlçe Devlet Hastanesi",
       "adres": "Fatih Mahallesi Şehit Erhan Karataş Caddesi No:63 Derinkuyu/Nevşehir",
-      "telefon": "+90 (384) 381 38 93"
+      "telefon": "0 384 381 38 93"
     },
     {
       "il": "Nevşehir",
       "ilce": "Gülşehir",
       "hastane": "Gülşehir İlçe Devlet Hastanesi",
       "adres": "Karavezir Mahallesi, Şehit Er Duran Çekiç Caddesi, No:3-C Gülşehir/Nevşehir",
-      "telefon": "+90 (384) 411 30 06"
+      "telefon": "0 384 411 30 06"
     },
     {
       "il": "Nevşehir",
       "ilce": "Hacıbektaş",
       "hastane": "Hacıbektaş İlçe Devlet Hastanesi",
       "adres": "Bala Mahallesi Hastane Caddesi No:4/1 Hacıbektaş/Nevşehir",
-      "telefon": "+90 (384) 441 30 15"
+      "telefon": "0 384 441 30 15"
     },
     {
       "il": "Nevşehir",
       "ilce": "Merkez",
       "hastane": "Nevşehir Ağız ve Diş Sağlığı Merkezi",
       "adres": "15 Temmuz Mahallesi, Sıhhat Sokak No:12 Merkez/Nevşehir",
-      "telefon": "+90 (384) 215 42 91"
+      "telefon": "0 384 215 42 91"
     },
     {
       "il": "Nevşehir",
       "ilce": "Kozaklı",
       "hastane": "Kozaklı Fizik Tedavi ve Rehabilitasyon Hastanesi",
       "adres": "Emek Mahallesi, Kaplıca Caddesi No:121 Kozaklı/Nevşehir",
-      "telefon": "+90 (384) 471 25 99"
-    }
+      "telefon": "0 384 471 25 99"
+    },
+    {
+      "il": "Edirne",
+      "ilce": "Merkez",
+      "hastane": "Edirne Sultan 1. Murat Devlet Hastanesi",
+      "adres": "Fatih Mahallesi Alparslan Türkeş Caddesi No:3 İç Kapı No:1 Merkez/Edirne",
+      "telefon": "0 284 214 55 10"
+    },
+    {
+      "il": "Edirne",
+      "ilce": "Keşan",
+      "hastane": "Keşan Devlet Hastanesi",
+      "adres": "Aşağı Zaferiye Mahallesi Evreşe Caddesi 22900 Keşan/Edirne",
+      "telefon": "0 284 714 34 34"
+    },
+    {
+      "il": "Edirne",
+      "ilce": "Uzunköprü",
+      "hastane": "Uzunköprü Devlet Hastanesi",
+      "adres": "Muradiye Mahallesi 19 Mayıs Caddesi Uzunköprü/Edirne",
+      "telefon": "0 284 513 10 88"
+    },
+    {
+      "il": "Edirne",
+      "ilce": "İpsala",
+      "hastane": "İpsala Devlet Hastanesi",
+      "adres": "Bayrambey Mahallesi, Dr. Sadık Ahmet Caddesi No:96 İpsala/Edirne",
+      "telefon": "0 284 616 13 81"
+    },
+    {
+      "il": "Edirne",
+      "ilce": "Meriç",
+      "hastane": "Meriç İlçe Devlet Hastanesi",
+      "adres": "Büyükdoğanca Mahallesi Ahmet Tosun Caddesi Meriç İlçe Emniyet Amirliği Yanı No:60 Meriç/Edirne",
+      "telefon": "0 284 415 13 76"
+    },
+    {
+      "il": "Edirne",
+      "ilce": "Havsa",
+      "hastane": "Edirne Sultan 1. Murat Devlet Hastanesi Ek Bina-3 Havsa Ünitesi",
+      "adres": "Fatih Mahallesi Fatih Caddesi No:289/2 Havsa/Edirne",
+      "telefon": "0 284 336 10 24"
+    },
+    {
+      "il": "Edirne",
+      "ilce": "Enez",
+      "hastane": "Enez İlçe Devlet Hastanesi",
+      "adres": "Yeni Mahalle Milli Egemenlik Caddesi No:69 Enez/Edirne",
+      "telefon": "0 284 811 66 56"
+    },
+    {
+      "il": "Edirne",
+      "ilce": "Lalapaşa",
+      "hastane": "Lalapaşa İlçe Devlet Hastanesi",
+      "adres": "Merkez Mahallesi Sağlık Sokak No:2 Lalapaşa/Edirne",
+      "telefon": "0 284 321 42 52"
+    },
+    {
+      "il": "Edirne",
+      "ilce": "Süloğlu",
+      "hastane": "Süloğlu İlçe Devlet Hastanesi",
+      "adres": "Şafak Mahallesi Edirne Caddesi No:33 Süloğlu/Edirne",
+      "telefon": "0 284 311 30 18"
+    }    
   ]
 }
